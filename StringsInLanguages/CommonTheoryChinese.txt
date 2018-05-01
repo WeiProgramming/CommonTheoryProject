@@ -27,8 +27,7 @@ BuffaloCauliflowerDesc
 CapreseTitl
 卡普雷塞
 CapreseDesc
-成熟的番茄 / 新鲜的奶酪 / 
-杏仁罗勒香蒜酱 / 蜂蜜香脂减少 / 大蒜油 (我们有素食选择)
+成熟的番茄 / 新鲜的奶酪 / 杏仁罗勒香蒜酱 / 蜂蜜香脂减少 / 大蒜油 (我们有素食选择)
 CrispyChickenWingsTitl
 香脆的鸡翅膀
 CrispyChickenWingsDesc
