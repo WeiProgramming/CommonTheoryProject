@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="OurMenuTitl" xml:space="preserve">
+    <value>القائمة لدينا</value>
+  </data>
+  <data name="DuckDuckFryTitl" xml:space="preserve">
+    <value>بطة بطة فراي</value>
+  </data>
+  <data name="DuckFatFriesTitl" xml:space="preserve">
+    <value>بطة دجاج فرايز</value>
+  </data>
+  <data name="DuckFatFriesDesc" xml:space="preserve">
+    <value>بطاطس مقلية / بطة تمزيقه / بصل أخضر (خيار خال من الغلوتين متوفر عند الطلب)</value>
+  </data>
+  <data name="DoubleDuckFriesTitl" xml:space="preserve">
+    <value>بطة مزدوجة فرايز</value>
+  </data>
+  <data name="DoubleDuckFriesDesc" xml:space="preserve">
+    <value>بطاطس مقلية / بطة تمزيقه / بطة مقرمشة / بصل أخضر / (خيار خال من الغلوتين متوفر عند الطلب)</value>
+  </data>
+  <data name="FlockOfDuckFriesTitl" xml:space="preserve">
+    <value>قطيع من بط فرايز</value>
+  </data>
+  <data name="FlockOfFuckFriesDesc" xml:space="preserve">
+    <value>بطاطس مقلية / بطة تمزيقه / بطة مقرمشة / مرق / بطة بيض مقلي / بصل أخضر</value>
+  </data>
+  <data name="StartersTitl" xml:space="preserve">
+    <value>مقبلات</value>
+  </data>
+  <data name="BeetAndWatermelonPokeTitl" xml:space="preserve">
+    <value>البنجر والبطيخ كزة</value>
+  </data>
+  <data name="BeetAndWatermelonPokeDesc" xml:space="preserve">
+    <value>البنجر المحمص المملح / البطيخ المحمص / زيت بذور الكتان / فاصوليا البحر / البصل / الخيار / نوري / زيت السمسم / رقائق القلقاس / (خيار نباتي متاح)</value>
+  </data>
+  <data name="BuffaloCauliflowerTitl" xml:space="preserve">
+    <value>بوفالو القرنبيط</value>
+  </data>
+  <data name="BuffaloCauliflowerDesc" xml:space="preserve">
+    <value>القرنبيط المحمص / طحين الأرز / صلصة الجاموس / مزرعة البيت (1 الفلفل متوسطة)</value>
+  </data>
+  <data name="CapreseTitl" xml:space="preserve">
+    <value>الكابريزي</value>
+  </data>
+  <data name="CapreseDesc" xml:space="preserve">
+    <value>الطماطم الكرمة الناضجة / جبنة الموزاريلا الطازجة / اللوز الباسيليستو / العسل تخفيض البلسميك / زيت الثوم (خيار نباتي متاح)</value>
+  </data>
+  <data name="CrispyChickenWingsTitl" xml:space="preserve">
+    <value>أجنحة الدجاج المقرمشة</value>
+  </data>
+  <data name="CrispyChickenWingsDesc" xml:space="preserve">
+    <value>أجنحة دجاج جامبو / ملح البحر / فلفل مطحون / رقائق الفلفل الأحمر. اختر: الملح والفلفل ، والحلو والحار ، أو النار الجحيم ، 2 فلفل حار</value>
+  </data>
+  <data name="OGFriedBrusselsTitl" xml:space="preserve">
+    <value>براعم بروكسل المقلي الأصلي</value>
+  </data>
+  <data name="OGFriedBrusselsDesc" xml:space="preserve">
+    <value>خالي من البلسميك / جبنة بارميزان / باكان (خيار خالي من الغلوتين متوفر عند الطلب)</value>
+  </data>
+  <data name="BaconAndBlueBrusselsTitl" xml:space="preserve">
+    <value>بيكون وأزرق بروكسل</value>
+  </data>
+  <data name="BaconAndBlueBrusselsDesc" xml:space="preserve">
+    <value>براعم براعة مقلية / قطع بيكون / جبنة سميث تفاح / زعتر / ليمون / جبنة زرقاء</value>
+  </data>
+  <data name="SweetAndSpicyPorkBellyTitl" xml:space="preserve">
+    <value>لحم الخنزير الحلو وحار البطن</value>
+  </data>
+  <data name="SweetAndSpicyPorkBellyDesc" xml:space="preserve">
+    <value>لحم بطن محمص / كميتشي / صلصة حلوة وحارة / بصل أخضر (1 فلفل ، خيار خالٍ من الغلوتين متوفر عند الطلب)</value>
+  </data>
+  <data name="SaltAndPepperCrispyCalamariTitl" xml:space="preserve">
+    <value>الملح والفلفل كالمبي كالماري</value>
+  </data>
+  <data name="SaltAndPepperCrispyCalamariDesc" xml:space="preserve">
+    <value>ملح البحر / الفلفل المطحون / رقائق الفلفل الأحمر / البصل (1 الفلفل المتوسط)</value>
+  </data>
+  <data name="BlueCrabAndCheddarPretzelsTitl" xml:space="preserve">
+    <value>بلو كراب و شيدر برتزل</value>
+  </data>
+  <data name="BlueCrabAndCheddarPretzelsDesc" xml:space="preserve">
+    <value>لينة المملحة / انتشار سرطان البحر الأزرق / جبن شيدر جاك / التوابل خليج القديمة / البقدونس الطازج</value>
+  </data>
+  <data name="CheeseBallsTitl" xml:space="preserve">
+    <value>كرات الجبن</value>
+  </data>
+  <data name="CheeseBallsDesc" xml:space="preserve">
+    <value>بارميزان / كريم / موزاريلا / عرابباتا (خيار نباتي متوفر)</value>
+  </data>
+  <data name="PretzelBallsTitl" xml:space="preserve">
+    <value>كرات البريتزل</value>
+  </data>
+  <data name="PretzelBallsDesc" xml:space="preserve">
+    <value>بيرة خردل / جبنة بيرة (خيار نباتي متوفر)</value>
+  </data>
+  <data name="FlatbreadsTitl" xml:space="preserve">
+    <value>فلاتبريدس</value>
+  </data>
+  <data name="EasternShoreTitl" xml:space="preserve">
+    <value>الساحل الشرقي</value>
+  </data>
+  <data name="EasternShoreDesc" xml:space="preserve">
+    <value>السلطعون الأزرق / البطاطا المهروسة / الذرة الحلوة / انتشار سرطان البحر / الفلفل الأحمر المشوي / دجاج مقرمش / التوابل في الخليج القديم</value>
+  </data>
+  <data name="SausageAndPeppersTitl" xml:space="preserve">
+    <value>السجق والفلفل</value>
+  </data>
+  <data name="SausageAndPeppersDesc" xml:space="preserve">
+    <value>سجق / فلفل أحمر مشوي / صلصة موزاريلا / أربيباتا</value>
+  </data>
+  <data name="GardenTitl" xml:space="preserve">
+    <value>حديقة</value>
+  </data>
+  <data name="GardenDesc" xml:space="preserve">
+    <value>مشوي الذرة الحلوة / sriracha العسل vinaigrette الجاموس القرنبيط / الطماطم الطازجة / الليمون / arugula (خيار نباتي متاح)</value>
+  </data>
+  <data name="HellFireTitl" xml:space="preserve">
+    <value>نار الجحيم</value>
+  </data>
+  <data name="HellFireDesc" xml:space="preserve">
+    <value>دجاج مشوي / صلصة ارابياتا الجليدية / شرائح هالبينو / بصل أحمر / كزبرة / شيدر (2 فلفل حار)</value>
+  </data>
+  <data name="TomatoAndPestoTitl" xml:space="preserve">
+    <value>الطماطم والبيستو</value>
+  </data>
+  <data name="TomatoAndPestoDesc" xml:space="preserve">
+    <value>اللوز باسيل اللوز / الطماطم / جبنة موزاريلا / $ 2 يضاف قطع لحم الخنزير المقدد أو السجق (يتوفر خيار نباتي)</value>
+  </data>
+  <data name="SeasonalSweetsTitl" xml:space="preserve">
+    <value>حلويات موسمية</value>
+  </data>
+  <data name="SeasonalSweetsDesc" xml:space="preserve">
+    <value>لدينا الحلويات تناوب موسميا ، من فضلك اطلب من موظفينا ما هو متاح !!!</value>
+  </data>
+  <data name="ChocolatelyGoodnessTitl" xml:space="preserve">
+    <value>شوكليلي الخير</value>
+  </data>
+  <data name="FruityAndSweetTitl" xml:space="preserve">
+    <value>فاكهي وحلوة</value>
+  </data>
+  <data name="FeelingExtraSweetTitl" xml:space="preserve">
+    <value>قطع إضافي الحلو؟</value>
+  </data>
+  <data name="FeelingExtraSweetDesc" xml:space="preserve">
+    <value>رسل "بيرة" إلى طاقم المطبخ (نستخدم هذا النوع من الإيماءة الخاصة بك للتعامل مع طاقم مطبخنا للقيام بشيء ممتع !!!)</value>
+  </data>
+  <data name="GreensTitl" xml:space="preserve">
+    <value>خضرة</value>
+  </data>
+  <data name="GreensDesc" xml:space="preserve">
+    <value>إضافة بروتين (تكلفة إضافية): دجاج مشوي | الجمبري سمك السالمون</value>
+  </data>
+  <data name="SweetCornAndShrimpTitl" xml:space="preserve">
+    <value>الذرة الحلوة والروبيان</value>
+  </data>
+  <data name="SweetCornAndShrimpDesc" xml:space="preserve">
+    <value>ذرة مشوية / بيكون / بصل مخلل / تفاح / رومين / سوتيه جمبري / صلصة سريراشا بالعسل</value>
+  </data>
+  <data name="ClassicCaesarTitl" xml:space="preserve">
+    <value>كلاسيك قيصر</value>
+  </data>
+  <data name="ClassicCaesarDesc" xml:space="preserve">
+    <value>قلوب رومين / جبن بارميزان / ليمون / خبز محمص بالثوم / صلصة منزلية (خيار نباتي متوفر)</value>
+  </data>
+  <data name="RoastedBeetTitl" xml:space="preserve">
+    <value>بنجر محمص</value>
+  </data>
+  <data name="RoastedBeetDesc" xml:space="preserve">
+    <value>سلطة وخضر بنجر مشكلة / بنجر محمص / خل البلسميك / جبنة زرقاء / شبت طازج (خيار نباتي متوفر)</value>
+  </data>
+  <data name="MixedBerryAndAlmondTitl" xml:space="preserve">
+    <value>التوت المختلط واللوز</value>
+  </data>
+  <data name="MixedBerryAndAlmondDesc" xml:space="preserve">
+    <value>خضار مشكلة / توت موسمي / صلصة الفانيلا / صوص اللوز / الجبن الأزرق</value>
+  </data>
+  <data name="ShareableSidesTitl" xml:space="preserve">
+    <value>قابل للمشاركة</value>
+  </data>
+  <data name="ShareableSidesDesc" xml:space="preserve">
+    <value>جميع الجوانب خالية من الغلوتين</value>
+  </data>
+  <data name="CharredCornSuccotashTitl" xml:space="preserve">
+    <value>ذرة مشوية سوكوتاش</value>
+  </data>
+  <data name="CharredCornSuccotashDesc" xml:space="preserve">
+    <value>فلفل أحمر / توابل بالخضار القديم / بصل / ثوم / بقدونس (خيار نباتي متوفر ، خيار الغلوتين متوفر عند الطلب)</value>
+  </data>
+  <data name="TabascoSlawTitl" xml:space="preserve">
+    <value>تاباسكو سلو</value>
+  </data>
+  <data name="TabascoSlawDesc" xml:space="preserve">
+    <value>مخلل الشوائب / الثوم / محلول الشوي / تاباسكو (خيار نباتي متوفر ، خيار الغلوتين متاح عند الطلب)</value>
+  </data>
+  <data name="BucketofFriesTitl" xml:space="preserve">
+    <value>دلو من فرايز</value>
+  </data>
+  <data name="BurgersAndSandwichesTitl" xml:space="preserve">
+    <value>البرجر والسندويشات</value>
+  </data>
+  <data name="BurgersAndSandwichesDesc" xml:space="preserve">
+    <value>التكلفة الإضافية: إضافة شرائح لحم الخنزير المقدد بيض مقلي مع بطاطس أو كميتشي سلو</value>
+  </data>
+  <data name="CTBurgerTitl" xml:space="preserve">
+    <value>CT برغر</value>
+  </data>
+  <data name="CTBurgerDesc" xml:space="preserve">
+    <value>ظرف الأرض / arugula / البصل بالكراميل / الطماطم الطازجة / بريوش شيدر حاد</value>
+  </data>
+  <data name="BaconAndBlueTitl" xml:space="preserve">
+    <value>لحم الخنزير المقدد والأزرق</value>
+  </data>
+  <data name="BaconAndBlueDesc" xml:space="preserve">
+    <value>ظرف الأرض / الجبن الأزرق / تفاحة شرائح / لحم الخنزير المقدد / الثوم أيولي / بريوش</value>
+  </data>
+  <data name="SpicyGrilledChickenTitl" xml:space="preserve">
+    <value>دجاج مشوي حار</value>
+  </data>
+  <data name="SpicyGrilledChickenDesc" xml:space="preserve">
+    <value>شارب شيدر / سريراتشا أيولي / تاباسكو سلو / بريوش (1 فلفل- وسط)</value>
+  </data>
+  <data name="SteakSandwichTitl" xml:space="preserve">
+    <value>سندويش ستيك</value>
+  </data>
+  <data name="SteakSandwichDesc" xml:space="preserve">
+    <value>ريحان أيولي / طازجة موزاريلا / طماطم مغطاة بالفرن / لفة ساندوتش إيطالي</value>
+  </data>
+  <data name="BlackBeanAndTomatoTitl" xml:space="preserve">
+    <value>الحبة السوداء والطماطم</value>
+  </data>
+  <data name="BlackBeanAndTomatoDesc" xml:space="preserve">
+    <value>حبة الفاصوليا السوداء / طماطم كونفيت / جرجير / فلفل مشوي / بوريه بوريه / بصل مخلل / خبز البريتزل (خيار نباتي متوفر)</value>
+  </data>
+  <data name="DuckBLTTitl" xml:space="preserve">
+    <value>بطة بيكون الخس الطماطم</value>
+  </data>
+  <data name="DuckBLTDesc" xml:space="preserve">
+    <value>تمزيقه بطة كونفيت / بيكون / الطماطم / مزيج الربيع / أيولي الثوم / بريوش</value>
+  </data>
+  <data name="ConvoyBurgerTitl" xml:space="preserve">
+    <value>قافلة برغر</value>
+  </data>
+  <data name="ConvoyBurgerDesc" xml:space="preserve">
+    <value>تشاك / جبن كريمة بصل أخضر / كيمتشي / بيض مقلي / لحم بطن / مرق / رامين</value>
+  </data>
+  <data name="MainCourseTitl" xml:space="preserve">
+    <value>الطبق الرئيسي</value>
+  </data>
+  <data name="MarketSteakFritesTitl" xml:space="preserve">
+    <value>سوق ستيك فريتس</value>
+  </data>
+  <data name="MarketSteakFritesDesc" xml:space="preserve">
+    <value>البيت شريحة لحم السوق / فرايز تقشفيه / الزبدة مجمع (خيار مجاني الغلوتين) سعر السوق</value>
+  </data>
+  <data name="WhiteWineMusselsTitl" xml:space="preserve">
+    <value>النبيذ الأبيض بلح البحر</value>
+  </data>
+  <data name="WhiteWineMusselsDesc" xml:space="preserve">
+    <value>ى بلح البحر الطازج / الثوم / الكراث / النبيذ الأبيض / البقدونس / الليمون / مع الرغيف الفرنسي أو رقائق البطاطس المقلية / (خيار الغلوتين) / إضافة صلصة النار الجحيم ، أو لحم الخنزير المقدد</value>
+  </data>
+  <data name="BeerBatteredFishAndChipsTitl" xml:space="preserve">
+    <value>بيرة السمك والبطاطا</value>
+  </data>
+  <data name="BeerBatteredFishAndChipsDesc" xml:space="preserve">
+    <value>سمك القد / فرايز تقشفيه / منزل الجير</value>
+  </data>
+  <data name="CrabCakeAndFriedChickenTitl" xml:space="preserve">
+    <value>كعكة السلطعون والدجاج المقلي</value>
+  </data>
+  <data name="CrabCakeAndFriedChickenDesc" xml:space="preserve">
+    <value>كعكة السلطعون / الدجاج المقلي الفخذ / الذرة الصفراء المحمصة / البطاطس الأصابع / العسل متبل دافئ</value>
+  </data>
+  <data name="PorkDuckAndPolentaTitl" xml:space="preserve">
+    <value>لحم الخنزير والبط وبولينتا</value>
+  </data>
+  <data name="PorkDuckAndPolentaDesc" xml:space="preserve">
+    <value>بطن لحم الخنزير مقرمش / بطة مبشور كونفيت / دسم عصيدة من دقيق الذرة / المرق / برونز حليق / بيض مقلي</value>
+  </data>
+  <data name="SearedSalmonTitl" xml:space="preserve">
+    <value>سمك سلمون محروق</value>
+  </data>
+  <data name="SearedSalmonDesc" xml:space="preserve">
+    <value>التوابل المقلية / الأرز سيج / بلور بلان / البصل الأخضر المتفحمة</value>
+  </data>
+</root>

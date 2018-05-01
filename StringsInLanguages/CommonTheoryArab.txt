@@ -1,0 +1,188 @@
+OurMenuTitl
+القائمة لدينا
+DuckDuckFryTitl
+بطة بطة فراي
+DuckFatFriesTitl
+بطة دجاج فرايز
+DuckFatFriesDesc
+بطاطس مقلية / بطة تمزيقه / بصل أخضر (خيار خال من الغلوتين متوفر عند الطلب)
+DoubleDuckFriesTitl
+بطة مزدوجة فرايز
+DoubleDuckFriesDesc
+بطاطس مقلية / بطة تمزيقه / بطة مقرمشة / بصل أخضر / (خيار خال من الغلوتين متوفر عند الطلب)
+FlockOfDuckFriesTitl
+قطيع من بط فرايز
+FlockOfFuckFriesDesc
+بطاطس مقلية / بطة تمزيقه / بطة مقرمشة / مرق / بطة بيض مقلي / بصل أخضر
+StartersTitl
+مقبلات
+BeetAndWatermelonPokeTitl
+البنجر والبطيخ كزة
+BeetAndWatermelonPokeDesc
+البنجر المحمص المملح / البطيخ المحمص / زيت بذور الكتان / فاصوليا البحر / البصل / الخيار / نوري / زيت السمسم / رقائق القلقاس / (خيار نباتي متاح)
+BuffaloCauliflowerTitl
+بوفالو القرنبيط
+BuffaloCauliflowerDesc
+القرنبيط المحمص / طحين الأرز / صلصة الجاموس / مزرعة البيت (1 الفلفل متوسطة)
+CapreseTitl
+الكابريزي
+CapreseDesc
+الطماطم الكرمة الناضجة / جبنة الموزاريلا الطازجة / اللوز الباسيليستو / العسل تخفيض البلسميك / زيت الثوم (خيار نباتي متاح)
+CrispyChickenWingsTitl
+أجنحة الدجاج المقرمشة
+CrispyChickenWingsDesc
+أجنحة دجاج جامبو / ملح البحر / فلفل مطحون / رقائق الفلفل الأحمر. اختر: الملح والفلفل ، والحلو والحار ، أو النار الجحيم ، 2 فلفل حار
+OGFriedBrusselsTitl
+براعم بروكسل المقلي الأصلي
+OGFriedBrusselsDesc
+خالي من البلسميك / جبنة بارميزان / باكان (خيار خالي من الغلوتين متوفر عند الطلب)
+BaconAndBlueBrusselsTitl
+بيكون وأزرق بروكسل
+BaconAndBlueBrusselsDesc
+براعم براعة مقلية / قطع بيكون / جبنة سميث تفاح / زعتر / ليمون / جبنة زرقاء
+SweetAndSpicyPorkBellyTitl
+لحم الخنزير الحلو وحار البطن
+SweetAndSpicyPorkBellyDesc
+لحم بطن محمص / كميتشي / صلصة حلوة وحارة / بصل أخضر (1 فلفل ، خيار خالٍ من الغلوتين متوفر عند الطلب)
+SaltAndPepperCrispyCalamariTitl
+الملح والفلفل كالمبي كالماري
+SaltAndPepperCrispyCalamariDesc
+ملح البحر / الفلفل المطحون / رقائق الفلفل الأحمر / البصل (1 الفلفل المتوسط)
+BlueCrabAndCheddarPretzelsTitl
+بلو كراب و شيدر برتزل
+BlueCrabAndCheddarPretzelsDesc
+لينة المملحة / انتشار سرطان البحر الأزرق / جبن شيدر جاك / التوابل خليج القديمة / البقدونس الطازج
+CheeseBallsTitl
+كرات الجبن
+CheeseBallsDesc
+بارميزان / كريم / موزاريلا / عرابباتا (خيار نباتي متوفر)
+PretzelBallsTitl
+كرات البريتزل
+PretzelBallsDesc
+بيرة خردل / جبنة بيرة (خيار نباتي متوفر)
+FlatbreadsTitl
+فلاتبريدس
+EasternShoreTitl
+الساحل الشرقي
+EasternShoreDesc
+السلطعون الأزرق / البطاطا المهروسة / الذرة الحلوة / انتشار سرطان البحر / الفلفل الأحمر المشوي / دجاج مقرمش / التوابل في الخليج القديم
+SausageAndPeppersTitl
+السجق والفلفل
+SausageAndPeppersDesc
+سجق / فلفل أحمر مشوي / صلصة موزاريلا / أربيباتا
+GardenTitl
+حديقة
+GardenDesc
+مشوي الذرة الحلوة / sriracha العسل vinaigrette الجاموس القرنبيط / الطماطم الطازجة / الليمون / arugula (خيار نباتي متاح)
+HellFireTitl
+نار الجحيم
+HellFireDesc
+دجاج مشوي / صلصة ارابياتا الجليدية / شرائح هالبينو / بصل أحمر / كزبرة / شيدر (2 فلفل حار)
+TomatoAndPestoTitl
+الطماطم والبيستو
+TomatoAndPestoDesc
+اللوز باسيل اللوز / الطماطم / جبنة موزاريلا / $ 2 يضاف قطع لحم الخنزير المقدد أو السجق (يتوفر خيار نباتي)
+SeasonalSweetsTitl
+حلويات موسمية
+SeasonalSweetsDesc
+لدينا الحلويات تناوب موسميا ، من فضلك اطلب من موظفينا ما هو متاح !!!
+ChocolatelyGoodnessTitl
+شوكليلي الخير
+FruityAndSweetTitl
+فاكهي وحلوة
+FeelingExtraSweetTitl
+قطع إضافي الحلو؟
+FeelingExtraSweetDesc
+رسل "بيرة" إلى طاقم المطبخ (نستخدم هذا النوع من الإيماءة الخاصة بك للتعامل مع طاقم مطبخنا للقيام بشيء ممتع !!!)
+GreensTitl
+خضرة
+GreensDesc
+إضافة بروتين (تكلفة إضافية): دجاج مشوي | الجمبري سمك السالمون
+SweetCornAndShrimpTitl
+الذرة الحلوة والروبيان
+SweetCornAndShrimpDesc
+ذرة مشوية / بيكون / بصل مخلل / تفاح / رومين / سوتيه جمبري / صلصة سريراشا بالعسل
+ClassicCaesarTitl
+كلاسيك قيصر
+ClassicCaesarDesc
+قلوب رومين / جبن بارميزان / ليمون / خبز محمص بالثوم / صلصة منزلية (خيار نباتي متوفر)
+RoastedBeetTitl
+بنجر محمص
+RoastedBeetDesc
+سلطة وخضر بنجر مشكلة / بنجر محمص / خل البلسميك / جبنة زرقاء / شبت طازج (خيار نباتي متوفر)
+MixedBerryAndAlmondTitl
+التوت المختلط واللوز
+MixedBerryAndAlmondDesc
+خضار مشكلة / توت موسمي / صلصة الفانيلا / صوص اللوز / الجبن الأزرق
+ShareableSidesTitl
+قابل للمشاركة
+ShareableSidesDesc
+جميع الجوانب خالية من الغلوتين
+CharredCornSuccotashTitl
+ذرة مشوية سوكوتاش
+CharredCornSuccotashDesc
+فلفل أحمر / توابل بالخضار القديم / بصل / ثوم / بقدونس (خيار نباتي متوفر ، خيار الغلوتين متوفر عند الطلب)
+TabascoSlawTitl
+تاباسكو سلو
+TabascoSlawDesc
+مخلل الشوائب / الثوم / محلول الشوي / تاباسكو (خيار نباتي متوفر ، خيار الغلوتين متاح عند الطلب)
+BucketofFriesTitl
+دلو من فرايز
+BurgersAndSandwichesTitl
+البرجر والسندويشات
+BurgersAndSandwichesDesc
+التكلفة الإضافية: إضافة شرائح لحم الخنزير المقدد بيض مقلي مع بطاطس أو كميتشي سلو
+CTBurgerTitl
+CT برغر
+CTBurgerDesc
+ظرف الأرض / arugula / البصل بالكراميل / الطماطم الطازجة / بريوش شيدر حاد
+BaconAndBlueTitl
+لحم الخنزير المقدد والأزرق
+BaconAndBlueDesc
+ظرف الأرض / الجبن الأزرق / تفاحة شرائح / لحم الخنزير المقدد / الثوم أيولي / بريوش
+SpicyGrilledChickenTitl
+دجاج مشوي حار
+SpicyGrilledChickenDesc
+شارب شيدر / سريراتشا أيولي / تاباسكو سلو / بريوش (1 فلفل- وسط)
+SteakSandwichTitl
+سندويش ستيك
+SteakSandwichDesc
+ريحان أيولي / طازجة موزاريلا / طماطم مغطاة بالفرن / لفة ساندوتش إيطالي
+BlackBeanAndTomatoTitl
+الحبة السوداء والطماطم
+BlackBeanAndTomatoDesc
+حبة الفاصوليا السوداء / طماطم كونفيت / جرجير / فلفل مشوي / بوريه بوريه / بصل مخلل / خبز البريتزل (خيار نباتي متوفر)
+DuckBLTTitl
+بطة بيكون الخس الطماطم
+DuckBLTDesc
+تمزيقه بطة كونفيت / بيكون / الطماطم / مزيج الربيع / أيولي الثوم / بريوش
+ConvoyBurgerTitl
+قافلة برغر
+ConvoyBurgerDesc
+تشاك / جبن كريمة بصل أخضر / كيمتشي / بيض مقلي / لحم بطن / مرق / رامين
+MainCourseTitl
+الطبق الرئيسي
+MarketSteakFritesTitl
+سوق ستيك فريتس
+MarketSteakFritesDesc
+البيت شريحة لحم السوق / فرايز تقشفيه / الزبدة مجمع (خيار مجاني الغلوتين) سعر السوق
+WhiteWineMusselsTitl
+النبيذ الأبيض بلح البحر
+WhiteWineMusselsDesc
+ى بلح البحر الطازج / الثوم / الكراث / النبيذ الأبيض / البقدونس / الليمون / مع الرغيف الفرنسي أو رقائق البطاطس المقلية / (خيار الغلوتين) / إضافة صلصة النار الجحيم ، أو لحم الخنزير المقدد
+BeerBatteredFishAndChipsTitl
+بيرة السمك والبطاطا
+BeerBatteredFishAndChipsDesc
+سمك القد / فرايز تقشفيه / منزل الجير
+CrabCakeAndFriedChickenTitl
+كعكة السلطعون والدجاج المقلي
+CrabCakeAndFriedChickenDesc
+كعكة السلطعون / الدجاج المقلي الفخذ / الذرة الصفراء المحمصة / البطاطس الأصابع / العسل متبل دافئ
+PorkDuckAndPolentaTitl
+لحم الخنزير والبط وبولينتا
+PorkDuckAndPolentaDesc
+بطن لحم الخنزير مقرمش / بطة مبشور كونفيت / دسم عصيدة من دقيق الذرة / المرق / برونز حليق / بيض مقلي
+SearedSalmonTitl
+سمك سلمون محروق
+SearedSalmonDesc
+التوابل المقلية / الأرز سيج / بلور بلان / البصل الأخضر المتفحمة

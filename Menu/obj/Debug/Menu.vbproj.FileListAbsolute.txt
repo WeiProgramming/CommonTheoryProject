@@ -1,0 +1,12 @@
+C:\Users\scurry\AppData\Local\Temporary Projects\Menu\bin\Debug\Menu.exe.config
+C:\Users\scurry\Desktop\Menu\Menu\bin\Debug\Menu.exe.config
+D:\Menu\Menu\bin\Debug\Menu.exe.config
+D:\Menu\Menu\bin\Debug\Menu.exe
+D:\Menu\Menu\bin\Debug\Menu.pdb
+D:\Menu\Menu\bin\Debug\Menu.xml
+D:\Menu\Menu\obj\Debug\Menu.Form1.resources
+D:\Menu\Menu\obj\Debug\Menu.Resources.resources
+D:\Menu\Menu\obj\Debug\Menu.vbproj.GenerateResource.Cache
+D:\Menu\Menu\obj\Debug\Menu.exe
+D:\Menu\Menu\obj\Debug\Menu.xml
+D:\Menu\Menu\obj\Debug\Menu.pdb

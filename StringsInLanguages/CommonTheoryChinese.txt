@@ -1,0 +1,189 @@
+OurMenuTitl
+我们的菜单
+DuckDuckFryTitl
+鸭鸭炒
+DuckFatFriesTitl
+鸭肥薯条
+DuckFatFriesDesc
+鞋子薯条 / 切丝的鸭子 / 香葱 (没有面筋选择可利用)
+DoubleDuckFriesTitl
+双鸭薯条
+DoubleDuckFriesDesc
+鞋带薯条 / 切丝鸭肉confit / 脆皮鸭皮/葱 /（可根据要求提供无麸质选项）
+FlockOfDuckFriesTitl
+鸭群薯条
+FlockOfFuckFriesDesc
+鞋子薯条 / 切丝的鸭子 / 脆皮鸭皮 / 卤 / 炸鸭蛋 / 香葱
+StartersTitl
+首发
+BeetAndWatermelonPokeTitl
+甜菜和西瓜 Poke 
+BeetAndWatermelonPokeDesc
+咸的烤甜菜 / 烤西瓜 / 亚麻籽油 / 海豆 / 洋葱 / 黄瓜 / 干海藻 / 芝麻油 / 芋头芯片 / (我们有素食选择)
+BuffaloCauliflowerTitl
+水牛菜花
+BuffaloCauliflowerDesc
+烤花椰菜 / 米粉 / 麻辣酱 / 房子牧场 (1 中等辣椒)
+CapreseTitl
+卡普雷塞
+CapreseDesc
+成熟的番茄 / 新鲜的奶酪 / 
+杏仁罗勒香蒜酱 / 蜂蜜香脂减少 / 大蒜油 (我们有素食选择)
+CrispyChickenWingsTitl
+香脆的鸡翅膀
+CrispyChickenWingsDesc
+巨型鸡翅膀/ 海盐 / 胡椒粉 / 红辣椒片. 选择: 盐和 & 胡椒, 甜 & 辣, 或地狱之火, 2 辣辣椒
+OGFriedBrusselsTitl
+原始油煎的布鲁塞尔
+OGFriedBrusselsDesc
+香脂减少 / 帕尔马干酪 / 培根 (如果您问，可以使用无麸质食品)
+BaconAndBlueBrusselsTitl
+培根和蓝色布鲁塞尔
+BaconAndBlueBrusselsDesc
+油炸的抱子甘蓝 / 切碎的培根 / 格兰尼史密斯苹果 / 百里香 / 柠檬 / 蓝乳酪
+SweetAndSpicyPorkBellyTitl
+甜辣的猪肚
+SweetAndSpicyPorkBellyDesc
+烤五花肉 / 泡菜 / 泡菜 / 香葱 (1 中辣辣椒, 没有面筋选择可利用)
+SaltAndPepperCrispyCalamariTitl
+盐和胡椒脆皮枪乌贼
+SaltAndPepperCrispyCalamariDesc
+海盐 / 胡椒粉 / 红辣椒片 / 香葱 (1 中等辛辣胡椒)
+BlueCrabAndCheddarPretzelsTitl
+蓝蟹和切达干酪椒盐脆饼
+BlueCrabAndCheddarPretzelsDesc
+软的椒盐脆饼 / 蓝蟹传播 / 切达干酪 / 老海湾调味料 / 新鲜欧芹
+CheeseBallsTitl
+奶酪球
+CheeseBallsDesc
+巴马 / 奶油 / m奶酪/ arrabiata 酱 (我们有素食选择)
+PretzelBallsTitl
+椒盐脆饼球
+PretzelBallsDesc
+啤酒芥末 / 啤酒奶酪 (我们有素食选择e)
+FlatbreadsTitl
+扁面包
+EasternShoreTitl
+东岸
+EasternShoreDesc
+蓝蟹 / 经验丰富的土豆 / 甜玉米 / 蟹蔓延 / 烤红辣椒 / 脆皮鸡皮 / 老海湾调味料
+SausageAndPeppersTitl
+香肠和辣椒
+SausageAndPeppersDesc
+香肠 / 烤红辣椒 / 马苏里拉 / 阿拉比亚塔酱
+GardenTitl
+花园
+GardenDesc
+烧焦的甜玉米 / sriracha 蜂蜜香醋水牛花椰菜 / 新鲜番茄 / 柠檬/芝麻菜（素食选项）
+HellFireTitl
+地狱火
+HellFireDesc
+烤鸡肉 / 地狱火arrabiata酱 / 切片墨西哥胡椒 / 红洋葱/香菜 / 切达（2辣椒辣）
+TomatoAndPestoTitl
+番茄和香蒜酱
+TomatoAndPestoDesc
+杏仁罗勒香蒜酱 / 番茄/马苏里拉 / $ 2加培根或香肠（素食选项)
+SeasonalSweetsTitl
+季节性甜食
+SeasonalSweetsDesc
+我们的甜品按季节轮换，请询问我们的员工有什么可用的！
+ChocolatelyGoodnessTitl
+巧克力的善良
+FruityAndSweetTitl
+果味甜美
+FeelingExtraSweetTitl
+感觉额外甜蜜？
+FeelingExtraSweetDesc
+向厨房工作人员发送一个“啤酒”（我们用这种姿态来对待我们的厨房工作人员，让他们尽情享受！）
+GreensTitl
+青菜
+GreensDesc
+添加蛋白质（额外费用）：烤鸡|虾|三文鱼
+SweetCornAndShrimpTitl
+甜玉米和虾
+SweetCornAndShrimpDesc
+烧焦的玉米 / 培根/腌洋葱 / 苹果 / 罗马尼亚/炒虾 / sriracha 蜂蜜醋汁
+ClassicCaesarTitl
+经典凯撒
+ClassicCaesarDesc
+莴苣心 / 刮干酪 / 柠檬 / 大蒜油煎面包块 / 家庭装（素食选项）
+RoastedBeetTitl
+烤甜菜
+RoastedBeetDesc
+混合沙拉和甜菜绿色 / 盐烤甜菜 / 香醋香醋 / 蓝纹奶酪 / 新鲜莳萝（提供素食选项）
+MixedBerryAndAlmondTitl
+混合的浆果和杏仁
+MixedBerryAndAlmondDesc
+混合蔬菜 / 时令浆果 / 香草油醋汁 / 五香杏仁 / 蓝纹奶酪
+ShareableSidesTitl
+共享双方
+ShareableSidesDesc
+所有的面都是无麸质的
+CharredCornSuccotashTitl
+烧焦玉米 Succotash
+CharredCornSuccotashDesc
+红辣椒 / 旧海湾调味料 / 洋葱 / 大蒜/欧芹（可提供素食选项，无麸质选择可根据要求提供）
+TabascoSlawTitl
+塔巴斯科凉拌卷心菜
+TabascoSlawDesc
+石灰 / 大蒜蒜泥蛋黄酱 / 房子莳萝泡菜 / 塔巴斯科（素食选项，无麸质选择可根据要求提供）
+BucketofFriesTitl
+炸薯条
+BurgersAndSandwichesTitl
+汉堡和三明治
+BurgersAndSandwichesDesc
+额外费用：添加咸肉条|炸鸡蛋配炸薯条或kimichi凉拌卷心菜
+CTBurgerTitl
+CT汉堡包
+CTBurgerDesc
+地面夹头 / 芝麻菜 / 焦糖洋葱 / 新鲜番茄 / 尖锐切达奶油蛋卷
+BaconAndBlueTitl
+培根和蓝色
+BaconAndBlueDesc
+地面夹头 / 蓝纹奶酪 / 切片苹果 / 培根 / 大蒜蒜泥蛋黄酱 / 奶油蛋卷
+SpicyGrilledChickenTitl
+辣烤鸡肉
+SpicyGrilledChickenDesc
+夏普切达/ sriracha 蛋黄酱 /塔巴斯科凉拌卷心菜/奶油蛋卷（1胡椒培养基）
+SteakSandwichTitl
+牛排三明治
+SteakSandwichDesc
+罗勒蒜泥 / 新鲜奶酪 / 烤箱烤番茄 / 意大利三明治卷
+BlackBeanAndTomatoTitl
+黑豆和番茄
+BlackBeanAndTomatoDesc
+黑豆馅饼 / 番茄馅饼 / 芝麻菜 / 烤辣椒 / 甜菜泥 / 腌洋葱 / 椒盐卷饼小圆面包（素食选项）
+DuckBLTTitl
+鸭，培根，生菜，番茄
+DuckBLTDesc
+切丝鸭 / 培根/番茄 / 春季混合 / 大蒜蛋黄酱 / 奶油蛋卷
+ConvoyBurgerTitl
+Convoy汉堡
+ConvoyBurgerDesc
+地面夹头 / 葱油奶酪 / 泡菜 / 煎蛋 / 猪肚 / 肉汁 / 拉面面条
+MainCourseTitl
+主菜
+MarketSteakFritesTitl
+市场牛排炸薯条
+MarketSteakFritesDesc
+家切市场牛排/鞋底薯条/复合黄油（无麸质选项）市场价格
+WhiteWineMusselsTitl
+白葡萄酒贻贝
+WhiteWineMusselsDesc
+裴新鲜贻贝 / 大蒜 / 青葱 / 白葡萄酒 / 欧芹 / 柠檬 / 带面包或小薯条 /（无麸质选项）/加地狱火酱或培根
+BeerBatteredFishAndChipsTitl
+啤酒被碰撞的鱼和芯片
+BeerBatteredFishAndChipsDesc
+鳕鱼 / 炸薯条 / 房子塔塔
+CrabCakeAndFriedChickenTitl
+蟹肉蛋糕和炸鸡
+CrabCakeAndFriedChickenDesc
+蟹肉饼 / 炸鸡大腿 / 烤玉米succotash / 鱼种土豆/温暖的五香蜂蜜
+PorkDuckAndPolentaTitl
+猪肉，鸭肉和玉米粥
+PorkDuckAndPolentaDesc
+香脆五花肉 / 碎鸭肉馅饼 / 奶油玉米粥 / 肉汁 / 剃光的布鲁塞尔 / 煎蛋
+SearedSalmonTitl
+烤三文鱼
+SearedSalmonDesc
+熏黑的香料 / 鼠尾草米饭 / 贝果 / 烧焦的葱
