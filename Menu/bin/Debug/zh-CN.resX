@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="OurMenuTitl" xml:space="preserve">
+    <value>我们的菜单</value>
+  </data>
+  <data name="DuckDuckFryTitl" xml:space="preserve">
+    <value>鸭鸭炒</value>
+  </data>
+  <data name="DuckFatFriesTitl" xml:space="preserve">
+    <value>鸭肥薯条</value>
+  </data>
+  <data name="DuckFatFriesDesc" xml:space="preserve">
+    <value>鞋子薯条 / 切丝的鸭子 / 香葱 (没有面筋选择可利用)</value>
+  </data>
+  <data name="DoubleDuckFriesTitl" xml:space="preserve">
+    <value>双鸭薯条</value>
+  </data>
+  <data name="DoubleDuckFriesDesc" xml:space="preserve">
+    <value>鞋带薯条 / 切丝鸭肉confit / 脆皮鸭皮/葱 /（可根据要求提供无麸质选项）</value>
+  </data>
+  <data name="FlockOfDuckFriesTitl" xml:space="preserve">
+    <value>鸭群薯条</value>
+  </data>
+  <data name="FlockOfFuckFriesDesc" xml:space="preserve">
+    <value>鞋子薯条 / 切丝的鸭子 / 脆皮鸭皮 / 卤 / 炸鸭蛋 / 香葱</value>
+  </data>
+  <data name="StartersTitl" xml:space="preserve">
+    <value>首发</value>
+  </data>
+  <data name="BeetAndWatermelonPokeTitl" xml:space="preserve">
+    <value>甜菜和西瓜 Poke </value>
+  </data>
+  <data name="BeetAndWatermelonPokeDesc" xml:space="preserve">
+    <value>咸的烤甜菜 / 烤西瓜 / 亚麻籽油 / 海豆 / 洋葱 / 黄瓜 / 干海藻 / 芝麻油 / 芋头芯片 / (我们有素食选择)</value>
+  </data>
+  <data name="BuffaloCauliflowerTitl" xml:space="preserve">
+    <value>水牛菜花</value>
+  </data>
+  <data name="BuffaloCauliflowerDesc" xml:space="preserve">
+    <value>烤花椰菜 / 米粉 / 麻辣酱 / 房子牧场 (1 中等辣椒)</value>
+  </data>
+  <data name="CapreseTitl" xml:space="preserve">
+    <value>卡普雷塞</value>
+  </data>
+  <data name="CapreseDesc" xml:space="preserve">
+    <value>成熟的番茄 / 新鲜的奶酪 / 杏仁罗勒香蒜酱 / 蜂蜜香脂减少 / 大蒜油 (我们有素食选择)</value>
+  </data>
+  <data name="CrispyChickenWingsTitl" xml:space="preserve">
+    <value>香脆的鸡翅膀</value>
+  </data>
+  <data name="CrispyChickenWingsDesc" xml:space="preserve">
+    <value>巨型鸡翅膀/ 海盐 / 胡椒粉 / 红辣椒片. 选择: 盐和 &amp; 胡椒, 甜 &amp; 辣, 或地狱之火, 2 辣辣椒</value>
+  </data>
+  <data name="OGFriedBrusselsTitl" xml:space="preserve">
+    <value>原始油煎的布鲁塞尔</value>
+  </data>
+  <data name="OGFriedBrusselsDesc" xml:space="preserve">
+    <value>香脂减少 / 帕尔马干酪 / 培根 (如果您问，可以使用无麸质食品)</value>
+  </data>
+  <data name="BaconAndBlueBrusselsTitl" xml:space="preserve">
+    <value>培根和蓝色布鲁塞尔</value>
+  </data>
+  <data name="BaconAndBlueBrusselsDesc" xml:space="preserve">
+    <value>油炸的抱子甘蓝 / 切碎的培根 / 格兰尼史密斯苹果 / 百里香 / 柠檬 / 蓝乳酪</value>
+  </data>
+  <data name="SweetAndSpicyPorkBellyTitl" xml:space="preserve">
+    <value>甜辣的猪肚</value>
+  </data>
+  <data name="SweetAndSpicyPorkBellyDesc" xml:space="preserve">
+    <value>烤五花肉 / 泡菜 / 泡菜 / 香葱 (1 中辣辣椒, 没有面筋选择可利用)</value>
+  </data>
+  <data name="SaltAndPepperCrispyCalamariTitl" xml:space="preserve">
+    <value>盐和胡椒脆皮枪乌贼</value>
+  </data>
+  <data name="SaltAndPepperCrispyCalamariDesc" xml:space="preserve">
+    <value>海盐 / 胡椒粉 / 红辣椒片 / 香葱 (1 中等辛辣胡椒)</value>
+  </data>
+  <data name="BlueCrabAndCheddarPretzelsTitl" xml:space="preserve">
+    <value>蓝蟹和切达干酪椒盐脆饼</value>
+  </data>
+  <data name="BlueCrabAndCheddarPretzelsDesc" xml:space="preserve">
+    <value>软的椒盐脆饼 / 蓝蟹传播 / 切达干酪 / 老海湾调味料 / 新鲜欧芹</value>
+  </data>
+  <data name="CheeseBallsTitl" xml:space="preserve">
+    <value>奶酪球</value>
+  </data>
+  <data name="CheeseBallsDesc" xml:space="preserve">
+    <value>巴马 / 奶油 / m奶酪/ arrabiata 酱 (我们有素食选择)</value>
+  </data>
+  <data name="PretzelBallsTitl" xml:space="preserve">
+    <value>椒盐脆饼球</value>
+  </data>
+  <data name="PretzelBallsDesc" xml:space="preserve">
+    <value>啤酒芥末 / 啤酒奶酪 (我们有素食选择e)</value>
+  </data>
+  <data name="FlatbreadsTitl" xml:space="preserve">
+    <value>扁面包</value>
+  </data>
+  <data name="EasternShoreTitl" xml:space="preserve">
+    <value>东岸</value>
+  </data>
+  <data name="EasternShoreDesc" xml:space="preserve">
+    <value>蓝蟹 / 经验丰富的土豆 / 甜玉米 / 蟹蔓延 / 烤红辣椒 / 脆皮鸡皮 / 老海湾调味料</value>
+  </data>
+  <data name="SausageAndPeppersTitl" xml:space="preserve">
+    <value>香肠和辣椒</value>
+  </data>
+  <data name="SausageAndPeppersDesc" xml:space="preserve">
+    <value>香肠 / 烤红辣椒 / 马苏里拉 / 阿拉比亚塔酱</value>
+  </data>
+  <data name="GardenTitl" xml:space="preserve">
+    <value>花园</value>
+  </data>
+  <data name="GardenDesc" xml:space="preserve">
+    <value>烧焦的甜玉米 / sriracha 蜂蜜香醋水牛花椰菜 / 新鲜番茄 / 柠檬/芝麻菜（素食选项）</value>
+  </data>
+  <data name="HellFireTitl" xml:space="preserve">
+    <value>地狱火</value>
+  </data>
+  <data name="HellFireDesc" xml:space="preserve">
+    <value>烤鸡肉 / 地狱火arrabiata酱 / 切片墨西哥胡椒 / 红洋葱/香菜 / 切达（2辣椒辣）</value>
+  </data>
+  <data name="TomatoAndPestoTitl" xml:space="preserve">
+    <value>番茄和香蒜酱</value>
+  </data>
+  <data name="TomatoAndPestoDesc" xml:space="preserve">
+    <value>杏仁罗勒香蒜酱 / 番茄/马苏里拉 / $ 2加培根或香肠（素食选项)</value>
+  </data>
+  <data name="SeasonalSweetsTitl" xml:space="preserve">
+    <value>季节性甜食</value>
+  </data>
+  <data name="SeasonalSweetsDesc" xml:space="preserve">
+    <value>我们的甜品按季节轮换，请询问我们的员工有什么可用的！</value>
+  </data>
+  <data name="ChocolatelyGoodnessTitl" xml:space="preserve">
+    <value>巧克力的善良</value>
+  </data>
+  <data name="FruityAndSweetTitl" xml:space="preserve">
+    <value>果味甜美</value>
+  </data>
+  <data name="FeelingExtraSweetTitl" xml:space="preserve">
+    <value>感觉额外甜蜜？</value>
+  </data>
+  <data name="FeelingExtraSweetDesc" xml:space="preserve">
+    <value>向厨房工作人员发送一个“啤酒”（我们用这种姿态来对待我们的厨房工作人员，让他们尽情享受！）</value>
+  </data>
+  <data name="GreensTitl" xml:space="preserve">
+    <value>青菜</value>
+  </data>
+  <data name="GreensDesc" xml:space="preserve">
+    <value>添加蛋白质（额外费用）：烤鸡|虾|三文鱼</value>
+  </data>
+  <data name="SweetCornAndShrimpTitl" xml:space="preserve">
+    <value>甜玉米和虾</value>
+  </data>
+  <data name="SweetCornAndShrimpDesc" xml:space="preserve">
+    <value>烧焦的玉米 / 培根/腌洋葱 / 苹果 / 罗马尼亚/炒虾 / sriracha 蜂蜜醋汁</value>
+  </data>
+  <data name="ClassicCaesarTitl" xml:space="preserve">
+    <value>经典凯撒</value>
+  </data>
+  <data name="ClassicCaesarDesc" xml:space="preserve">
+    <value>莴苣心 / 刮干酪 / 柠檬 / 大蒜油煎面包块 / 家庭装（素食选项）</value>
+  </data>
+  <data name="RoastedBeetTitl" xml:space="preserve">
+    <value>烤甜菜</value>
+  </data>
+  <data name="RoastedBeetDesc" xml:space="preserve">
+    <value>混合沙拉和甜菜绿色 / 盐烤甜菜 / 香醋香醋 / 蓝纹奶酪 / 新鲜莳萝（提供素食选项）</value>
+  </data>
+  <data name="MixedBerryAndAlmondTitl" xml:space="preserve">
+    <value>混合的浆果和杏仁</value>
+  </data>
+  <data name="MixedBerryAndAlmondDesc" xml:space="preserve">
+    <value>混合蔬菜 / 时令浆果 / 香草油醋汁 / 五香杏仁 / 蓝纹奶酪</value>
+  </data>
+  <data name="ShareableSidesTitl" xml:space="preserve">
+    <value>共享双方</value>
+  </data>
+  <data name="ShareableSidesDesc" xml:space="preserve">
+    <value>所有的面都是无麸质的</value>
+  </data>
+  <data name="CharredCornSuccotashTitl" xml:space="preserve">
+    <value>烧焦玉米 Succotash</value>
+  </data>
+  <data name="CharredCornSuccotashDesc" xml:space="preserve">
+    <value>红辣椒 / 旧海湾调味料 / 洋葱 / 大蒜/欧芹（可提供素食选项，无麸质选择可根据要求提供）</value>
+  </data>
+  <data name="TabascoSlawTitl" xml:space="preserve">
+    <value>塔巴斯科凉拌卷心菜</value>
+  </data>
+  <data name="TabascoSlawDesc" xml:space="preserve">
+    <value>石灰 / 大蒜蒜泥蛋黄酱 / 房子莳萝泡菜 / 塔巴斯科（素食选项，无麸质选择可根据要求提供）</value>
+  </data>
+  <data name="BucketofFriesTitl" xml:space="preserve">
+    <value>炸薯条</value>
+  </data>
+  <data name="BurgersAndSandwichesTitl" xml:space="preserve">
+    <value>汉堡和三明治</value>
+  </data>
+  <data name="BurgersAndSandwichesDesc" xml:space="preserve">
+    <value>额外费用：添加咸肉条|炸鸡蛋配炸薯条或kimichi凉拌卷心菜</value>
+  </data>
+  <data name="CTBurgerTitl" xml:space="preserve">
+    <value>CT汉堡包</value>
+  </data>
+  <data name="CTBurgerDesc" xml:space="preserve">
+    <value>地面夹头 / 芝麻菜 / 焦糖洋葱 / 新鲜番茄 / 尖锐切达奶油蛋卷</value>
+  </data>
+  <data name="BaconAndBlueTitl" xml:space="preserve">
+    <value>培根和蓝色</value>
+  </data>
+  <data name="BaconAndBlueDesc" xml:space="preserve">
+    <value>地面夹头 / 蓝纹奶酪 / 切片苹果 / 培根 / 大蒜蒜泥蛋黄酱 / 奶油蛋卷</value>
+  </data>
+  <data name="SpicyGrilledChickenTitl" xml:space="preserve">
+    <value>辣烤鸡肉</value>
+  </data>
+  <data name="SpicyGrilledChickenDesc" xml:space="preserve">
+    <value>夏普切达/ sriracha 蛋黄酱 /塔巴斯科凉拌卷心菜/奶油蛋卷（1胡椒培养基）</value>
+  </data>
+  <data name="SteakSandwichTitl" xml:space="preserve">
+    <value>牛排三明治</value>
+  </data>
+  <data name="SteakSandwichDesc" xml:space="preserve">
+    <value>罗勒蒜泥 / 新鲜奶酪 / 烤箱烤番茄 / 意大利三明治卷</value>
+  </data>
+  <data name="BlackBeanAndTomatoTitl" xml:space="preserve">
+    <value>黑豆和番茄</value>
+  </data>
+  <data name="BlackBeanAndTomatoDesc" xml:space="preserve">
+    <value>黑豆馅饼 / 番茄馅饼 / 芝麻菜 / 烤辣椒 / 甜菜泥 / 腌洋葱 / 椒盐卷饼小圆面包（素食选项）</value>
+  </data>
+  <data name="DuckBLTTitl" xml:space="preserve">
+    <value>鸭，培根，生菜，番茄</value>
+  </data>
+  <data name="DuckBLTDesc" xml:space="preserve">
+    <value>切丝鸭 / 培根/番茄 / 春季混合 / 大蒜蛋黄酱 / 奶油蛋卷</value>
+  </data>
+  <data name="ConvoyBurgerTitl" xml:space="preserve">
+    <value>Convoy汉堡</value>
+  </data>
+  <data name="ConvoyBurgerDesc" xml:space="preserve">
+    <value>地面夹头 / 葱油奶酪 / 泡菜 / 煎蛋 / 猪肚 / 肉汁 / 拉面面条</value>
+  </data>
+  <data name="MainCourseTitl" xml:space="preserve">
+    <value>主菜</value>
+  </data>
+  <data name="MarketSteakFritesTitl" xml:space="preserve">
+    <value>市场牛排炸薯条</value>
+  </data>
+  <data name="MarketSteakFritesDesc" xml:space="preserve">
+    <value>家切市场牛排/鞋底薯条/复合黄油（无麸质选项）市场价格</value>
+  </data>
+  <data name="WhiteWineMusselsTitl" xml:space="preserve">
+    <value>白葡萄酒贻贝</value>
+  </data>
+  <data name="WhiteWineMusselsDesc" xml:space="preserve">
+    <value>裴新鲜贻贝 / 大蒜 / 青葱 / 白葡萄酒 / 欧芹 / 柠檬 / 带面包或小薯条 /（无麸质选项）/加地狱火酱或培根</value>
+  </data>
+  <data name="BeerBatteredFishAndChipsTitl" xml:space="preserve">
+    <value>啤酒被碰撞的鱼和芯片</value>
+  </data>
+  <data name="BeerBatteredFishAndChipsDesc" xml:space="preserve">
+    <value>鳕鱼 / 炸薯条 / 房子塔塔</value>
+  </data>
+  <data name="CrabCakeAndFriedChickenTitl" xml:space="preserve">
+    <value>蟹肉蛋糕和炸鸡</value>
+  </data>
+  <data name="CrabCakeAndFriedChickenDesc" xml:space="preserve">
+    <value>蟹肉饼 / 炸鸡大腿 / 烤玉米succotash / 鱼种土豆/温暖的五香蜂蜜</value>
+  </data>
+  <data name="PorkDuckAndPolentaTitl" xml:space="preserve">
+    <value>猪肉，鸭肉和玉米粥</value>
+  </data>
+  <data name="PorkDuckAndPolentaDesc" xml:space="preserve">
+    <value>香脆五花肉 / 碎鸭肉馅饼 / 奶油玉米粥 / 肉汁 / 剃光的布鲁塞尔 / 煎蛋</value>
+  </data>
+  <data name="SearedSalmonTitl" xml:space="preserve">
+    <value>烤三文鱼</value>
+  </data>
+  <data name="SearedSalmonDesc" xml:space="preserve">
+    <value>熏黑的香料 / 鼠尾草米饭 / 贝果 / 烧焦的葱</value>
+  </data>
+</root>
