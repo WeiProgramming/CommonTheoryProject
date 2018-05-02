@@ -73,7 +73,7 @@ SausageAndPeppersDesc
 GardenTitl
 حديقة
 GardenDesc
-مشوي الذرة الحلوة / sriracha العسل vinaigrette الجاموس القرنبيط / الطماطم الطازجة / الليمون / arugula (خيار نباتي متاح)
+مشوي الذرة الحلوة / سريراتشا العسل vinaigrette الجاموس القرنبيط / الطماطم الطازجة / الليمون / arugula (خيار نباتي متاح)
 HellFireTitl
 نار الجحيم
 HellFireDesc
