@@ -133,7 +133,7 @@
     <value>双鸭薯条</value>
   </data>
   <data name="DoubleDuckFriesDesc" xml:space="preserve">
-    <value>鞋带薯条 / 切丝鸭肉confit / 脆皮鸭皮/葱 /（可根据要求提供无麸质选项）</value>
+    <value>鞋带薯条 / 切丝鸭肉糖渍 / 脆皮鸭皮/葱 /（可根据要求提供无麸质选项）</value>
   </data>
   <data name="FlockOfDuckFriesTitl" xml:space="preserve">
     <value>鸭群薯条</value>
@@ -202,7 +202,7 @@
     <value>奶酪球</value>
   </data>
   <data name="CheeseBallsDesc" xml:space="preserve">
-    <value>巴马 / 奶油 / m奶酪/ arrabiata 酱 (我们有素食选择)</value>
+    <value>巴马 / 奶油 / m奶酪/ 愤怒 酱 (我们有素食选择)</value>
   </data>
   <data name="PretzelBallsTitl" xml:space="preserve">
     <value>椒盐脆饼球</value>
@@ -235,7 +235,7 @@
     <value>地狱火</value>
   </data>
   <data name="HellFireDesc" xml:space="preserve">
-    <value>烤鸡肉 / 地狱火arrabiata酱 / 切片墨西哥胡椒 / 红洋葱/香菜 / 切达（2辣椒辣）</value>
+    <value>烤鸡肉 / 地狱火愤怒酱 / 切片墨西哥胡椒 / 红洋葱/香菜 / 切达（2辣椒辣）</value>
   </data>
   <data name="TomatoAndPestoTitl" xml:space="preserve">
     <value>番茄和香蒜酱</value>
@@ -298,7 +298,7 @@
     <value>所有的面都是无麸质的</value>
   </data>
   <data name="CharredCornSuccotashTitl" xml:space="preserve">
-    <value>烧焦玉米 Succotash</value>
+    <value>烧焦玉米 豆煮</value>
   </data>
   <data name="CharredCornSuccotashDesc" xml:space="preserve">
     <value>红辣椒 / 旧海湾调味料 / 洋葱 / 大蒜/欧芹（可提供素食选项，无麸质选择可根据要求提供）</value>
@@ -355,7 +355,7 @@
     <value>切丝鸭 / 培根/番茄 / 春季混合 / 大蒜蛋黄酱 / 奶油蛋卷</value>
   </data>
   <data name="ConvoyBurgerTitl" xml:space="preserve">
-    <value>Convoy汉堡</value>
+    <value>护航队汉堡</value>
   </data>
   <data name="ConvoyBurgerDesc" xml:space="preserve">
     <value>地面夹头 / 葱油奶酪 / 泡菜 / 煎蛋 / 猪肚 / 肉汁 / 拉面面条</value>
@@ -385,7 +385,7 @@
     <value>蟹肉蛋糕和炸鸡</value>
   </data>
   <data name="CrabCakeAndFriedChickenDesc" xml:space="preserve">
-    <value>蟹肉饼 / 炸鸡大腿 / 烤玉米succotash / 鱼种土豆/温暖的五香蜂蜜</value>
+    <value>蟹肉饼 / 炸鸡大腿 / 烤玉米豆煮 / 鱼种土豆/温暖的五香蜂蜜</value>
   </data>
   <data name="PorkDuckAndPolentaTitl" xml:space="preserve">
     <value>猪肉，鸭肉和玉米粥</value>
