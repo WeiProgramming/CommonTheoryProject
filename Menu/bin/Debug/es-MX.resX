@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="OurMenuTitl" xml:space="preserve">
-    <value>Nuestro men�</value>
+    <value>Nuestro menú</value>
   </data>
   <data name="DuckDuckFryTitl" xml:space="preserve">
-    <value>Pato Pato Fre�r</value>
+    <value>Pato Pato Freír</value>
   </data>
   <data name="DuckFatFriesTitl" xml:space="preserve">
     <value>Pato Grasa Papas fritas</value>
   </data>
   <data name="DuckFatFriesDesc" xml:space="preserve">
-    <value>Cord�n de zapato Papas fritas / confit de pato rallado / cebolletas (opci�n sin gluten disponible bajo petici�n)</value>
+    <value>Cordón de zapato Papas fritas / confit de pato rallado / cebolletas (opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="DoubleDuckFriesTitl" xml:space="preserve">
     <value>Doble Pato Papas fritas</value>
   </data>
   <data name="DoubleDuckFriesDesc" xml:space="preserve">
-    <value>Cord�n de zapato Papas fritas / confit de pato rallado / piel de pato crujiente / cebolletas (opci�n sin gluten disponible bajo petici�n)</value>
+    <value>Cordón de zapato Papas fritas / confit de pato rallado / piel de pato crujiente / cebolletas (opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="FlockOfDuckFriesTitl" xml:space="preserve">
     <value>Bandada de Pato Papas fritas</value>
   </data>
   <data name="FlockOfFuckFriesDesc" xml:space="preserve">
-    <value>Cord�n de zapato Papas fritas / confit de pato rallado / piel de pato crujiente / salsa / huevo de pato frito / cebolletas (opci�n sin gluten disponible bajo petici�n)</value>
+    <value>Cordón de zapato Papas fritas / confit de pato rallado / piel de pato crujiente / salsa / huevo de pato frito / cebolletas (opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="StartersTitl" xml:space="preserve">
     <value>Principiantes</value>
   </data>
   <data name="BeetAndWatermelonPokeTitl" xml:space="preserve">
-    <value>Poke de remolacha y sand�a</value>
+    <value>Poke de remolacha y sandía</value>
   </data>
   <data name="BeetAndWatermelonPokeDesc" xml:space="preserve">
-    <value>Remolachas tostadas saladas / sand�a tostada / aceite de semilla de lino / alubias / cebolla / pepino / nori / aceite de s�samo / virutas de taro / (opci�n vegana disponible)</value>
+    <value>Remolachas tostadas saladas / sandía tostada / aceite de semilla de lino / alubias / cebolla / pepino / nori / aceite de sésamo / virutas de taro / (opción vegana disponible)</value>
   </data>
   <data name="BuffaloCauliflowerTitl" xml:space="preserve">
-    <value>Coliflor de b�falo</value>
+    <value>Coliflor de búfalo</value>
   </data>
   <data name="BuffaloCauliflowerDesc" xml:space="preserve">
-    <value>Coliflor asada / harina de arroz / salsa de b�falo / rancho de la casa (1 medio de pimienta)</value>
+    <value>Coliflor asada / harina de arroz / salsa de búfalo / rancho de la casa (1 medio de pimienta)</value>
   </data>
   <data name="CapreseTitl" xml:space="preserve">
     <value>Caprese</value>
   </data>
   <data name="CapreseDesc" xml:space="preserve">
-    <value>Tomate maduro / mozzarella fresca / albahaca de almendra pesto / reducci�n de miel bals�mica / aceite de ajo (opci�n vegetariana disponible)</value>
+    <value>Tomate maduro / mozzarella fresca / albahaca de almendra pesto / reducción de miel balsámica / aceite de ajo (opción vegetariana disponible)</value>
   </data>
   <data name="CrispyChickenWingsTitl" xml:space="preserve">
     <value>Crujientes alitas de pollo</value>
@@ -172,19 +172,19 @@
     <value>OG Fried Bruselas</value>
   </data>
   <data name="OGFriedBrusselsDesc" xml:space="preserve">
-    <value>Reducci�n bals�mica / queso parmesano / bacan (Opci�n sin gluten disponible a pedido)</value>
+    <value>Reducción balsámica / queso parmesano / bacan (Opción sin gluten disponible a pedido)</value>
   </data>
   <data name="BaconAndBlueBrusselsTitl" xml:space="preserve">
     <value>Bacon y azul Bruselas</value>
   </data>
   <data name="BaconAndBlueBrusselsDesc" xml:space="preserve">
-    <value>Coles de Bruselas fritas / tocino picado / manzana granny smith / tomillo / lim�n / queso azul</value>
+    <value>Coles de Bruselas fritas / tocino picado / manzana granny smith / tomillo / limón / queso azul</value>
   </data>
   <data name="SweetAndSpicyPorkBellyTitl" xml:space="preserve">
     <value>Vientre de cerdo dulce y picante</value>
   </data>
   <data name="SweetAndSpicyPorkBellyDesc" xml:space="preserve">
-    <value>Vientre de cerdo asado / kimchi / salsa dulce y picante / cebolla de verdeo (1 medio de pimienta, opci�n sin gluten disponible a pedido)</value>
+    <value>Vientre de cerdo asado / kimchi / salsa dulce y picante / cebolla de verdeo (1 medio de pimienta, opción sin gluten disponible a pedido)</value>
   </data>
   <data name="SaltAndPepperCrispyCalamariTitl" xml:space="preserve">
     <value>Sal y pimienta Crispy Calamari</value>
@@ -196,19 +196,19 @@
     <value>Pretzels de cangrejo azul y cheddar</value>
   </data>
   <data name="BlueCrabAndCheddarPretzelsDesc" xml:space="preserve">
-    <value>Pretzel suave / cangrejo azul extendido / queso cheddar jack / antiguo condimento de la bah�a / perejil fresco</value>
+    <value>Pretzel suave / cangrejo azul extendido / queso cheddar jack / antiguo condimento de la bahía / perejil fresco</value>
   </data>
   <data name="CheeseBallsTitl" xml:space="preserve">
     <value>Bolas de queso</value>
   </data>
   <data name="CheeseBallsDesc" xml:space="preserve">
-    <value>Crema de parmesano / crema / mozzarella / arrabiata (opci�n vegetariana disponible)</value>
+    <value>Crema de parmesano / crema / mozzarella / arrabiata (opción vegetariana disponible)</value>
   </data>
   <data name="PretzelBallsTitl" xml:space="preserve">
     <value>Bolas de pretzel</value>
   </data>
   <data name="PretzelBallsDesc" xml:space="preserve">
-    <value>Mostaza de cerveza / queso de cerveza (opci�n vegetariana disponible)</value>
+    <value>Mostaza de cerveza / queso de cerveza (opción vegetariana disponible)</value>
   </data>
   <data name="FlatbreadsTitl" xml:space="preserve">
     <value>Pans planos</value>
@@ -217,7 +217,7 @@
     <value>Costa oriental</value>
   </data>
   <data name="EasternShoreDesc" xml:space="preserve">
-    <value>Cangrejo azul / papas sazonadas / ma�z dulce / crema de cangrejo / pimiento rojo asado / piel de pollo crujiente / condimento de la bah�a antigua</value>
+    <value>Cangrejo azul / papas sazonadas / maíz dulce / crema de cangrejo / pimiento rojo asado / piel de pollo crujiente / condimento de la bahía antigua</value>
   </data>
   <data name="SausageAndPeppersTitl" xml:space="preserve">
     <value>Salchichas y pimientos</value>
@@ -226,28 +226,28 @@
     <value>Salchicha / pimientos rojos asados / mozzarella / salsa arrabbiata</value>
   </data>
   <data name="GardenTitl" xml:space="preserve">
-    <value>Jard�n</value>
+    <value>Jardín</value>
   </data>
   <data name="GardenDesc" xml:space="preserve">
-    <value>Caldo de ma�z dulce / sriracha vinagreta de b�falo coliflor de b�falo / tomate fresco / lim�n / r�cula (opci�n vegetariana disponible)</value>
+    <value>Caldo de maíz dulce / sriracha vinagreta de búfalo coliflor de búfalo / tomate fresco / limón / rúcula (opción vegetariana disponible)</value>
   </data>
   <data name="HellFireTitl" xml:space="preserve">
     <value>Infierno Fuego</value>
   </data>
   <data name="HellFireDesc" xml:space="preserve">
-    <value>Pollo a la parrilla / fuego infernal salsa arrabiata / jalape�o en rodajas / cebolla roja / cilantro / cheddar (2 pimientos picantes)</value>
+    <value>Pollo a la parrilla / fuego infernal salsa arrabiata / jalapeño en rodajas / cebolla roja / cilantro / cheddar (2 pimientos picantes)</value>
   </data>
   <data name="TomatoAndPestoTitl" xml:space="preserve">
     <value>Tomate y Pesto</value>
   </data>
   <data name="TomatoAndPestoDesc" xml:space="preserve">
-    <value>Pesto de almendras y albahaca / tomate / mozzarella / $ 2 agregar trozos de tocino o salchichas (opci�n vegetariana disponible)</value>
+    <value>Pesto de almendras y albahaca / tomate / mozzarella / $ 2 agregar trozos de tocino o salchichas (opción vegetariana disponible)</value>
   </data>
   <data name="SeasonalSweetsTitl" xml:space="preserve">
     <value>Dulces de temporada</value>
   </data>
   <data name="SeasonalSweetsDesc" xml:space="preserve">
-    <value>Nuestros postres giran seg�n la temporada, por favor preg�ntele a nuestro personal qu� hay disponible.</value>
+    <value>Nuestros postres giran según la temporada, por favor pregúntele a nuestro personal qué hay disponible.</value>
   </data>
   <data name="ChocolatelyGoodnessTitl" xml:space="preserve">
     <value>Bondad chocolatera</value>
@@ -256,34 +256,34 @@
     <value>Afrutado y dulce</value>
   </data>
   <data name="FeelingExtraSweetTitl" xml:space="preserve">
-    <value>�Tala extra dulce?</value>
+    <value>¿Tala extra dulce?</value>
   </data>
   <data name="FeelingExtraSweetDesc" xml:space="preserve">
-    <value>Env�ale una "cerveza" al personal de la cocina (�utilizamos este tipo de gesto tuyo para tratar a nuestro personal de cocina para que haga algo divertido!)</value>
+    <value>Envíale una "cerveza" al personal de la cocina (¡utilizamos este tipo de gesto tuyo para tratar a nuestro personal de cocina para que haga algo divertido!)</value>
   </data>
   <data name="GreensTitl" xml:space="preserve">
     <value>Verduras</value>
   </data>
   <data name="GreensDesc" xml:space="preserve">
-    <value>Agregar prote�na (costo adicional): pollo a la parrilla | camarones | salm�n</value>
+    <value>Agregar proteína (costo adicional): pollo a la parrilla | camarones | salmón</value>
   </data>
   <data name="SweetCornAndShrimpTitl" xml:space="preserve">
-    <value>Ma�z dulce y camarones</value>
+    <value>Maíz dulce y camarones</value>
   </data>
   <data name="SweetCornAndShrimpDesc" xml:space="preserve">
-    <value>Ma�z / tocino / cebolla en escabeche / manzana / romana / camarones salteados / vinagreta de miel de sriracha</value>
+    <value>Maíz / tocino / cebolla en escabeche / manzana / romana / camarones salteados / vinagreta de miel de sriracha</value>
   </data>
   <data name="ClassicCaesarTitl" xml:space="preserve">
-    <value>C�sar cl�sico</value>
+    <value>César clásico</value>
   </data>
   <data name="ClassicCaesarDesc" xml:space="preserve">
-    <value>Corazones de Romaine / parmesano afeitado / cuscurrones de lim�n / ajo / aderezo de la casa (opci�n vegetariana disponible)</value>
+    <value>Corazones de Romaine / parmesano afeitado / cuscurrones de limón / ajo / aderezo de la casa (opción vegetariana disponible)</value>
   </data>
   <data name="RoastedBeetTitl" xml:space="preserve">
     <value>Remolacha asada</value>
   </data>
   <data name="RoastedBeetDesc" xml:space="preserve">
-    <value>Ensalada mixta y remolacha / remolachas saladas / vinagreta bals�mica / queso azul / eneldo fresco (opci�n vegetariana disponible)</value>
+    <value>Ensalada mixta y remolacha / remolachas saladas / vinagreta balsámica / queso azul / eneldo fresco (opción vegetariana disponible)</value>
   </data>
   <data name="MixedBerryAndAlmondTitl" xml:space="preserve">
     <value>Mezcla de bayas y almendras</value>
@@ -295,25 +295,25 @@
     <value>Laterales compartibles</value>
   </data>
   <data name="ShareableSidesDesc" xml:space="preserve">
-    <value>Todos los lados est�n libres de gluten</value>
+    <value>Todos los lados están libres de gluten</value>
   </data>
   <data name="CharredCornSuccotashTitl" xml:space="preserve">
-    <value>Succotash de ma�z carbonizado</value>
+    <value>Succotash de maíz carbonizado</value>
   </data>
   <data name="CharredCornSuccotashDesc" xml:space="preserve">
-    <value>Pimiento rojo / condimento de la bah�a antigua / cebolla / ajo / perejil (opci�n vegana disponible, opci�n sin gluten disponible bajo petici�n)</value>
+    <value>Pimiento rojo / condimento de la bahía antigua / cebolla / ajo / perejil (opción vegana disponible, opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="TabascoSlawTitl" xml:space="preserve">
     <value>Tabasco ensalada de col</value>
   </data>
   <data name="TabascoSlawDesc" xml:space="preserve">
-    <value>Aioli de lima / ajo / pickle de eneldo casero / tabasco (opci�n vegetariana disponible, opci�n sin gluten disponible bajo petici�n)</value>
+    <value>Aioli de lima / ajo / pickle de eneldo casero / tabasco (opción vegetariana disponible, opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="BucketofFriesTitl" xml:space="preserve">
     <value>Cubo de papas fritas</value>
   </data>
   <data name="BurgersAndSandwichesTitl" xml:space="preserve">
-    <value>Hamburguesas y s�ndwiches</value>
+    <value>Hamburguesas y sándwiches</value>
   </data>
   <data name="BurgersAndSandwichesDesc" xml:space="preserve">
     <value>Costo adicional: agregue tiras de tocino | huevo frito con papas fritas o ensalada de kimichi</value>
@@ -322,7 +322,7 @@
     <value>CT Hamburguesa</value>
   </data>
   <data name="CTBurgerDesc" xml:space="preserve">
-    <value>Mandril de tierra / r�cula / cebollas caramelizadas / tomates frescos / brioche de queso cheddar afilado</value>
+    <value>Mandril de tierra / rúcula / cebollas caramelizadas / tomates frescos / brioche de queso cheddar afilado</value>
   </data>
   <data name="BaconAndBlueTitl" xml:space="preserve">
     <value>Tocino y azul</value>
@@ -337,16 +337,16 @@
     <value>Cheddar afilado / alioli de sriracha / ensalada de tabasco / brioche (1 medio de pimienta)</value>
   </data>
   <data name="SteakSandwichTitl" xml:space="preserve">
-    <value>S�ndwich de carne</value>
+    <value>Sándwich de carne</value>
   </data>
   <data name="SteakSandwichDesc" xml:space="preserve">
-    <value>Alioli de albahaca / mozzarella fresca / tomates curados al horno / rollo de s�ndwich italiano</value>
+    <value>Alioli de albahaca / mozzarella fresca / tomates curados al horno / rollo de sándwich italiano</value>
   </data>
   <data name="BlackBeanAndTomatoTitl" xml:space="preserve">
     <value>Frijol negro y tomate</value>
   </data>
   <data name="BlackBeanAndTomatoDesc" xml:space="preserve">
-    <value>Empanada de frijol negro / confit de tomate / r�cula / pimientos asados / pur� de remolacha / cebolla en escabeche / panecillo de pretzel (opci�n vegetariana disponible)</value>
+    <value>Empanada de frijol negro / confit de tomate / rúcula / pimientos asados / puré de remolacha / cebolla en escabeche / panecillo de pretzel (opción vegetariana disponible)</value>
   </data>
   <data name="DuckBLTTitl" xml:space="preserve">
     <value>Pato BLT</value>
@@ -367,13 +367,13 @@
     <value>Frituras de filete de mercado</value>
   </data>
   <data name="MarketSteakFritesDesc" xml:space="preserve">
-    <value>Filete de mercado de la casa filete / papas fritas con poqu�simo dinero / mantequilla compuesta (opci�n sin gluten) PRECIO MKT</value>
+    <value>Filete de mercado de la casa filete / papas fritas con poquísimo dinero / mantequilla compuesta (opción sin gluten) PRECIO MKT</value>
   </data>
   <data name="WhiteWineMusselsTitl" xml:space="preserve">
     <value>Mejillones de vino blanco</value>
   </data>
   <data name="WhiteWineMusselsDesc" xml:space="preserve">
-    <value>Pei mejillones frescos / ajo / chalota / vino blanco / perejil / lim�n / con baguette o papas fritas con poco dinero / (opci�n sin gluten) / agregar salsa de fuego del infierno, o tocino</value>
+    <value>Pei mejillones frescos / ajo / chalota / vino blanco / perejil / limón / con baguette o papas fritas con poco dinero / (opción sin gluten) / agregar salsa de fuego del infierno, o tocino</value>
   </data>
   <data name="BeerBatteredFishAndChipsTitl" xml:space="preserve">
     <value>Cerveza, estropeado, pez, y, pedacitos</value>
@@ -385,7 +385,7 @@
     <value>Pastel de cangrejo y pollo frito</value>
   </data>
   <data name="CrabCakeAndFriedChickenDesc" xml:space="preserve">
-    <value>Pastel de cangrejo / muslo de pollo frito / succotash de ma�z tostado / patatas de alevines / miel especiada</value>
+    <value>Pastel de cangrejo / muslo de pollo frito / succotash de maíz tostado / patatas de alevines / miel especiada</value>
   </data>
   <data name="PorkDuckAndPolentaTitl" xml:space="preserve">
     <value>Cerdo, pato y polenta</value>
@@ -394,7 +394,7 @@
     <value>Vientre de cerdo crujiente / confit de pato rallado / polenta cremosa / salsa / Bruselas frita / huevo frito</value>
   </data>
   <data name="SearedSalmonTitl" xml:space="preserve">
-    <value>Salm�n chamuscado</value>
+    <value>Salmón chamuscado</value>
   </data>
   <data name="SearedSalmonDesc" xml:space="preserve">
     <value>Especias ennegrecidas / arroz salvia / beurre blanc / cebollas verdes carbonizadas</value>

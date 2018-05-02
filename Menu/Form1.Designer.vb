@@ -182,7 +182,7 @@ Partial Class Form1
         Me.BeetAndWatermelonPokeDesc.Name = "BeetAndWatermelonPokeDesc"
         Me.BeetAndWatermelonPokeDesc.Size = New System.Drawing.Size(349, 52)
         Me.BeetAndWatermelonPokeDesc.TabIndex = 35
-        Me.BeetAndWatermelonPokeDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.BeetAndWatermelonPokeDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BeetAndWatermelonPokeTitl
@@ -233,7 +233,7 @@ Partial Class Form1
         Me.BuffaloCauliflowerDesc.Name = "BuffaloCauliflowerDesc"
         Me.BuffaloCauliflowerDesc.Size = New System.Drawing.Size(349, 52)
         Me.BuffaloCauliflowerDesc.TabIndex = 38
-        Me.BuffaloCauliflowerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.BuffaloCauliflowerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BuffaloCauliflowerTitl
@@ -263,7 +263,7 @@ Partial Class Form1
         Me.CapreseDesc.Name = "CapreseDesc"
         Me.CapreseDesc.Size = New System.Drawing.Size(349, 52)
         Me.CapreseDesc.TabIndex = 41
-        Me.CapreseDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.CapreseDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CapreseTitl
@@ -293,7 +293,7 @@ Partial Class Form1
         Me.BaconAndBlueBrusselsDesc.Name = "BaconAndBlueBrusselsDesc"
         Me.BaconAndBlueBrusselsDesc.Size = New System.Drawing.Size(349, 52)
         Me.BaconAndBlueBrusselsDesc.TabIndex = 50
-        Me.BaconAndBlueBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.BaconAndBlueBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BaconAndBlueBrusselsTitl
@@ -323,7 +323,7 @@ Partial Class Form1
         Me.OGFriedBrusselsDesc.Name = "OGFriedBrusselsDesc"
         Me.OGFriedBrusselsDesc.Size = New System.Drawing.Size(349, 52)
         Me.OGFriedBrusselsDesc.TabIndex = 47
-        Me.OGFriedBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.OGFriedBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'OGFriedBrusselsTitl
@@ -353,7 +353,7 @@ Partial Class Form1
         Me.CrispyChickenWingsDesc.Name = "CrispyChickenWingsDesc"
         Me.CrispyChickenWingsDesc.Size = New System.Drawing.Size(349, 52)
         Me.CrispyChickenWingsDesc.TabIndex = 44
-        Me.CrispyChickenWingsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.CrispyChickenWingsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CrispyChickenWingsTitl
@@ -383,7 +383,7 @@ Partial Class Form1
         Me.PretzelBallsDesc.Name = "PretzelBallsDesc"
         Me.PretzelBallsDesc.Size = New System.Drawing.Size(349, 52)
         Me.PretzelBallsDesc.TabIndex = 65
-        Me.PretzelBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.PretzelBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'PretzelBallsTitl
@@ -413,7 +413,7 @@ Partial Class Form1
         Me.CheeseBallsDesc.Name = "CheeseBallsDesc"
         Me.CheeseBallsDesc.Size = New System.Drawing.Size(349, 52)
         Me.CheeseBallsDesc.TabIndex = 62
-        Me.CheeseBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.CheeseBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CheeseBallsTitl
@@ -443,7 +443,7 @@ Partial Class Form1
         Me.BlueCrabAndCheddarPretzelsDesc.Name = "BlueCrabAndCheddarPretzelsDesc"
         Me.BlueCrabAndCheddarPretzelsDesc.Size = New System.Drawing.Size(349, 52)
         Me.BlueCrabAndCheddarPretzelsDesc.TabIndex = 59
-        Me.BlueCrabAndCheddarPretzelsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.BlueCrabAndCheddarPretzelsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BlueCrabAndCheddarPretzelsTitl
@@ -473,7 +473,7 @@ Partial Class Form1
         Me.SaltAndPepperCrispyCalamariDesc.Name = "SaltAndPepperCrispyCalamariDesc"
         Me.SaltAndPepperCrispyCalamariDesc.Size = New System.Drawing.Size(349, 52)
         Me.SaltAndPepperCrispyCalamariDesc.TabIndex = 56
-        Me.SaltAndPepperCrispyCalamariDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.SaltAndPepperCrispyCalamariDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SaltAndPepperCrispyCalamariTitl
@@ -503,7 +503,7 @@ Partial Class Form1
         Me.SweetAndSpicyPorkBellyDesc.Name = "SweetAndSpicyPorkBellyDesc"
         Me.SweetAndSpicyPorkBellyDesc.Size = New System.Drawing.Size(349, 52)
         Me.SweetAndSpicyPorkBellyDesc.TabIndex = 53
-        Me.SweetAndSpicyPorkBellyDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.SweetAndSpicyPorkBellyDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SweetAndSpicyPorkBellyTitl
@@ -533,7 +533,7 @@ Partial Class Form1
         Me.FlockOfFuckFriesDesc.Name = "FlockOfFuckFriesDesc"
         Me.FlockOfFuckFriesDesc.Size = New System.Drawing.Size(349, 52)
         Me.FlockOfFuckFriesDesc.TabIndex = 75
-        Me.FlockOfFuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.FlockOfFuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'FlockOfDuckFriesTitl
@@ -563,7 +563,7 @@ Partial Class Form1
         Me.DoubleDuckFriesDesc.Name = "DoubleDuckFriesDesc"
         Me.DoubleDuckFriesDesc.Size = New System.Drawing.Size(349, 52)
         Me.DoubleDuckFriesDesc.TabIndex = 72
-        Me.DoubleDuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.DoubleDuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'DoubleDuckFriesTitl
@@ -593,7 +593,7 @@ Partial Class Form1
         Me.DuckFatFriesDesc.Name = "DuckFatFriesDesc"
         Me.DuckFatFriesDesc.Size = New System.Drawing.Size(349, 52)
         Me.DuckFatFriesDesc.TabIndex = 69
-        Me.DuckFatFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.DuckFatFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'DuckFatFriesTitl
@@ -633,7 +633,7 @@ Partial Class Form1
         Me.TomatoAndPestoDesc.Name = "TomatoAndPestoDesc"
         Me.TomatoAndPestoDesc.Size = New System.Drawing.Size(349, 52)
         Me.TomatoAndPestoDesc.TabIndex = 91
-        Me.TomatoAndPestoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.TomatoAndPestoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'TomatoAndPestoTitl
@@ -663,7 +663,7 @@ Partial Class Form1
         Me.HellFireDesc.Name = "HellFireDesc"
         Me.HellFireDesc.Size = New System.Drawing.Size(349, 52)
         Me.HellFireDesc.TabIndex = 88
-        Me.HellFireDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.HellFireDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'HellFireTitl
@@ -693,7 +693,7 @@ Partial Class Form1
         Me.GardenDesc.Name = "GardenDesc"
         Me.GardenDesc.Size = New System.Drawing.Size(349, 52)
         Me.GardenDesc.TabIndex = 85
-        Me.GardenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.GardenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'GardenTitl
@@ -723,7 +723,7 @@ Partial Class Form1
         Me.SausageAndPeppersDesc.Name = "SausageAndPeppersDesc"
         Me.SausageAndPeppersDesc.Size = New System.Drawing.Size(349, 52)
         Me.SausageAndPeppersDesc.TabIndex = 82
-        Me.SausageAndPeppersDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.SausageAndPeppersDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SausageAndPeppersTitl
@@ -753,7 +753,7 @@ Partial Class Form1
         Me.EasternShoreDesc.Name = "EasternShoreDesc"
         Me.EasternShoreDesc.Size = New System.Drawing.Size(349, 52)
         Me.EasternShoreDesc.TabIndex = 79
-        Me.EasternShoreDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.EasternShoreDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'EasternShoreTitl
@@ -793,7 +793,7 @@ Partial Class Form1
         Me.FeelingExtraSweetDesc.Name = "FeelingExtraSweetDesc"
         Me.FeelingExtraSweetDesc.Size = New System.Drawing.Size(349, 52)
         Me.FeelingExtraSweetDesc.TabIndex = 101
-        Me.FeelingExtraSweetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.FeelingExtraSweetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'FeelingExtraSweetTitl
@@ -893,7 +893,7 @@ Partial Class Form1
         Me.SpicyGrilledChickenDesc.Name = "SpicyGrilledChickenDesc"
         Me.SpicyGrilledChickenDesc.Size = New System.Drawing.Size(349, 52)
         Me.SpicyGrilledChickenDesc.TabIndex = 112
-        Me.SpicyGrilledChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.SpicyGrilledChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SpicyGrilledChickenTitl
@@ -923,7 +923,7 @@ Partial Class Form1
         Me.BaconAndBlueDesc.Name = "BaconAndBlueDesc"
         Me.BaconAndBlueDesc.Size = New System.Drawing.Size(349, 52)
         Me.BaconAndBlueDesc.TabIndex = 109
-        Me.BaconAndBlueDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.BaconAndBlueDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BaconAndBlueTitl
@@ -953,7 +953,7 @@ Partial Class Form1
         Me.CTBurgerDesc.Name = "CTBurgerDesc"
         Me.CTBurgerDesc.Size = New System.Drawing.Size(349, 52)
         Me.CTBurgerDesc.TabIndex = 106
-        Me.CTBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.CTBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CTBurgerTitl
@@ -993,7 +993,7 @@ Partial Class Form1
         Me.DuckBLTDesc.Name = "DuckBLTDesc"
         Me.DuckBLTDesc.Size = New System.Drawing.Size(349, 52)
         Me.DuckBLTDesc.TabIndex = 122
-        Me.DuckBLTDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.DuckBLTDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'DuckBLTTitl
@@ -1023,7 +1023,7 @@ Partial Class Form1
         Me.BlackBeanAndTomatoDesc.Name = "BlackBeanAndTomatoDesc"
         Me.BlackBeanAndTomatoDesc.Size = New System.Drawing.Size(349, 52)
         Me.BlackBeanAndTomatoDesc.TabIndex = 119
-        Me.BlackBeanAndTomatoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.BlackBeanAndTomatoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BlackBeanAndTomatoTitl
@@ -1053,7 +1053,7 @@ Partial Class Form1
         Me.SteakSandwichDesc.Name = "SteakSandwichDesc"
         Me.SteakSandwichDesc.Size = New System.Drawing.Size(349, 52)
         Me.SteakSandwichDesc.TabIndex = 116
-        Me.SteakSandwichDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.SteakSandwichDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SteakSandwichTitl
@@ -1083,7 +1083,7 @@ Partial Class Form1
         Me.ConvoyBurgerDesc.Name = "ConvoyBurgerDesc"
         Me.ConvoyBurgerDesc.Size = New System.Drawing.Size(349, 52)
         Me.ConvoyBurgerDesc.TabIndex = 125
-        Me.ConvoyBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.ConvoyBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'ConvoyBurgerTitl
@@ -1113,7 +1113,7 @@ Partial Class Form1
         Me.MixedBerryAndAlmondDesc.Name = "MixedBerryAndAlmondDesc"
         Me.MixedBerryAndAlmondDesc.Size = New System.Drawing.Size(349, 52)
         Me.MixedBerryAndAlmondDesc.TabIndex = 139
-        Me.MixedBerryAndAlmondDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.MixedBerryAndAlmondDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'MixedBerryAndAlmondTitl
@@ -1153,7 +1153,7 @@ Partial Class Form1
         Me.RoastedBeetDesc.Name = "RoastedBeetDesc"
         Me.RoastedBeetDesc.Size = New System.Drawing.Size(349, 52)
         Me.RoastedBeetDesc.TabIndex = 135
-        Me.RoastedBeetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.RoastedBeetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'RoastedBeetTitl
@@ -1183,7 +1183,7 @@ Partial Class Form1
         Me.ClassicCaesarDesc.Name = "ClassicCaesarDesc"
         Me.ClassicCaesarDesc.Size = New System.Drawing.Size(349, 52)
         Me.ClassicCaesarDesc.TabIndex = 132
-        Me.ClassicCaesarDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.ClassicCaesarDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'ClassicCaesarTitl
@@ -1213,7 +1213,7 @@ Partial Class Form1
         Me.SweetCornAndShrimpDesc.Name = "SweetCornAndShrimpDesc"
         Me.SweetCornAndShrimpDesc.Size = New System.Drawing.Size(349, 52)
         Me.SweetCornAndShrimpDesc.TabIndex = 129
-        Me.SweetCornAndShrimpDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.SweetCornAndShrimpDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SweetCornAndShrimpTitl
@@ -1283,7 +1283,7 @@ Partial Class Form1
         Me.TabascoSlawDesc.Name = "TabascoSlawDesc"
         Me.TabascoSlawDesc.Size = New System.Drawing.Size(349, 52)
         Me.TabascoSlawDesc.TabIndex = 146
-        Me.TabascoSlawDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.TabascoSlawDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'TabascoSlawTitl
@@ -1313,7 +1313,7 @@ Partial Class Form1
         Me.CharredCornSuccotashDesc.Name = "CharredCornSuccotashDesc"
         Me.CharredCornSuccotashDesc.Size = New System.Drawing.Size(349, 52)
         Me.CharredCornSuccotashDesc.TabIndex = 143
-        Me.CharredCornSuccotashDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.CharredCornSuccotashDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CharredCornSuccotashTitl
@@ -1353,7 +1353,7 @@ Partial Class Form1
         Me.SearedSalmonDesc.Name = "SearedSalmonDesc"
         Me.SearedSalmonDesc.Size = New System.Drawing.Size(349, 52)
         Me.SearedSalmonDesc.TabIndex = 169
-        Me.SearedSalmonDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.SearedSalmonDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SearedSalmonTitl
@@ -1383,7 +1383,7 @@ Partial Class Form1
         Me.PorkDuckAndPolentaDesc.Name = "PorkDuckAndPolentaDesc"
         Me.PorkDuckAndPolentaDesc.Size = New System.Drawing.Size(349, 52)
         Me.PorkDuckAndPolentaDesc.TabIndex = 166
-        Me.PorkDuckAndPolentaDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.PorkDuckAndPolentaDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'PorkDuckAndPolentaTitl
@@ -1413,7 +1413,7 @@ Partial Class Form1
         Me.CrabCakeAndFriedChickenDesc.Name = "CrabCakeAndFriedChickenDesc"
         Me.CrabCakeAndFriedChickenDesc.Size = New System.Drawing.Size(349, 52)
         Me.CrabCakeAndFriedChickenDesc.TabIndex = 163
-        Me.CrabCakeAndFriedChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.CrabCakeAndFriedChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CrabCakeAndFriedChickenTitl
@@ -1443,7 +1443,7 @@ Partial Class Form1
         Me.BeerBatteredFishAndChipsDesc.Name = "BeerBatteredFishAndChipsDesc"
         Me.BeerBatteredFishAndChipsDesc.Size = New System.Drawing.Size(349, 52)
         Me.BeerBatteredFishAndChipsDesc.TabIndex = 160
-        Me.BeerBatteredFishAndChipsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.BeerBatteredFishAndChipsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BeerBatteredFishAndChipsTitl
@@ -1473,7 +1473,7 @@ Partial Class Form1
         Me.WhiteWineMusselsDesc.Name = "WhiteWineMusselsDesc"
         Me.WhiteWineMusselsDesc.Size = New System.Drawing.Size(349, 52)
         Me.WhiteWineMusselsDesc.TabIndex = 157
-        Me.WhiteWineMusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.WhiteWineMusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'WhiteWineMusselsTitl
@@ -1503,7 +1503,7 @@ Partial Class Form1
         Me.MarketSteakFritesDesc.Name = "MarketSteakFritesDesc"
         Me.MarketSteakFritesDesc.Size = New System.Drawing.Size(349, 52)
         Me.MarketSteakFritesDesc.TabIndex = 154
-        Me.MarketSteakFritesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
+        Me.MarketSteakFritesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'MarketSteakFritesTitl
@@ -1528,17 +1528,17 @@ Partial Class Form1
         'spanishLink
         '
         Me.spanishLink.AutoSize = True
-        Me.spanishLink.Location = New System.Drawing.Point(698, 9)
+        Me.spanishLink.Location = New System.Drawing.Point(645, 9)
         Me.spanishLink.Name = "spanishLink"
         Me.spanishLink.Size = New System.Drawing.Size(45, 13)
         Me.spanishLink.TabIndex = 171
         Me.spanishLink.TabStop = True
-        Me.spanishLink.Text = "Espanol"
+        Me.spanishLink.Text = "Español"
         '
         'englishLink
         '
         Me.englishLink.AutoSize = True
-        Me.englishLink.Location = New System.Drawing.Point(653, 9)
+        Me.englishLink.Location = New System.Drawing.Point(598, 9)
         Me.englishLink.Name = "englishLink"
         Me.englishLink.Size = New System.Drawing.Size(41, 13)
         Me.englishLink.TabIndex = 172
@@ -1548,38 +1548,38 @@ Partial Class Form1
         'frenchLink
         '
         Me.frenchLink.AutoSize = True
-        Me.frenchLink.Location = New System.Drawing.Point(600, 9)
+        Me.frenchLink.Location = New System.Drawing.Point(696, 9)
         Me.frenchLink.Name = "frenchLink"
         Me.frenchLink.Size = New System.Drawing.Size(47, 13)
         Me.frenchLink.TabIndex = 173
         Me.frenchLink.TabStop = True
-        Me.frenchLink.Text = "Francias"
+        Me.frenchLink.Text = "Français"
         '
         'saudiLink
         '
         Me.saudiLink.AutoSize = True
-        Me.saudiLink.Location = New System.Drawing.Point(560, 9)
+        Me.saudiLink.Location = New System.Drawing.Point(518, 9)
         Me.saudiLink.Name = "saudiLink"
-        Me.saudiLink.Size = New System.Drawing.Size(34, 13)
+        Me.saudiLink.Size = New System.Drawing.Size(37, 13)
         Me.saudiLink.TabIndex = 174
         Me.saudiLink.TabStop = True
-        Me.saudiLink.Text = "Saudi"
+        Me.saudiLink.Text = "العَرَبِيَّة‎"
         '
         'chineseLink
         '
         Me.chineseLink.AutoSize = True
-        Me.chineseLink.Location = New System.Drawing.Point(503, 9)
+        Me.chineseLink.Location = New System.Drawing.Point(561, 9)
         Me.chineseLink.Name = "chineseLink"
-        Me.chineseLink.Size = New System.Drawing.Size(45, 13)
+        Me.chineseLink.Size = New System.Drawing.Size(31, 13)
         Me.chineseLink.TabIndex = 175
         Me.chineseLink.TabStop = True
-        Me.chineseLink.Text = "Chinese"
+        Me.chineseLink.Text = "中文"
         '
         'Form1
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None
         Me.AutoScroll = True
-        Me.ClientSize = New System.Drawing.Size(772, 933)
+        Me.ClientSize = New System.Drawing.Size(772, 881)
         Me.Controls.Add(Me.chineseLink)
         Me.Controls.Add(Me.saudiLink)
         Me.Controls.Add(Me.frenchLink)
