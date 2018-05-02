@@ -170,7 +170,7 @@ Partial Class Form1
         Me.OurMenuTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.OurMenuTitl.Location = New System.Drawing.Point(12, 39)
         Me.OurMenuTitl.Name = "OurMenuTitl"
-        Me.OurMenuTitl.Size = New System.Drawing.Size(731, 38)
+        Me.OurMenuTitl.Size = New System.Drawing.Size(986, 38)
         Me.OurMenuTitl.TabIndex = 0
         Me.OurMenuTitl.Text = "Label1"
         Me.OurMenuTitl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -180,7 +180,7 @@ Partial Class Form1
         Me.BeetAndWatermelonPokeDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BeetAndWatermelonPokeDesc.Location = New System.Drawing.Point(15, 405)
         Me.BeetAndWatermelonPokeDesc.Name = "BeetAndWatermelonPokeDesc"
-        Me.BeetAndWatermelonPokeDesc.Size = New System.Drawing.Size(349, 52)
+        Me.BeetAndWatermelonPokeDesc.Size = New System.Drawing.Size(487, 52)
         Me.BeetAndWatermelonPokeDesc.TabIndex = 35
         Me.BeetAndWatermelonPokeDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -190,7 +190,7 @@ Partial Class Form1
         Me.BeetAndWatermelonPokeTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BeetAndWatermelonPokeTitl.Location = New System.Drawing.Point(15, 384)
         Me.BeetAndWatermelonPokeTitl.Name = "BeetAndWatermelonPokeTitl"
-        Me.BeetAndWatermelonPokeTitl.Size = New System.Drawing.Size(263, 21)
+        Me.BeetAndWatermelonPokeTitl.Size = New System.Drawing.Size(401, 21)
         Me.BeetAndWatermelonPokeTitl.TabIndex = 34
         Me.BeetAndWatermelonPokeTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -199,7 +199,7 @@ Partial Class Form1
         Me.StartersTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.StartersTitl.Location = New System.Drawing.Point(12, 340)
         Me.StartersTitl.Name = "StartersTitl"
-        Me.StartersTitl.Size = New System.Drawing.Size(352, 44)
+        Me.StartersTitl.Size = New System.Drawing.Size(490, 44)
         Me.StartersTitl.TabIndex = 33
         Me.StartersTitl.Text = "Label2"
         Me.StartersTitl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -210,7 +210,7 @@ Partial Class Form1
         Me.Label1.ForeColor = System.Drawing.Color.Red
         Me.Label1.Location = New System.Drawing.Point(285, 384)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(79, 21)
+        Me.Label1.Size = New System.Drawing.Size(217, 21)
         Me.Label1.TabIndex = 36
         Me.Label1.Text = "$15.50"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -221,7 +221,7 @@ Partial Class Form1
         Me.Label2.ForeColor = System.Drawing.Color.Red
         Me.Label2.Location = New System.Drawing.Point(285, 457)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(79, 21)
+        Me.Label2.Size = New System.Drawing.Size(217, 21)
         Me.Label2.TabIndex = 39
         Me.Label2.Text = "$15.50"
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -231,7 +231,7 @@ Partial Class Form1
         Me.BuffaloCauliflowerDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BuffaloCauliflowerDesc.Location = New System.Drawing.Point(15, 478)
         Me.BuffaloCauliflowerDesc.Name = "BuffaloCauliflowerDesc"
-        Me.BuffaloCauliflowerDesc.Size = New System.Drawing.Size(349, 52)
+        Me.BuffaloCauliflowerDesc.Size = New System.Drawing.Size(487, 52)
         Me.BuffaloCauliflowerDesc.TabIndex = 38
         Me.BuffaloCauliflowerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -241,7 +241,7 @@ Partial Class Form1
         Me.BuffaloCauliflowerTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BuffaloCauliflowerTitl.Location = New System.Drawing.Point(15, 457)
         Me.BuffaloCauliflowerTitl.Name = "BuffaloCauliflowerTitl"
-        Me.BuffaloCauliflowerTitl.Size = New System.Drawing.Size(263, 21)
+        Me.BuffaloCauliflowerTitl.Size = New System.Drawing.Size(401, 21)
         Me.BuffaloCauliflowerTitl.TabIndex = 37
         Me.BuffaloCauliflowerTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -251,7 +251,7 @@ Partial Class Form1
         Me.Label6.ForeColor = System.Drawing.Color.Red
         Me.Label6.Location = New System.Drawing.Point(285, 530)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(79, 21)
+        Me.Label6.Size = New System.Drawing.Size(217, 21)
         Me.Label6.TabIndex = 42
         Me.Label6.Text = "$15.50"
         Me.Label6.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -261,7 +261,7 @@ Partial Class Form1
         Me.CapreseDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CapreseDesc.Location = New System.Drawing.Point(15, 551)
         Me.CapreseDesc.Name = "CapreseDesc"
-        Me.CapreseDesc.Size = New System.Drawing.Size(349, 52)
+        Me.CapreseDesc.Size = New System.Drawing.Size(487, 52)
         Me.CapreseDesc.TabIndex = 41
         Me.CapreseDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -271,7 +271,7 @@ Partial Class Form1
         Me.CapreseTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CapreseTitl.Location = New System.Drawing.Point(15, 530)
         Me.CapreseTitl.Name = "CapreseTitl"
-        Me.CapreseTitl.Size = New System.Drawing.Size(263, 21)
+        Me.CapreseTitl.Size = New System.Drawing.Size(401, 21)
         Me.CapreseTitl.TabIndex = 40
         Me.CapreseTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -281,7 +281,7 @@ Partial Class Form1
         Me.Label9.ForeColor = System.Drawing.Color.Red
         Me.Label9.Location = New System.Drawing.Point(285, 749)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(79, 21)
+        Me.Label9.Size = New System.Drawing.Size(217, 21)
         Me.Label9.TabIndex = 51
         Me.Label9.Text = "$15.50"
         Me.Label9.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -291,7 +291,7 @@ Partial Class Form1
         Me.BaconAndBlueBrusselsDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BaconAndBlueBrusselsDesc.Location = New System.Drawing.Point(15, 770)
         Me.BaconAndBlueBrusselsDesc.Name = "BaconAndBlueBrusselsDesc"
-        Me.BaconAndBlueBrusselsDesc.Size = New System.Drawing.Size(349, 52)
+        Me.BaconAndBlueBrusselsDesc.Size = New System.Drawing.Size(487, 52)
         Me.BaconAndBlueBrusselsDesc.TabIndex = 50
         Me.BaconAndBlueBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -301,7 +301,7 @@ Partial Class Form1
         Me.BaconAndBlueBrusselsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BaconAndBlueBrusselsTitl.Location = New System.Drawing.Point(15, 749)
         Me.BaconAndBlueBrusselsTitl.Name = "BaconAndBlueBrusselsTitl"
-        Me.BaconAndBlueBrusselsTitl.Size = New System.Drawing.Size(263, 21)
+        Me.BaconAndBlueBrusselsTitl.Size = New System.Drawing.Size(401, 21)
         Me.BaconAndBlueBrusselsTitl.TabIndex = 49
         Me.BaconAndBlueBrusselsTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -311,7 +311,7 @@ Partial Class Form1
         Me.Label12.ForeColor = System.Drawing.Color.Red
         Me.Label12.Location = New System.Drawing.Point(285, 676)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(79, 21)
+        Me.Label12.Size = New System.Drawing.Size(217, 21)
         Me.Label12.TabIndex = 48
         Me.Label12.Text = "$15.50"
         Me.Label12.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -321,7 +321,7 @@ Partial Class Form1
         Me.OGFriedBrusselsDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.OGFriedBrusselsDesc.Location = New System.Drawing.Point(15, 697)
         Me.OGFriedBrusselsDesc.Name = "OGFriedBrusselsDesc"
-        Me.OGFriedBrusselsDesc.Size = New System.Drawing.Size(349, 52)
+        Me.OGFriedBrusselsDesc.Size = New System.Drawing.Size(487, 52)
         Me.OGFriedBrusselsDesc.TabIndex = 47
         Me.OGFriedBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -331,7 +331,7 @@ Partial Class Form1
         Me.OGFriedBrusselsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.OGFriedBrusselsTitl.Location = New System.Drawing.Point(15, 676)
         Me.OGFriedBrusselsTitl.Name = "OGFriedBrusselsTitl"
-        Me.OGFriedBrusselsTitl.Size = New System.Drawing.Size(263, 21)
+        Me.OGFriedBrusselsTitl.Size = New System.Drawing.Size(401, 21)
         Me.OGFriedBrusselsTitl.TabIndex = 46
         Me.OGFriedBrusselsTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -341,7 +341,7 @@ Partial Class Form1
         Me.Label15.ForeColor = System.Drawing.Color.Red
         Me.Label15.Location = New System.Drawing.Point(285, 603)
         Me.Label15.Name = "Label15"
-        Me.Label15.Size = New System.Drawing.Size(79, 21)
+        Me.Label15.Size = New System.Drawing.Size(217, 21)
         Me.Label15.TabIndex = 45
         Me.Label15.Text = "$15.50"
         Me.Label15.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -351,7 +351,7 @@ Partial Class Form1
         Me.CrispyChickenWingsDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CrispyChickenWingsDesc.Location = New System.Drawing.Point(15, 624)
         Me.CrispyChickenWingsDesc.Name = "CrispyChickenWingsDesc"
-        Me.CrispyChickenWingsDesc.Size = New System.Drawing.Size(349, 52)
+        Me.CrispyChickenWingsDesc.Size = New System.Drawing.Size(487, 52)
         Me.CrispyChickenWingsDesc.TabIndex = 44
         Me.CrispyChickenWingsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -361,7 +361,7 @@ Partial Class Form1
         Me.CrispyChickenWingsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CrispyChickenWingsTitl.Location = New System.Drawing.Point(15, 603)
         Me.CrispyChickenWingsTitl.Name = "CrispyChickenWingsTitl"
-        Me.CrispyChickenWingsTitl.Size = New System.Drawing.Size(263, 21)
+        Me.CrispyChickenWingsTitl.Size = New System.Drawing.Size(401, 21)
         Me.CrispyChickenWingsTitl.TabIndex = 43
         Me.CrispyChickenWingsTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -371,7 +371,7 @@ Partial Class Form1
         Me.Label18.ForeColor = System.Drawing.Color.Red
         Me.Label18.Location = New System.Drawing.Point(285, 1114)
         Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(79, 21)
+        Me.Label18.Size = New System.Drawing.Size(217, 21)
         Me.Label18.TabIndex = 66
         Me.Label18.Text = "$15.50"
         Me.Label18.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -381,7 +381,7 @@ Partial Class Form1
         Me.PretzelBallsDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.PretzelBallsDesc.Location = New System.Drawing.Point(15, 1135)
         Me.PretzelBallsDesc.Name = "PretzelBallsDesc"
-        Me.PretzelBallsDesc.Size = New System.Drawing.Size(349, 52)
+        Me.PretzelBallsDesc.Size = New System.Drawing.Size(487, 52)
         Me.PretzelBallsDesc.TabIndex = 65
         Me.PretzelBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -391,7 +391,7 @@ Partial Class Form1
         Me.PretzelBallsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.PretzelBallsTitl.Location = New System.Drawing.Point(15, 1114)
         Me.PretzelBallsTitl.Name = "PretzelBallsTitl"
-        Me.PretzelBallsTitl.Size = New System.Drawing.Size(263, 21)
+        Me.PretzelBallsTitl.Size = New System.Drawing.Size(401, 21)
         Me.PretzelBallsTitl.TabIndex = 64
         Me.PretzelBallsTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -401,7 +401,7 @@ Partial Class Form1
         Me.Label21.ForeColor = System.Drawing.Color.Red
         Me.Label21.Location = New System.Drawing.Point(285, 1041)
         Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(79, 21)
+        Me.Label21.Size = New System.Drawing.Size(217, 21)
         Me.Label21.TabIndex = 63
         Me.Label21.Text = "$15.50"
         Me.Label21.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -411,7 +411,7 @@ Partial Class Form1
         Me.CheeseBallsDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheeseBallsDesc.Location = New System.Drawing.Point(15, 1062)
         Me.CheeseBallsDesc.Name = "CheeseBallsDesc"
-        Me.CheeseBallsDesc.Size = New System.Drawing.Size(349, 52)
+        Me.CheeseBallsDesc.Size = New System.Drawing.Size(487, 52)
         Me.CheeseBallsDesc.TabIndex = 62
         Me.CheeseBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -421,7 +421,7 @@ Partial Class Form1
         Me.CheeseBallsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheeseBallsTitl.Location = New System.Drawing.Point(15, 1041)
         Me.CheeseBallsTitl.Name = "CheeseBallsTitl"
-        Me.CheeseBallsTitl.Size = New System.Drawing.Size(263, 21)
+        Me.CheeseBallsTitl.Size = New System.Drawing.Size(401, 21)
         Me.CheeseBallsTitl.TabIndex = 61
         Me.CheeseBallsTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -431,7 +431,7 @@ Partial Class Form1
         Me.Label24.ForeColor = System.Drawing.Color.Red
         Me.Label24.Location = New System.Drawing.Point(285, 968)
         Me.Label24.Name = "Label24"
-        Me.Label24.Size = New System.Drawing.Size(79, 21)
+        Me.Label24.Size = New System.Drawing.Size(217, 21)
         Me.Label24.TabIndex = 60
         Me.Label24.Text = "$15.50"
         Me.Label24.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -441,7 +441,7 @@ Partial Class Form1
         Me.BlueCrabAndCheddarPretzelsDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BlueCrabAndCheddarPretzelsDesc.Location = New System.Drawing.Point(15, 989)
         Me.BlueCrabAndCheddarPretzelsDesc.Name = "BlueCrabAndCheddarPretzelsDesc"
-        Me.BlueCrabAndCheddarPretzelsDesc.Size = New System.Drawing.Size(349, 52)
+        Me.BlueCrabAndCheddarPretzelsDesc.Size = New System.Drawing.Size(487, 52)
         Me.BlueCrabAndCheddarPretzelsDesc.TabIndex = 59
         Me.BlueCrabAndCheddarPretzelsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -451,7 +451,7 @@ Partial Class Form1
         Me.BlueCrabAndCheddarPretzelsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BlueCrabAndCheddarPretzelsTitl.Location = New System.Drawing.Point(15, 968)
         Me.BlueCrabAndCheddarPretzelsTitl.Name = "BlueCrabAndCheddarPretzelsTitl"
-        Me.BlueCrabAndCheddarPretzelsTitl.Size = New System.Drawing.Size(263, 21)
+        Me.BlueCrabAndCheddarPretzelsTitl.Size = New System.Drawing.Size(401, 21)
         Me.BlueCrabAndCheddarPretzelsTitl.TabIndex = 58
         Me.BlueCrabAndCheddarPretzelsTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -461,7 +461,7 @@ Partial Class Form1
         Me.Label27.ForeColor = System.Drawing.Color.Red
         Me.Label27.Location = New System.Drawing.Point(285, 895)
         Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(79, 21)
+        Me.Label27.Size = New System.Drawing.Size(217, 21)
         Me.Label27.TabIndex = 57
         Me.Label27.Text = "$15.50"
         Me.Label27.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -471,7 +471,7 @@ Partial Class Form1
         Me.SaltAndPepperCrispyCalamariDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.SaltAndPepperCrispyCalamariDesc.Location = New System.Drawing.Point(15, 916)
         Me.SaltAndPepperCrispyCalamariDesc.Name = "SaltAndPepperCrispyCalamariDesc"
-        Me.SaltAndPepperCrispyCalamariDesc.Size = New System.Drawing.Size(349, 52)
+        Me.SaltAndPepperCrispyCalamariDesc.Size = New System.Drawing.Size(487, 52)
         Me.SaltAndPepperCrispyCalamariDesc.TabIndex = 56
         Me.SaltAndPepperCrispyCalamariDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -481,7 +481,7 @@ Partial Class Form1
         Me.SaltAndPepperCrispyCalamariTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.SaltAndPepperCrispyCalamariTitl.Location = New System.Drawing.Point(15, 895)
         Me.SaltAndPepperCrispyCalamariTitl.Name = "SaltAndPepperCrispyCalamariTitl"
-        Me.SaltAndPepperCrispyCalamariTitl.Size = New System.Drawing.Size(263, 21)
+        Me.SaltAndPepperCrispyCalamariTitl.Size = New System.Drawing.Size(401, 21)
         Me.SaltAndPepperCrispyCalamariTitl.TabIndex = 55
         Me.SaltAndPepperCrispyCalamariTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -491,7 +491,7 @@ Partial Class Form1
         Me.Label33.ForeColor = System.Drawing.Color.Red
         Me.Label33.Location = New System.Drawing.Point(285, 822)
         Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(79, 21)
+        Me.Label33.Size = New System.Drawing.Size(217, 21)
         Me.Label33.TabIndex = 54
         Me.Label33.Text = "$15.50"
         Me.Label33.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -501,7 +501,7 @@ Partial Class Form1
         Me.SweetAndSpicyPorkBellyDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.SweetAndSpicyPorkBellyDesc.Location = New System.Drawing.Point(15, 843)
         Me.SweetAndSpicyPorkBellyDesc.Name = "SweetAndSpicyPorkBellyDesc"
-        Me.SweetAndSpicyPorkBellyDesc.Size = New System.Drawing.Size(349, 52)
+        Me.SweetAndSpicyPorkBellyDesc.Size = New System.Drawing.Size(487, 52)
         Me.SweetAndSpicyPorkBellyDesc.TabIndex = 53
         Me.SweetAndSpicyPorkBellyDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -511,7 +511,7 @@ Partial Class Form1
         Me.SweetAndSpicyPorkBellyTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.SweetAndSpicyPorkBellyTitl.Location = New System.Drawing.Point(15, 822)
         Me.SweetAndSpicyPorkBellyTitl.Name = "SweetAndSpicyPorkBellyTitl"
-        Me.SweetAndSpicyPorkBellyTitl.Size = New System.Drawing.Size(263, 21)
+        Me.SweetAndSpicyPorkBellyTitl.Size = New System.Drawing.Size(401, 21)
         Me.SweetAndSpicyPorkBellyTitl.TabIndex = 52
         Me.SweetAndSpicyPorkBellyTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -521,7 +521,7 @@ Partial Class Form1
         Me.Label36.ForeColor = System.Drawing.Color.Red
         Me.Label36.Location = New System.Drawing.Point(285, 267)
         Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(79, 21)
+        Me.Label36.Size = New System.Drawing.Size(217, 21)
         Me.Label36.TabIndex = 76
         Me.Label36.Text = "$15.50"
         Me.Label36.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -531,7 +531,7 @@ Partial Class Form1
         Me.FlockOfFuckFriesDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.FlockOfFuckFriesDesc.Location = New System.Drawing.Point(15, 288)
         Me.FlockOfFuckFriesDesc.Name = "FlockOfFuckFriesDesc"
-        Me.FlockOfFuckFriesDesc.Size = New System.Drawing.Size(349, 52)
+        Me.FlockOfFuckFriesDesc.Size = New System.Drawing.Size(487, 52)
         Me.FlockOfFuckFriesDesc.TabIndex = 75
         Me.FlockOfFuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -541,7 +541,7 @@ Partial Class Form1
         Me.FlockOfDuckFriesTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.FlockOfDuckFriesTitl.Location = New System.Drawing.Point(15, 267)
         Me.FlockOfDuckFriesTitl.Name = "FlockOfDuckFriesTitl"
-        Me.FlockOfDuckFriesTitl.Size = New System.Drawing.Size(263, 21)
+        Me.FlockOfDuckFriesTitl.Size = New System.Drawing.Size(401, 21)
         Me.FlockOfDuckFriesTitl.TabIndex = 74
         Me.FlockOfDuckFriesTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -551,7 +551,7 @@ Partial Class Form1
         Me.Label39.ForeColor = System.Drawing.Color.Red
         Me.Label39.Location = New System.Drawing.Point(285, 194)
         Me.Label39.Name = "Label39"
-        Me.Label39.Size = New System.Drawing.Size(79, 21)
+        Me.Label39.Size = New System.Drawing.Size(217, 21)
         Me.Label39.TabIndex = 73
         Me.Label39.Text = "$15.50"
         Me.Label39.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -561,7 +561,7 @@ Partial Class Form1
         Me.DoubleDuckFriesDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DoubleDuckFriesDesc.Location = New System.Drawing.Point(15, 215)
         Me.DoubleDuckFriesDesc.Name = "DoubleDuckFriesDesc"
-        Me.DoubleDuckFriesDesc.Size = New System.Drawing.Size(349, 52)
+        Me.DoubleDuckFriesDesc.Size = New System.Drawing.Size(487, 52)
         Me.DoubleDuckFriesDesc.TabIndex = 72
         Me.DoubleDuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -571,7 +571,7 @@ Partial Class Form1
         Me.DoubleDuckFriesTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DoubleDuckFriesTitl.Location = New System.Drawing.Point(15, 194)
         Me.DoubleDuckFriesTitl.Name = "DoubleDuckFriesTitl"
-        Me.DoubleDuckFriesTitl.Size = New System.Drawing.Size(263, 21)
+        Me.DoubleDuckFriesTitl.Size = New System.Drawing.Size(401, 21)
         Me.DoubleDuckFriesTitl.TabIndex = 71
         Me.DoubleDuckFriesTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -581,7 +581,7 @@ Partial Class Form1
         Me.Label42.ForeColor = System.Drawing.Color.Red
         Me.Label42.Location = New System.Drawing.Point(285, 121)
         Me.Label42.Name = "Label42"
-        Me.Label42.Size = New System.Drawing.Size(79, 21)
+        Me.Label42.Size = New System.Drawing.Size(217, 21)
         Me.Label42.TabIndex = 70
         Me.Label42.Text = "$15.50"
         Me.Label42.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -591,7 +591,7 @@ Partial Class Form1
         Me.DuckFatFriesDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DuckFatFriesDesc.Location = New System.Drawing.Point(15, 142)
         Me.DuckFatFriesDesc.Name = "DuckFatFriesDesc"
-        Me.DuckFatFriesDesc.Size = New System.Drawing.Size(349, 52)
+        Me.DuckFatFriesDesc.Size = New System.Drawing.Size(487, 52)
         Me.DuckFatFriesDesc.TabIndex = 69
         Me.DuckFatFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -601,7 +601,7 @@ Partial Class Form1
         Me.DuckFatFriesTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DuckFatFriesTitl.Location = New System.Drawing.Point(15, 121)
         Me.DuckFatFriesTitl.Name = "DuckFatFriesTitl"
-        Me.DuckFatFriesTitl.Size = New System.Drawing.Size(263, 21)
+        Me.DuckFatFriesTitl.Size = New System.Drawing.Size(401, 21)
         Me.DuckFatFriesTitl.TabIndex = 68
         Me.DuckFatFriesTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -610,7 +610,7 @@ Partial Class Form1
         Me.DuckDuckFryTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DuckDuckFryTitl.Location = New System.Drawing.Point(12, 77)
         Me.DuckDuckFryTitl.Name = "DuckDuckFryTitl"
-        Me.DuckDuckFryTitl.Size = New System.Drawing.Size(352, 44)
+        Me.DuckDuckFryTitl.Size = New System.Drawing.Size(490, 44)
         Me.DuckDuckFryTitl.TabIndex = 67
         Me.DuckDuckFryTitl.Text = "Label2"
         Me.DuckDuckFryTitl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -621,7 +621,7 @@ Partial Class Form1
         Me.Label46.ForeColor = System.Drawing.Color.Red
         Me.Label46.Location = New System.Drawing.Point(285, 1523)
         Me.Label46.Name = "Label46"
-        Me.Label46.Size = New System.Drawing.Size(79, 21)
+        Me.Label46.Size = New System.Drawing.Size(217, 21)
         Me.Label46.TabIndex = 92
         Me.Label46.Text = "$15.50"
         Me.Label46.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -631,7 +631,7 @@ Partial Class Form1
         Me.TomatoAndPestoDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TomatoAndPestoDesc.Location = New System.Drawing.Point(15, 1544)
         Me.TomatoAndPestoDesc.Name = "TomatoAndPestoDesc"
-        Me.TomatoAndPestoDesc.Size = New System.Drawing.Size(349, 52)
+        Me.TomatoAndPestoDesc.Size = New System.Drawing.Size(487, 52)
         Me.TomatoAndPestoDesc.TabIndex = 91
         Me.TomatoAndPestoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -641,7 +641,7 @@ Partial Class Form1
         Me.TomatoAndPestoTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TomatoAndPestoTitl.Location = New System.Drawing.Point(15, 1523)
         Me.TomatoAndPestoTitl.Name = "TomatoAndPestoTitl"
-        Me.TomatoAndPestoTitl.Size = New System.Drawing.Size(263, 21)
+        Me.TomatoAndPestoTitl.Size = New System.Drawing.Size(401, 21)
         Me.TomatoAndPestoTitl.TabIndex = 90
         Me.TomatoAndPestoTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -651,7 +651,7 @@ Partial Class Form1
         Me.Label49.ForeColor = System.Drawing.Color.Red
         Me.Label49.Location = New System.Drawing.Point(285, 1450)
         Me.Label49.Name = "Label49"
-        Me.Label49.Size = New System.Drawing.Size(79, 21)
+        Me.Label49.Size = New System.Drawing.Size(217, 21)
         Me.Label49.TabIndex = 89
         Me.Label49.Text = "$15.50"
         Me.Label49.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -661,7 +661,7 @@ Partial Class Form1
         Me.HellFireDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.HellFireDesc.Location = New System.Drawing.Point(15, 1471)
         Me.HellFireDesc.Name = "HellFireDesc"
-        Me.HellFireDesc.Size = New System.Drawing.Size(349, 52)
+        Me.HellFireDesc.Size = New System.Drawing.Size(487, 52)
         Me.HellFireDesc.TabIndex = 88
         Me.HellFireDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -671,7 +671,7 @@ Partial Class Form1
         Me.HellFireTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.HellFireTitl.Location = New System.Drawing.Point(15, 1450)
         Me.HellFireTitl.Name = "HellFireTitl"
-        Me.HellFireTitl.Size = New System.Drawing.Size(263, 21)
+        Me.HellFireTitl.Size = New System.Drawing.Size(401, 21)
         Me.HellFireTitl.TabIndex = 87
         Me.HellFireTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -681,7 +681,7 @@ Partial Class Form1
         Me.Label52.ForeColor = System.Drawing.Color.Red
         Me.Label52.Location = New System.Drawing.Point(285, 1377)
         Me.Label52.Name = "Label52"
-        Me.Label52.Size = New System.Drawing.Size(79, 21)
+        Me.Label52.Size = New System.Drawing.Size(217, 21)
         Me.Label52.TabIndex = 86
         Me.Label52.Text = "$15.50"
         Me.Label52.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -691,7 +691,7 @@ Partial Class Form1
         Me.GardenDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GardenDesc.Location = New System.Drawing.Point(15, 1398)
         Me.GardenDesc.Name = "GardenDesc"
-        Me.GardenDesc.Size = New System.Drawing.Size(349, 52)
+        Me.GardenDesc.Size = New System.Drawing.Size(487, 52)
         Me.GardenDesc.TabIndex = 85
         Me.GardenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -701,7 +701,7 @@ Partial Class Form1
         Me.GardenTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GardenTitl.Location = New System.Drawing.Point(15, 1377)
         Me.GardenTitl.Name = "GardenTitl"
-        Me.GardenTitl.Size = New System.Drawing.Size(263, 21)
+        Me.GardenTitl.Size = New System.Drawing.Size(401, 21)
         Me.GardenTitl.TabIndex = 84
         Me.GardenTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -711,7 +711,7 @@ Partial Class Form1
         Me.Label55.ForeColor = System.Drawing.Color.Red
         Me.Label55.Location = New System.Drawing.Point(285, 1304)
         Me.Label55.Name = "Label55"
-        Me.Label55.Size = New System.Drawing.Size(79, 21)
+        Me.Label55.Size = New System.Drawing.Size(217, 21)
         Me.Label55.TabIndex = 83
         Me.Label55.Text = "$15.50"
         Me.Label55.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -721,7 +721,7 @@ Partial Class Form1
         Me.SausageAndPeppersDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.SausageAndPeppersDesc.Location = New System.Drawing.Point(15, 1325)
         Me.SausageAndPeppersDesc.Name = "SausageAndPeppersDesc"
-        Me.SausageAndPeppersDesc.Size = New System.Drawing.Size(349, 52)
+        Me.SausageAndPeppersDesc.Size = New System.Drawing.Size(487, 52)
         Me.SausageAndPeppersDesc.TabIndex = 82
         Me.SausageAndPeppersDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -731,7 +731,7 @@ Partial Class Form1
         Me.SausageAndPeppersTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.SausageAndPeppersTitl.Location = New System.Drawing.Point(15, 1304)
         Me.SausageAndPeppersTitl.Name = "SausageAndPeppersTitl"
-        Me.SausageAndPeppersTitl.Size = New System.Drawing.Size(263, 21)
+        Me.SausageAndPeppersTitl.Size = New System.Drawing.Size(401, 21)
         Me.SausageAndPeppersTitl.TabIndex = 81
         Me.SausageAndPeppersTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -741,7 +741,7 @@ Partial Class Form1
         Me.Label58.ForeColor = System.Drawing.Color.Red
         Me.Label58.Location = New System.Drawing.Point(285, 1231)
         Me.Label58.Name = "Label58"
-        Me.Label58.Size = New System.Drawing.Size(79, 21)
+        Me.Label58.Size = New System.Drawing.Size(217, 21)
         Me.Label58.TabIndex = 80
         Me.Label58.Text = "$15.50"
         Me.Label58.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -751,7 +751,7 @@ Partial Class Form1
         Me.EasternShoreDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.EasternShoreDesc.Location = New System.Drawing.Point(15, 1252)
         Me.EasternShoreDesc.Name = "EasternShoreDesc"
-        Me.EasternShoreDesc.Size = New System.Drawing.Size(349, 52)
+        Me.EasternShoreDesc.Size = New System.Drawing.Size(487, 52)
         Me.EasternShoreDesc.TabIndex = 79
         Me.EasternShoreDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -761,7 +761,7 @@ Partial Class Form1
         Me.EasternShoreTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.EasternShoreTitl.Location = New System.Drawing.Point(15, 1231)
         Me.EasternShoreTitl.Name = "EasternShoreTitl"
-        Me.EasternShoreTitl.Size = New System.Drawing.Size(263, 21)
+        Me.EasternShoreTitl.Size = New System.Drawing.Size(401, 21)
         Me.EasternShoreTitl.TabIndex = 78
         Me.EasternShoreTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -770,7 +770,7 @@ Partial Class Form1
         Me.FlatbreadsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.FlatbreadsTitl.Location = New System.Drawing.Point(12, 1187)
         Me.FlatbreadsTitl.Name = "FlatbreadsTitl"
-        Me.FlatbreadsTitl.Size = New System.Drawing.Size(352, 44)
+        Me.FlatbreadsTitl.Size = New System.Drawing.Size(490, 44)
         Me.FlatbreadsTitl.TabIndex = 77
         Me.FlatbreadsTitl.Text = "Label2"
         Me.FlatbreadsTitl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -781,7 +781,7 @@ Partial Class Form1
         Me.Label62.ForeColor = System.Drawing.Color.Red
         Me.Label62.Location = New System.Drawing.Point(285, 1714)
         Me.Label62.Name = "Label62"
-        Me.Label62.Size = New System.Drawing.Size(79, 21)
+        Me.Label62.Size = New System.Drawing.Size(217, 21)
         Me.Label62.TabIndex = 102
         Me.Label62.Text = "$15.50"
         Me.Label62.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -791,7 +791,7 @@ Partial Class Form1
         Me.FeelingExtraSweetDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.FeelingExtraSweetDesc.Location = New System.Drawing.Point(15, 1735)
         Me.FeelingExtraSweetDesc.Name = "FeelingExtraSweetDesc"
-        Me.FeelingExtraSweetDesc.Size = New System.Drawing.Size(349, 52)
+        Me.FeelingExtraSweetDesc.Size = New System.Drawing.Size(487, 52)
         Me.FeelingExtraSweetDesc.TabIndex = 101
         Me.FeelingExtraSweetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -801,7 +801,7 @@ Partial Class Form1
         Me.FeelingExtraSweetTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.FeelingExtraSweetTitl.Location = New System.Drawing.Point(15, 1714)
         Me.FeelingExtraSweetTitl.Name = "FeelingExtraSweetTitl"
-        Me.FeelingExtraSweetTitl.Size = New System.Drawing.Size(263, 21)
+        Me.FeelingExtraSweetTitl.Size = New System.Drawing.Size(401, 21)
         Me.FeelingExtraSweetTitl.TabIndex = 100
         Me.FeelingExtraSweetTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -811,7 +811,7 @@ Partial Class Form1
         Me.Label65.ForeColor = System.Drawing.Color.Red
         Me.Label65.Location = New System.Drawing.Point(285, 1695)
         Me.Label65.Name = "Label65"
-        Me.Label65.Size = New System.Drawing.Size(79, 21)
+        Me.Label65.Size = New System.Drawing.Size(217, 21)
         Me.Label65.TabIndex = 99
         Me.Label65.Text = "$15.50"
         Me.Label65.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -821,7 +821,7 @@ Partial Class Form1
         Me.FruityAndSweetTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.FruityAndSweetTitl.Location = New System.Drawing.Point(15, 1695)
         Me.FruityAndSweetTitl.Name = "FruityAndSweetTitl"
-        Me.FruityAndSweetTitl.Size = New System.Drawing.Size(263, 21)
+        Me.FruityAndSweetTitl.Size = New System.Drawing.Size(401, 21)
         Me.FruityAndSweetTitl.TabIndex = 97
         Me.FruityAndSweetTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -831,7 +831,7 @@ Partial Class Form1
         Me.Label68.ForeColor = System.Drawing.Color.Red
         Me.Label68.Location = New System.Drawing.Point(285, 1674)
         Me.Label68.Name = "Label68"
-        Me.Label68.Size = New System.Drawing.Size(79, 21)
+        Me.Label68.Size = New System.Drawing.Size(217, 21)
         Me.Label68.TabIndex = 96
         Me.Label68.Text = "$15.50"
         Me.Label68.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -841,7 +841,7 @@ Partial Class Form1
         Me.ChocolatelyGoodnessTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ChocolatelyGoodnessTitl.Location = New System.Drawing.Point(15, 1674)
         Me.ChocolatelyGoodnessTitl.Name = "ChocolatelyGoodnessTitl"
-        Me.ChocolatelyGoodnessTitl.Size = New System.Drawing.Size(263, 21)
+        Me.ChocolatelyGoodnessTitl.Size = New System.Drawing.Size(401, 21)
         Me.ChocolatelyGoodnessTitl.TabIndex = 94
         Me.ChocolatelyGoodnessTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -850,7 +850,7 @@ Partial Class Form1
         Me.SeasonalSweetsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.SeasonalSweetsTitl.Location = New System.Drawing.Point(12, 1596)
         Me.SeasonalSweetsTitl.Name = "SeasonalSweetsTitl"
-        Me.SeasonalSweetsTitl.Size = New System.Drawing.Size(352, 44)
+        Me.SeasonalSweetsTitl.Size = New System.Drawing.Size(490, 44)
         Me.SeasonalSweetsTitl.TabIndex = 93
         Me.SeasonalSweetsTitl.Text = "Label2"
         Me.SeasonalSweetsTitl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -860,7 +860,7 @@ Partial Class Form1
         Me.SeasonalSweetsDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.SeasonalSweetsDesc.Location = New System.Drawing.Point(15, 1640)
         Me.SeasonalSweetsDesc.Name = "SeasonalSweetsDesc"
-        Me.SeasonalSweetsDesc.Size = New System.Drawing.Size(349, 34)
+        Me.SeasonalSweetsDesc.Size = New System.Drawing.Size(487, 34)
         Me.SeasonalSweetsDesc.TabIndex = 103
         Me.SeasonalSweetsDesc.Text = "Our desserts rotate seasonally, please ask our staff what's available!!!"
         Me.SeasonalSweetsDesc.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -868,9 +868,9 @@ Partial Class Form1
         'BurgersAndSandwichesDesc
         '
         Me.BurgersAndSandwichesDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BurgersAndSandwichesDesc.Location = New System.Drawing.Point(373, 736)
+        Me.BurgersAndSandwichesDesc.Location = New System.Drawing.Point(511, 736)
         Me.BurgersAndSandwichesDesc.Name = "BurgersAndSandwichesDesc"
-        Me.BurgersAndSandwichesDesc.Size = New System.Drawing.Size(349, 34)
+        Me.BurgersAndSandwichesDesc.Size = New System.Drawing.Size(487, 34)
         Me.BurgersAndSandwichesDesc.TabIndex = 114
         Me.BurgersAndSandwichesDesc.Text = "Our desserts rotate seasonally, please ask our staff what's available!!!"
         Me.BurgersAndSandwichesDesc.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -879,9 +879,9 @@ Partial Class Form1
         '
         Me.Label73.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label73.ForeColor = System.Drawing.Color.Red
-        Me.Label73.Location = New System.Drawing.Point(643, 916)
+        Me.Label73.Location = New System.Drawing.Point(781, 916)
         Me.Label73.Name = "Label73"
-        Me.Label73.Size = New System.Drawing.Size(79, 21)
+        Me.Label73.Size = New System.Drawing.Size(217, 21)
         Me.Label73.TabIndex = 113
         Me.Label73.Text = "$15.50"
         Me.Label73.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -889,9 +889,9 @@ Partial Class Form1
         'SpicyGrilledChickenDesc
         '
         Me.SpicyGrilledChickenDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.SpicyGrilledChickenDesc.Location = New System.Drawing.Point(373, 937)
+        Me.SpicyGrilledChickenDesc.Location = New System.Drawing.Point(511, 937)
         Me.SpicyGrilledChickenDesc.Name = "SpicyGrilledChickenDesc"
-        Me.SpicyGrilledChickenDesc.Size = New System.Drawing.Size(349, 52)
+        Me.SpicyGrilledChickenDesc.Size = New System.Drawing.Size(487, 52)
         Me.SpicyGrilledChickenDesc.TabIndex = 112
         Me.SpicyGrilledChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -899,9 +899,9 @@ Partial Class Form1
         'SpicyGrilledChickenTitl
         '
         Me.SpicyGrilledChickenTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.SpicyGrilledChickenTitl.Location = New System.Drawing.Point(373, 916)
+        Me.SpicyGrilledChickenTitl.Location = New System.Drawing.Point(511, 916)
         Me.SpicyGrilledChickenTitl.Name = "SpicyGrilledChickenTitl"
-        Me.SpicyGrilledChickenTitl.Size = New System.Drawing.Size(263, 21)
+        Me.SpicyGrilledChickenTitl.Size = New System.Drawing.Size(401, 21)
         Me.SpicyGrilledChickenTitl.TabIndex = 111
         Me.SpicyGrilledChickenTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -909,9 +909,9 @@ Partial Class Form1
         '
         Me.Label76.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label76.ForeColor = System.Drawing.Color.Red
-        Me.Label76.Location = New System.Drawing.Point(643, 843)
+        Me.Label76.Location = New System.Drawing.Point(781, 843)
         Me.Label76.Name = "Label76"
-        Me.Label76.Size = New System.Drawing.Size(79, 21)
+        Me.Label76.Size = New System.Drawing.Size(217, 21)
         Me.Label76.TabIndex = 110
         Me.Label76.Text = "$15.50"
         Me.Label76.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -919,9 +919,9 @@ Partial Class Form1
         'BaconAndBlueDesc
         '
         Me.BaconAndBlueDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BaconAndBlueDesc.Location = New System.Drawing.Point(373, 864)
+        Me.BaconAndBlueDesc.Location = New System.Drawing.Point(511, 864)
         Me.BaconAndBlueDesc.Name = "BaconAndBlueDesc"
-        Me.BaconAndBlueDesc.Size = New System.Drawing.Size(349, 52)
+        Me.BaconAndBlueDesc.Size = New System.Drawing.Size(487, 52)
         Me.BaconAndBlueDesc.TabIndex = 109
         Me.BaconAndBlueDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -929,9 +929,9 @@ Partial Class Form1
         'BaconAndBlueTitl
         '
         Me.BaconAndBlueTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BaconAndBlueTitl.Location = New System.Drawing.Point(373, 843)
+        Me.BaconAndBlueTitl.Location = New System.Drawing.Point(511, 843)
         Me.BaconAndBlueTitl.Name = "BaconAndBlueTitl"
-        Me.BaconAndBlueTitl.Size = New System.Drawing.Size(263, 21)
+        Me.BaconAndBlueTitl.Size = New System.Drawing.Size(401, 21)
         Me.BaconAndBlueTitl.TabIndex = 108
         Me.BaconAndBlueTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -939,9 +939,9 @@ Partial Class Form1
         '
         Me.Label79.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label79.ForeColor = System.Drawing.Color.Red
-        Me.Label79.Location = New System.Drawing.Point(643, 770)
+        Me.Label79.Location = New System.Drawing.Point(781, 770)
         Me.Label79.Name = "Label79"
-        Me.Label79.Size = New System.Drawing.Size(79, 21)
+        Me.Label79.Size = New System.Drawing.Size(217, 21)
         Me.Label79.TabIndex = 107
         Me.Label79.Text = "$15.50"
         Me.Label79.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -949,9 +949,9 @@ Partial Class Form1
         'CTBurgerDesc
         '
         Me.CTBurgerDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CTBurgerDesc.Location = New System.Drawing.Point(373, 791)
+        Me.CTBurgerDesc.Location = New System.Drawing.Point(511, 791)
         Me.CTBurgerDesc.Name = "CTBurgerDesc"
-        Me.CTBurgerDesc.Size = New System.Drawing.Size(349, 52)
+        Me.CTBurgerDesc.Size = New System.Drawing.Size(487, 52)
         Me.CTBurgerDesc.TabIndex = 106
         Me.CTBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -959,18 +959,18 @@ Partial Class Form1
         'CTBurgerTitl
         '
         Me.CTBurgerTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CTBurgerTitl.Location = New System.Drawing.Point(373, 770)
+        Me.CTBurgerTitl.Location = New System.Drawing.Point(511, 770)
         Me.CTBurgerTitl.Name = "CTBurgerTitl"
-        Me.CTBurgerTitl.Size = New System.Drawing.Size(263, 21)
+        Me.CTBurgerTitl.Size = New System.Drawing.Size(401, 21)
         Me.CTBurgerTitl.TabIndex = 105
         Me.CTBurgerTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
         'BurgersAndSandwichesTitl
         '
         Me.BurgersAndSandwichesTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BurgersAndSandwichesTitl.Location = New System.Drawing.Point(370, 692)
+        Me.BurgersAndSandwichesTitl.Location = New System.Drawing.Point(508, 692)
         Me.BurgersAndSandwichesTitl.Name = "BurgersAndSandwichesTitl"
-        Me.BurgersAndSandwichesTitl.Size = New System.Drawing.Size(352, 44)
+        Me.BurgersAndSandwichesTitl.Size = New System.Drawing.Size(490, 44)
         Me.BurgersAndSandwichesTitl.TabIndex = 104
         Me.BurgersAndSandwichesTitl.Text = "Label2"
         Me.BurgersAndSandwichesTitl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -979,9 +979,9 @@ Partial Class Form1
         '
         Me.Label83.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label83.ForeColor = System.Drawing.Color.Red
-        Me.Label83.Location = New System.Drawing.Point(643, 1135)
+        Me.Label83.Location = New System.Drawing.Point(781, 1135)
         Me.Label83.Name = "Label83"
-        Me.Label83.Size = New System.Drawing.Size(79, 21)
+        Me.Label83.Size = New System.Drawing.Size(217, 21)
         Me.Label83.TabIndex = 123
         Me.Label83.Text = "$15.50"
         Me.Label83.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -989,9 +989,9 @@ Partial Class Form1
         'DuckBLTDesc
         '
         Me.DuckBLTDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.DuckBLTDesc.Location = New System.Drawing.Point(373, 1156)
+        Me.DuckBLTDesc.Location = New System.Drawing.Point(511, 1156)
         Me.DuckBLTDesc.Name = "DuckBLTDesc"
-        Me.DuckBLTDesc.Size = New System.Drawing.Size(349, 52)
+        Me.DuckBLTDesc.Size = New System.Drawing.Size(487, 52)
         Me.DuckBLTDesc.TabIndex = 122
         Me.DuckBLTDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -999,9 +999,9 @@ Partial Class Form1
         'DuckBLTTitl
         '
         Me.DuckBLTTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.DuckBLTTitl.Location = New System.Drawing.Point(373, 1135)
+        Me.DuckBLTTitl.Location = New System.Drawing.Point(511, 1135)
         Me.DuckBLTTitl.Name = "DuckBLTTitl"
-        Me.DuckBLTTitl.Size = New System.Drawing.Size(263, 21)
+        Me.DuckBLTTitl.Size = New System.Drawing.Size(401, 21)
         Me.DuckBLTTitl.TabIndex = 121
         Me.DuckBLTTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1009,9 +1009,9 @@ Partial Class Form1
         '
         Me.Label86.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label86.ForeColor = System.Drawing.Color.Red
-        Me.Label86.Location = New System.Drawing.Point(643, 1062)
+        Me.Label86.Location = New System.Drawing.Point(781, 1062)
         Me.Label86.Name = "Label86"
-        Me.Label86.Size = New System.Drawing.Size(79, 21)
+        Me.Label86.Size = New System.Drawing.Size(217, 21)
         Me.Label86.TabIndex = 120
         Me.Label86.Text = "$15.50"
         Me.Label86.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1019,9 +1019,9 @@ Partial Class Form1
         'BlackBeanAndTomatoDesc
         '
         Me.BlackBeanAndTomatoDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BlackBeanAndTomatoDesc.Location = New System.Drawing.Point(373, 1083)
+        Me.BlackBeanAndTomatoDesc.Location = New System.Drawing.Point(511, 1083)
         Me.BlackBeanAndTomatoDesc.Name = "BlackBeanAndTomatoDesc"
-        Me.BlackBeanAndTomatoDesc.Size = New System.Drawing.Size(349, 52)
+        Me.BlackBeanAndTomatoDesc.Size = New System.Drawing.Size(487, 52)
         Me.BlackBeanAndTomatoDesc.TabIndex = 119
         Me.BlackBeanAndTomatoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1029,9 +1029,9 @@ Partial Class Form1
         'BlackBeanAndTomatoTitl
         '
         Me.BlackBeanAndTomatoTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BlackBeanAndTomatoTitl.Location = New System.Drawing.Point(373, 1062)
+        Me.BlackBeanAndTomatoTitl.Location = New System.Drawing.Point(511, 1062)
         Me.BlackBeanAndTomatoTitl.Name = "BlackBeanAndTomatoTitl"
-        Me.BlackBeanAndTomatoTitl.Size = New System.Drawing.Size(263, 21)
+        Me.BlackBeanAndTomatoTitl.Size = New System.Drawing.Size(401, 21)
         Me.BlackBeanAndTomatoTitl.TabIndex = 118
         Me.BlackBeanAndTomatoTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1039,9 +1039,9 @@ Partial Class Form1
         '
         Me.Label89.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label89.ForeColor = System.Drawing.Color.Red
-        Me.Label89.Location = New System.Drawing.Point(643, 989)
+        Me.Label89.Location = New System.Drawing.Point(781, 989)
         Me.Label89.Name = "Label89"
-        Me.Label89.Size = New System.Drawing.Size(79, 21)
+        Me.Label89.Size = New System.Drawing.Size(217, 21)
         Me.Label89.TabIndex = 117
         Me.Label89.Text = "$15.50"
         Me.Label89.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1049,9 +1049,9 @@ Partial Class Form1
         'SteakSandwichDesc
         '
         Me.SteakSandwichDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.SteakSandwichDesc.Location = New System.Drawing.Point(373, 1010)
+        Me.SteakSandwichDesc.Location = New System.Drawing.Point(511, 1010)
         Me.SteakSandwichDesc.Name = "SteakSandwichDesc"
-        Me.SteakSandwichDesc.Size = New System.Drawing.Size(349, 52)
+        Me.SteakSandwichDesc.Size = New System.Drawing.Size(487, 52)
         Me.SteakSandwichDesc.TabIndex = 116
         Me.SteakSandwichDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1059,9 +1059,9 @@ Partial Class Form1
         'SteakSandwichTitl
         '
         Me.SteakSandwichTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.SteakSandwichTitl.Location = New System.Drawing.Point(373, 989)
+        Me.SteakSandwichTitl.Location = New System.Drawing.Point(511, 989)
         Me.SteakSandwichTitl.Name = "SteakSandwichTitl"
-        Me.SteakSandwichTitl.Size = New System.Drawing.Size(263, 21)
+        Me.SteakSandwichTitl.Size = New System.Drawing.Size(401, 21)
         Me.SteakSandwichTitl.TabIndex = 115
         Me.SteakSandwichTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1069,9 +1069,9 @@ Partial Class Form1
         '
         Me.Label92.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label92.ForeColor = System.Drawing.Color.Red
-        Me.Label92.Location = New System.Drawing.Point(643, 1208)
+        Me.Label92.Location = New System.Drawing.Point(781, 1208)
         Me.Label92.Name = "Label92"
-        Me.Label92.Size = New System.Drawing.Size(79, 21)
+        Me.Label92.Size = New System.Drawing.Size(217, 21)
         Me.Label92.TabIndex = 126
         Me.Label92.Text = "$15.50"
         Me.Label92.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1079,9 +1079,9 @@ Partial Class Form1
         'ConvoyBurgerDesc
         '
         Me.ConvoyBurgerDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ConvoyBurgerDesc.Location = New System.Drawing.Point(373, 1229)
+        Me.ConvoyBurgerDesc.Location = New System.Drawing.Point(511, 1229)
         Me.ConvoyBurgerDesc.Name = "ConvoyBurgerDesc"
-        Me.ConvoyBurgerDesc.Size = New System.Drawing.Size(349, 52)
+        Me.ConvoyBurgerDesc.Size = New System.Drawing.Size(487, 52)
         Me.ConvoyBurgerDesc.TabIndex = 125
         Me.ConvoyBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1089,9 +1089,9 @@ Partial Class Form1
         'ConvoyBurgerTitl
         '
         Me.ConvoyBurgerTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ConvoyBurgerTitl.Location = New System.Drawing.Point(373, 1208)
+        Me.ConvoyBurgerTitl.Location = New System.Drawing.Point(511, 1208)
         Me.ConvoyBurgerTitl.Name = "ConvoyBurgerTitl"
-        Me.ConvoyBurgerTitl.Size = New System.Drawing.Size(263, 21)
+        Me.ConvoyBurgerTitl.Size = New System.Drawing.Size(401, 21)
         Me.ConvoyBurgerTitl.TabIndex = 124
         Me.ConvoyBurgerTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1099,9 +1099,9 @@ Partial Class Form1
         '
         Me.Label95.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label95.ForeColor = System.Drawing.Color.Red
-        Me.Label95.Location = New System.Drawing.Point(643, 374)
+        Me.Label95.Location = New System.Drawing.Point(781, 374)
         Me.Label95.Name = "Label95"
-        Me.Label95.Size = New System.Drawing.Size(79, 21)
+        Me.Label95.Size = New System.Drawing.Size(217, 21)
         Me.Label95.TabIndex = 140
         Me.Label95.Text = "$15.50"
         Me.Label95.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1109,9 +1109,9 @@ Partial Class Form1
         'MixedBerryAndAlmondDesc
         '
         Me.MixedBerryAndAlmondDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.MixedBerryAndAlmondDesc.Location = New System.Drawing.Point(373, 395)
+        Me.MixedBerryAndAlmondDesc.Location = New System.Drawing.Point(511, 395)
         Me.MixedBerryAndAlmondDesc.Name = "MixedBerryAndAlmondDesc"
-        Me.MixedBerryAndAlmondDesc.Size = New System.Drawing.Size(349, 52)
+        Me.MixedBerryAndAlmondDesc.Size = New System.Drawing.Size(487, 52)
         Me.MixedBerryAndAlmondDesc.TabIndex = 139
         Me.MixedBerryAndAlmondDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1119,18 +1119,18 @@ Partial Class Form1
         'MixedBerryAndAlmondTitl
         '
         Me.MixedBerryAndAlmondTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.MixedBerryAndAlmondTitl.Location = New System.Drawing.Point(373, 374)
+        Me.MixedBerryAndAlmondTitl.Location = New System.Drawing.Point(511, 374)
         Me.MixedBerryAndAlmondTitl.Name = "MixedBerryAndAlmondTitl"
-        Me.MixedBerryAndAlmondTitl.Size = New System.Drawing.Size(263, 21)
+        Me.MixedBerryAndAlmondTitl.Size = New System.Drawing.Size(401, 21)
         Me.MixedBerryAndAlmondTitl.TabIndex = 138
         Me.MixedBerryAndAlmondTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
         'GreensDesc
         '
         Me.GreensDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GreensDesc.Location = New System.Drawing.Point(373, 121)
+        Me.GreensDesc.Location = New System.Drawing.Point(511, 121)
         Me.GreensDesc.Name = "GreensDesc"
-        Me.GreensDesc.Size = New System.Drawing.Size(349, 34)
+        Me.GreensDesc.Size = New System.Drawing.Size(487, 34)
         Me.GreensDesc.TabIndex = 137
         Me.GreensDesc.Text = "Our desserts rotate seasonally, please ask our staff what's available!!!"
         Me.GreensDesc.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -1139,9 +1139,9 @@ Partial Class Form1
         '
         Me.Label99.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label99.ForeColor = System.Drawing.Color.Red
-        Me.Label99.Location = New System.Drawing.Point(643, 301)
+        Me.Label99.Location = New System.Drawing.Point(781, 301)
         Me.Label99.Name = "Label99"
-        Me.Label99.Size = New System.Drawing.Size(79, 21)
+        Me.Label99.Size = New System.Drawing.Size(217, 21)
         Me.Label99.TabIndex = 136
         Me.Label99.Text = "$15.50"
         Me.Label99.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1149,9 +1149,9 @@ Partial Class Form1
         'RoastedBeetDesc
         '
         Me.RoastedBeetDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.RoastedBeetDesc.Location = New System.Drawing.Point(373, 322)
+        Me.RoastedBeetDesc.Location = New System.Drawing.Point(511, 322)
         Me.RoastedBeetDesc.Name = "RoastedBeetDesc"
-        Me.RoastedBeetDesc.Size = New System.Drawing.Size(349, 52)
+        Me.RoastedBeetDesc.Size = New System.Drawing.Size(487, 52)
         Me.RoastedBeetDesc.TabIndex = 135
         Me.RoastedBeetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1159,9 +1159,9 @@ Partial Class Form1
         'RoastedBeetTitl
         '
         Me.RoastedBeetTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.RoastedBeetTitl.Location = New System.Drawing.Point(373, 301)
+        Me.RoastedBeetTitl.Location = New System.Drawing.Point(511, 301)
         Me.RoastedBeetTitl.Name = "RoastedBeetTitl"
-        Me.RoastedBeetTitl.Size = New System.Drawing.Size(263, 21)
+        Me.RoastedBeetTitl.Size = New System.Drawing.Size(401, 21)
         Me.RoastedBeetTitl.TabIndex = 134
         Me.RoastedBeetTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1169,9 +1169,9 @@ Partial Class Form1
         '
         Me.Label102.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label102.ForeColor = System.Drawing.Color.Red
-        Me.Label102.Location = New System.Drawing.Point(643, 228)
+        Me.Label102.Location = New System.Drawing.Point(781, 228)
         Me.Label102.Name = "Label102"
-        Me.Label102.Size = New System.Drawing.Size(79, 21)
+        Me.Label102.Size = New System.Drawing.Size(217, 21)
         Me.Label102.TabIndex = 133
         Me.Label102.Text = "$15.50"
         Me.Label102.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1179,9 +1179,9 @@ Partial Class Form1
         'ClassicCaesarDesc
         '
         Me.ClassicCaesarDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ClassicCaesarDesc.Location = New System.Drawing.Point(373, 249)
+        Me.ClassicCaesarDesc.Location = New System.Drawing.Point(511, 249)
         Me.ClassicCaesarDesc.Name = "ClassicCaesarDesc"
-        Me.ClassicCaesarDesc.Size = New System.Drawing.Size(349, 52)
+        Me.ClassicCaesarDesc.Size = New System.Drawing.Size(487, 52)
         Me.ClassicCaesarDesc.TabIndex = 132
         Me.ClassicCaesarDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1189,9 +1189,9 @@ Partial Class Form1
         'ClassicCaesarTitl
         '
         Me.ClassicCaesarTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ClassicCaesarTitl.Location = New System.Drawing.Point(373, 228)
+        Me.ClassicCaesarTitl.Location = New System.Drawing.Point(511, 228)
         Me.ClassicCaesarTitl.Name = "ClassicCaesarTitl"
-        Me.ClassicCaesarTitl.Size = New System.Drawing.Size(263, 21)
+        Me.ClassicCaesarTitl.Size = New System.Drawing.Size(401, 21)
         Me.ClassicCaesarTitl.TabIndex = 131
         Me.ClassicCaesarTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1199,9 +1199,9 @@ Partial Class Form1
         '
         Me.Label105.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label105.ForeColor = System.Drawing.Color.Red
-        Me.Label105.Location = New System.Drawing.Point(643, 155)
+        Me.Label105.Location = New System.Drawing.Point(781, 155)
         Me.Label105.Name = "Label105"
-        Me.Label105.Size = New System.Drawing.Size(79, 21)
+        Me.Label105.Size = New System.Drawing.Size(217, 21)
         Me.Label105.TabIndex = 130
         Me.Label105.Text = "$15.50"
         Me.Label105.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1209,9 +1209,9 @@ Partial Class Form1
         'SweetCornAndShrimpDesc
         '
         Me.SweetCornAndShrimpDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.SweetCornAndShrimpDesc.Location = New System.Drawing.Point(373, 176)
+        Me.SweetCornAndShrimpDesc.Location = New System.Drawing.Point(511, 176)
         Me.SweetCornAndShrimpDesc.Name = "SweetCornAndShrimpDesc"
-        Me.SweetCornAndShrimpDesc.Size = New System.Drawing.Size(349, 52)
+        Me.SweetCornAndShrimpDesc.Size = New System.Drawing.Size(487, 52)
         Me.SweetCornAndShrimpDesc.TabIndex = 129
         Me.SweetCornAndShrimpDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1219,18 +1219,18 @@ Partial Class Form1
         'SweetCornAndShrimpTitl
         '
         Me.SweetCornAndShrimpTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.SweetCornAndShrimpTitl.Location = New System.Drawing.Point(373, 155)
+        Me.SweetCornAndShrimpTitl.Location = New System.Drawing.Point(511, 155)
         Me.SweetCornAndShrimpTitl.Name = "SweetCornAndShrimpTitl"
-        Me.SweetCornAndShrimpTitl.Size = New System.Drawing.Size(263, 21)
+        Me.SweetCornAndShrimpTitl.Size = New System.Drawing.Size(401, 21)
         Me.SweetCornAndShrimpTitl.TabIndex = 128
         Me.SweetCornAndShrimpTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
         'GreensTitl
         '
         Me.GreensTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GreensTitl.Location = New System.Drawing.Point(370, 77)
+        Me.GreensTitl.Location = New System.Drawing.Point(508, 77)
         Me.GreensTitl.Name = "GreensTitl"
-        Me.GreensTitl.Size = New System.Drawing.Size(352, 44)
+        Me.GreensTitl.Size = New System.Drawing.Size(490, 44)
         Me.GreensTitl.TabIndex = 127
         Me.GreensTitl.Text = "Label2"
         Me.GreensTitl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -1238,9 +1238,9 @@ Partial Class Form1
         'ShareableSidesDesc
         '
         Me.ShareableSidesDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ShareableSidesDesc.Location = New System.Drawing.Point(373, 491)
+        Me.ShareableSidesDesc.Location = New System.Drawing.Point(511, 491)
         Me.ShareableSidesDesc.Name = "ShareableSidesDesc"
-        Me.ShareableSidesDesc.Size = New System.Drawing.Size(349, 34)
+        Me.ShareableSidesDesc.Size = New System.Drawing.Size(487, 34)
         Me.ShareableSidesDesc.TabIndex = 151
         Me.ShareableSidesDesc.Text = "Our desserts rotate seasonally, please ask our staff what's available!!!"
         Me.ShareableSidesDesc.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -1249,9 +1249,9 @@ Partial Class Form1
         '
         Me.Label110.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label110.ForeColor = System.Drawing.Color.Red
-        Me.Label110.Location = New System.Drawing.Point(643, 671)
+        Me.Label110.Location = New System.Drawing.Point(781, 671)
         Me.Label110.Name = "Label110"
-        Me.Label110.Size = New System.Drawing.Size(79, 21)
+        Me.Label110.Size = New System.Drawing.Size(217, 21)
         Me.Label110.TabIndex = 150
         Me.Label110.Text = "$15.50"
         Me.Label110.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1259,9 +1259,9 @@ Partial Class Form1
         'BucketofFriesTitl
         '
         Me.BucketofFriesTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BucketofFriesTitl.Location = New System.Drawing.Point(373, 671)
+        Me.BucketofFriesTitl.Location = New System.Drawing.Point(511, 671)
         Me.BucketofFriesTitl.Name = "BucketofFriesTitl"
-        Me.BucketofFriesTitl.Size = New System.Drawing.Size(263, 21)
+        Me.BucketofFriesTitl.Size = New System.Drawing.Size(401, 21)
         Me.BucketofFriesTitl.TabIndex = 148
         Me.BucketofFriesTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1269,9 +1269,9 @@ Partial Class Form1
         '
         Me.Label113.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label113.ForeColor = System.Drawing.Color.Red
-        Me.Label113.Location = New System.Drawing.Point(643, 598)
+        Me.Label113.Location = New System.Drawing.Point(781, 598)
         Me.Label113.Name = "Label113"
-        Me.Label113.Size = New System.Drawing.Size(79, 21)
+        Me.Label113.Size = New System.Drawing.Size(217, 21)
         Me.Label113.TabIndex = 147
         Me.Label113.Text = "$15.50"
         Me.Label113.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1279,9 +1279,9 @@ Partial Class Form1
         'TabascoSlawDesc
         '
         Me.TabascoSlawDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TabascoSlawDesc.Location = New System.Drawing.Point(373, 619)
+        Me.TabascoSlawDesc.Location = New System.Drawing.Point(511, 619)
         Me.TabascoSlawDesc.Name = "TabascoSlawDesc"
-        Me.TabascoSlawDesc.Size = New System.Drawing.Size(349, 52)
+        Me.TabascoSlawDesc.Size = New System.Drawing.Size(487, 52)
         Me.TabascoSlawDesc.TabIndex = 146
         Me.TabascoSlawDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1289,9 +1289,9 @@ Partial Class Form1
         'TabascoSlawTitl
         '
         Me.TabascoSlawTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TabascoSlawTitl.Location = New System.Drawing.Point(373, 598)
+        Me.TabascoSlawTitl.Location = New System.Drawing.Point(511, 598)
         Me.TabascoSlawTitl.Name = "TabascoSlawTitl"
-        Me.TabascoSlawTitl.Size = New System.Drawing.Size(263, 21)
+        Me.TabascoSlawTitl.Size = New System.Drawing.Size(401, 21)
         Me.TabascoSlawTitl.TabIndex = 145
         Me.TabascoSlawTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1299,9 +1299,9 @@ Partial Class Form1
         '
         Me.Label116.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label116.ForeColor = System.Drawing.Color.Red
-        Me.Label116.Location = New System.Drawing.Point(643, 525)
+        Me.Label116.Location = New System.Drawing.Point(781, 525)
         Me.Label116.Name = "Label116"
-        Me.Label116.Size = New System.Drawing.Size(79, 21)
+        Me.Label116.Size = New System.Drawing.Size(217, 21)
         Me.Label116.TabIndex = 144
         Me.Label116.Text = "$15.50"
         Me.Label116.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1309,9 +1309,9 @@ Partial Class Form1
         'CharredCornSuccotashDesc
         '
         Me.CharredCornSuccotashDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CharredCornSuccotashDesc.Location = New System.Drawing.Point(373, 546)
+        Me.CharredCornSuccotashDesc.Location = New System.Drawing.Point(511, 546)
         Me.CharredCornSuccotashDesc.Name = "CharredCornSuccotashDesc"
-        Me.CharredCornSuccotashDesc.Size = New System.Drawing.Size(349, 52)
+        Me.CharredCornSuccotashDesc.Size = New System.Drawing.Size(487, 52)
         Me.CharredCornSuccotashDesc.TabIndex = 143
         Me.CharredCornSuccotashDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1319,18 +1319,18 @@ Partial Class Form1
         'CharredCornSuccotashTitl
         '
         Me.CharredCornSuccotashTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CharredCornSuccotashTitl.Location = New System.Drawing.Point(373, 525)
+        Me.CharredCornSuccotashTitl.Location = New System.Drawing.Point(511, 525)
         Me.CharredCornSuccotashTitl.Name = "CharredCornSuccotashTitl"
-        Me.CharredCornSuccotashTitl.Size = New System.Drawing.Size(263, 21)
+        Me.CharredCornSuccotashTitl.Size = New System.Drawing.Size(401, 21)
         Me.CharredCornSuccotashTitl.TabIndex = 142
         Me.CharredCornSuccotashTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
         'ShareableSidesTitl
         '
         Me.ShareableSidesTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ShareableSidesTitl.Location = New System.Drawing.Point(370, 447)
+        Me.ShareableSidesTitl.Location = New System.Drawing.Point(508, 447)
         Me.ShareableSidesTitl.Name = "ShareableSidesTitl"
-        Me.ShareableSidesTitl.Size = New System.Drawing.Size(352, 44)
+        Me.ShareableSidesTitl.Size = New System.Drawing.Size(490, 44)
         Me.ShareableSidesTitl.TabIndex = 141
         Me.ShareableSidesTitl.Text = "Label2"
         Me.ShareableSidesTitl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -1339,9 +1339,9 @@ Partial Class Form1
         '
         Me.Label120.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label120.ForeColor = System.Drawing.Color.Red
-        Me.Label120.Location = New System.Drawing.Point(643, 1690)
+        Me.Label120.Location = New System.Drawing.Point(781, 1648)
         Me.Label120.Name = "Label120"
-        Me.Label120.Size = New System.Drawing.Size(79, 21)
+        Me.Label120.Size = New System.Drawing.Size(217, 21)
         Me.Label120.TabIndex = 170
         Me.Label120.Text = "$15.50"
         Me.Label120.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1349,9 +1349,9 @@ Partial Class Form1
         'SearedSalmonDesc
         '
         Me.SearedSalmonDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.SearedSalmonDesc.Location = New System.Drawing.Point(373, 1711)
+        Me.SearedSalmonDesc.Location = New System.Drawing.Point(511, 1669)
         Me.SearedSalmonDesc.Name = "SearedSalmonDesc"
-        Me.SearedSalmonDesc.Size = New System.Drawing.Size(349, 52)
+        Me.SearedSalmonDesc.Size = New System.Drawing.Size(487, 52)
         Me.SearedSalmonDesc.TabIndex = 169
         Me.SearedSalmonDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1359,9 +1359,9 @@ Partial Class Form1
         'SearedSalmonTitl
         '
         Me.SearedSalmonTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.SearedSalmonTitl.Location = New System.Drawing.Point(373, 1690)
+        Me.SearedSalmonTitl.Location = New System.Drawing.Point(511, 1648)
         Me.SearedSalmonTitl.Name = "SearedSalmonTitl"
-        Me.SearedSalmonTitl.Size = New System.Drawing.Size(263, 21)
+        Me.SearedSalmonTitl.Size = New System.Drawing.Size(401, 21)
         Me.SearedSalmonTitl.TabIndex = 168
         Me.SearedSalmonTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1369,9 +1369,9 @@ Partial Class Form1
         '
         Me.Label123.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label123.ForeColor = System.Drawing.Color.Red
-        Me.Label123.Location = New System.Drawing.Point(643, 1617)
+        Me.Label123.Location = New System.Drawing.Point(781, 1575)
         Me.Label123.Name = "Label123"
-        Me.Label123.Size = New System.Drawing.Size(79, 21)
+        Me.Label123.Size = New System.Drawing.Size(217, 21)
         Me.Label123.TabIndex = 167
         Me.Label123.Text = "$15.50"
         Me.Label123.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1379,9 +1379,9 @@ Partial Class Form1
         'PorkDuckAndPolentaDesc
         '
         Me.PorkDuckAndPolentaDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.PorkDuckAndPolentaDesc.Location = New System.Drawing.Point(373, 1638)
+        Me.PorkDuckAndPolentaDesc.Location = New System.Drawing.Point(511, 1596)
         Me.PorkDuckAndPolentaDesc.Name = "PorkDuckAndPolentaDesc"
-        Me.PorkDuckAndPolentaDesc.Size = New System.Drawing.Size(349, 52)
+        Me.PorkDuckAndPolentaDesc.Size = New System.Drawing.Size(487, 52)
         Me.PorkDuckAndPolentaDesc.TabIndex = 166
         Me.PorkDuckAndPolentaDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1389,9 +1389,9 @@ Partial Class Form1
         'PorkDuckAndPolentaTitl
         '
         Me.PorkDuckAndPolentaTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.PorkDuckAndPolentaTitl.Location = New System.Drawing.Point(373, 1617)
+        Me.PorkDuckAndPolentaTitl.Location = New System.Drawing.Point(511, 1575)
         Me.PorkDuckAndPolentaTitl.Name = "PorkDuckAndPolentaTitl"
-        Me.PorkDuckAndPolentaTitl.Size = New System.Drawing.Size(263, 21)
+        Me.PorkDuckAndPolentaTitl.Size = New System.Drawing.Size(401, 21)
         Me.PorkDuckAndPolentaTitl.TabIndex = 165
         Me.PorkDuckAndPolentaTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1399,9 +1399,9 @@ Partial Class Form1
         '
         Me.Label126.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label126.ForeColor = System.Drawing.Color.Red
-        Me.Label126.Location = New System.Drawing.Point(643, 1544)
+        Me.Label126.Location = New System.Drawing.Point(781, 1523)
         Me.Label126.Name = "Label126"
-        Me.Label126.Size = New System.Drawing.Size(79, 21)
+        Me.Label126.Size = New System.Drawing.Size(217, 21)
         Me.Label126.TabIndex = 164
         Me.Label126.Text = "$15.50"
         Me.Label126.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1409,9 +1409,9 @@ Partial Class Form1
         'CrabCakeAndFriedChickenDesc
         '
         Me.CrabCakeAndFriedChickenDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CrabCakeAndFriedChickenDesc.Location = New System.Drawing.Point(373, 1565)
+        Me.CrabCakeAndFriedChickenDesc.Location = New System.Drawing.Point(511, 1544)
         Me.CrabCakeAndFriedChickenDesc.Name = "CrabCakeAndFriedChickenDesc"
-        Me.CrabCakeAndFriedChickenDesc.Size = New System.Drawing.Size(349, 52)
+        Me.CrabCakeAndFriedChickenDesc.Size = New System.Drawing.Size(487, 52)
         Me.CrabCakeAndFriedChickenDesc.TabIndex = 163
         Me.CrabCakeAndFriedChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1419,9 +1419,9 @@ Partial Class Form1
         'CrabCakeAndFriedChickenTitl
         '
         Me.CrabCakeAndFriedChickenTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CrabCakeAndFriedChickenTitl.Location = New System.Drawing.Point(373, 1544)
+        Me.CrabCakeAndFriedChickenTitl.Location = New System.Drawing.Point(511, 1523)
         Me.CrabCakeAndFriedChickenTitl.Name = "CrabCakeAndFriedChickenTitl"
-        Me.CrabCakeAndFriedChickenTitl.Size = New System.Drawing.Size(263, 21)
+        Me.CrabCakeAndFriedChickenTitl.Size = New System.Drawing.Size(401, 21)
         Me.CrabCakeAndFriedChickenTitl.TabIndex = 162
         Me.CrabCakeAndFriedChickenTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1429,9 +1429,9 @@ Partial Class Form1
         '
         Me.Label129.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label129.ForeColor = System.Drawing.Color.Red
-        Me.Label129.Location = New System.Drawing.Point(643, 1471)
+        Me.Label129.Location = New System.Drawing.Point(781, 1450)
         Me.Label129.Name = "Label129"
-        Me.Label129.Size = New System.Drawing.Size(79, 21)
+        Me.Label129.Size = New System.Drawing.Size(217, 21)
         Me.Label129.TabIndex = 161
         Me.Label129.Text = "$15.50"
         Me.Label129.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1439,9 +1439,9 @@ Partial Class Form1
         'BeerBatteredFishAndChipsDesc
         '
         Me.BeerBatteredFishAndChipsDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BeerBatteredFishAndChipsDesc.Location = New System.Drawing.Point(373, 1492)
+        Me.BeerBatteredFishAndChipsDesc.Location = New System.Drawing.Point(511, 1471)
         Me.BeerBatteredFishAndChipsDesc.Name = "BeerBatteredFishAndChipsDesc"
-        Me.BeerBatteredFishAndChipsDesc.Size = New System.Drawing.Size(349, 52)
+        Me.BeerBatteredFishAndChipsDesc.Size = New System.Drawing.Size(487, 52)
         Me.BeerBatteredFishAndChipsDesc.TabIndex = 160
         Me.BeerBatteredFishAndChipsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1449,9 +1449,9 @@ Partial Class Form1
         'BeerBatteredFishAndChipsTitl
         '
         Me.BeerBatteredFishAndChipsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BeerBatteredFishAndChipsTitl.Location = New System.Drawing.Point(373, 1471)
+        Me.BeerBatteredFishAndChipsTitl.Location = New System.Drawing.Point(511, 1450)
         Me.BeerBatteredFishAndChipsTitl.Name = "BeerBatteredFishAndChipsTitl"
-        Me.BeerBatteredFishAndChipsTitl.Size = New System.Drawing.Size(263, 21)
+        Me.BeerBatteredFishAndChipsTitl.Size = New System.Drawing.Size(401, 21)
         Me.BeerBatteredFishAndChipsTitl.TabIndex = 159
         Me.BeerBatteredFishAndChipsTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1459,9 +1459,9 @@ Partial Class Form1
         '
         Me.Label132.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label132.ForeColor = System.Drawing.Color.Red
-        Me.Label132.Location = New System.Drawing.Point(643, 1398)
+        Me.Label132.Location = New System.Drawing.Point(781, 1377)
         Me.Label132.Name = "Label132"
-        Me.Label132.Size = New System.Drawing.Size(79, 21)
+        Me.Label132.Size = New System.Drawing.Size(217, 21)
         Me.Label132.TabIndex = 158
         Me.Label132.Text = "$15.50"
         Me.Label132.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1469,9 +1469,9 @@ Partial Class Form1
         'WhiteWineMusselsDesc
         '
         Me.WhiteWineMusselsDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.WhiteWineMusselsDesc.Location = New System.Drawing.Point(373, 1419)
+        Me.WhiteWineMusselsDesc.Location = New System.Drawing.Point(511, 1398)
         Me.WhiteWineMusselsDesc.Name = "WhiteWineMusselsDesc"
-        Me.WhiteWineMusselsDesc.Size = New System.Drawing.Size(349, 52)
+        Me.WhiteWineMusselsDesc.Size = New System.Drawing.Size(487, 52)
         Me.WhiteWineMusselsDesc.TabIndex = 157
         Me.WhiteWineMusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1479,9 +1479,9 @@ Partial Class Form1
         'WhiteWineMusselsTitl
         '
         Me.WhiteWineMusselsTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.WhiteWineMusselsTitl.Location = New System.Drawing.Point(373, 1398)
+        Me.WhiteWineMusselsTitl.Location = New System.Drawing.Point(511, 1377)
         Me.WhiteWineMusselsTitl.Name = "WhiteWineMusselsTitl"
-        Me.WhiteWineMusselsTitl.Size = New System.Drawing.Size(263, 21)
+        Me.WhiteWineMusselsTitl.Size = New System.Drawing.Size(401, 21)
         Me.WhiteWineMusselsTitl.TabIndex = 156
         Me.WhiteWineMusselsTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
@@ -1489,9 +1489,9 @@ Partial Class Form1
         '
         Me.Label135.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label135.ForeColor = System.Drawing.Color.Red
-        Me.Label135.Location = New System.Drawing.Point(643, 1325)
+        Me.Label135.Location = New System.Drawing.Point(781, 1304)
         Me.Label135.Name = "Label135"
-        Me.Label135.Size = New System.Drawing.Size(79, 21)
+        Me.Label135.Size = New System.Drawing.Size(217, 21)
         Me.Label135.TabIndex = 155
         Me.Label135.Text = "$15.50"
         Me.Label135.TextAlign = System.Drawing.ContentAlignment.TopRight
@@ -1499,9 +1499,9 @@ Partial Class Form1
         'MarketSteakFritesDesc
         '
         Me.MarketSteakFritesDesc.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.MarketSteakFritesDesc.Location = New System.Drawing.Point(373, 1346)
+        Me.MarketSteakFritesDesc.Location = New System.Drawing.Point(511, 1325)
         Me.MarketSteakFritesDesc.Name = "MarketSteakFritesDesc"
-        Me.MarketSteakFritesDesc.Size = New System.Drawing.Size(349, 52)
+        Me.MarketSteakFritesDesc.Size = New System.Drawing.Size(487, 52)
         Me.MarketSteakFritesDesc.TabIndex = 154
         Me.MarketSteakFritesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
@@ -1509,18 +1509,18 @@ Partial Class Form1
         'MarketSteakFritesTitl
         '
         Me.MarketSteakFritesTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.MarketSteakFritesTitl.Location = New System.Drawing.Point(373, 1325)
+        Me.MarketSteakFritesTitl.Location = New System.Drawing.Point(511, 1304)
         Me.MarketSteakFritesTitl.Name = "MarketSteakFritesTitl"
-        Me.MarketSteakFritesTitl.Size = New System.Drawing.Size(263, 21)
+        Me.MarketSteakFritesTitl.Size = New System.Drawing.Size(401, 21)
         Me.MarketSteakFritesTitl.TabIndex = 153
         Me.MarketSteakFritesTitl.Text = "SALT & PEPPER CRISPY CALAMARI"
         '
         'MainCourseTitl
         '
         Me.MainCourseTitl.Font = New System.Drawing.Font("Lucida Sans Unicode", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.MainCourseTitl.Location = New System.Drawing.Point(370, 1281)
+        Me.MainCourseTitl.Location = New System.Drawing.Point(508, 1260)
         Me.MainCourseTitl.Name = "MainCourseTitl"
-        Me.MainCourseTitl.Size = New System.Drawing.Size(352, 44)
+        Me.MainCourseTitl.Size = New System.Drawing.Size(490, 44)
         Me.MainCourseTitl.TabIndex = 152
         Me.MainCourseTitl.Text = "Label2"
         Me.MainCourseTitl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -1528,7 +1528,7 @@ Partial Class Form1
         'spanishLink
         '
         Me.spanishLink.AutoSize = True
-        Me.spanishLink.Location = New System.Drawing.Point(645, 9)
+        Me.spanishLink.Location = New System.Drawing.Point(900, 9)
         Me.spanishLink.Name = "spanishLink"
         Me.spanishLink.Size = New System.Drawing.Size(45, 13)
         Me.spanishLink.TabIndex = 171
@@ -1538,7 +1538,7 @@ Partial Class Form1
         'englishLink
         '
         Me.englishLink.AutoSize = True
-        Me.englishLink.Location = New System.Drawing.Point(598, 9)
+        Me.englishLink.Location = New System.Drawing.Point(853, 9)
         Me.englishLink.Name = "englishLink"
         Me.englishLink.Size = New System.Drawing.Size(41, 13)
         Me.englishLink.TabIndex = 172
@@ -1548,7 +1548,7 @@ Partial Class Form1
         'frenchLink
         '
         Me.frenchLink.AutoSize = True
-        Me.frenchLink.Location = New System.Drawing.Point(696, 9)
+        Me.frenchLink.Location = New System.Drawing.Point(951, 9)
         Me.frenchLink.Name = "frenchLink"
         Me.frenchLink.Size = New System.Drawing.Size(47, 13)
         Me.frenchLink.TabIndex = 173
@@ -1558,7 +1558,7 @@ Partial Class Form1
         'saudiLink
         '
         Me.saudiLink.AutoSize = True
-        Me.saudiLink.Location = New System.Drawing.Point(518, 9)
+        Me.saudiLink.Location = New System.Drawing.Point(773, 9)
         Me.saudiLink.Name = "saudiLink"
         Me.saudiLink.Size = New System.Drawing.Size(37, 13)
         Me.saudiLink.TabIndex = 174
@@ -1568,7 +1568,7 @@ Partial Class Form1
         'chineseLink
         '
         Me.chineseLink.AutoSize = True
-        Me.chineseLink.Location = New System.Drawing.Point(561, 9)
+        Me.chineseLink.Location = New System.Drawing.Point(816, 9)
         Me.chineseLink.Name = "chineseLink"
         Me.chineseLink.Size = New System.Drawing.Size(31, 13)
         Me.chineseLink.TabIndex = 175
@@ -1579,7 +1579,7 @@ Partial Class Form1
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None
         Me.AutoScroll = True
-        Me.ClientSize = New System.Drawing.Size(772, 881)
+        Me.ClientSize = New System.Drawing.Size(1031, 881)
         Me.Controls.Add(Me.chineseLink)
         Me.Controls.Add(Me.saudiLink)
         Me.Controls.Add(Me.frenchLink)
