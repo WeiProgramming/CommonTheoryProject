@@ -1579,6 +1579,7 @@ Partial Class Form1
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None
         Me.AutoScroll = True
+        Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(1031, 881)
         Me.Controls.Add(Me.chineseLink)
         Me.Controls.Add(Me.saudiLink)

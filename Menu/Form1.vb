@@ -3,6 +3,7 @@ Imports System.Resources
 Imports System.Drawing
 Imports System.IO
 Imports System.ComponentModel
+Imports System.Drawing.Text
 
 Public Class Form1
     Const WS_EX_LAYOUTRTL = &H400000
@@ -13,10 +14,13 @@ Public Class Form1
     Dim resx_france As ResXResourceSet = New ResXResourceSet("es-MX.resx")
     Dim resx_china As ResXResourceSet = New ResXResourceSet("zh-CN.resx")
     Dim resx_saudi As ResXResourceSet = New ResXResourceSet("ar-SA.resx")
+    Dim pfc As PrivateFontCollection = New PrivateFontCollection
+
 
 
     Private Sub refreshLocalizableContent()
         OurMenuTitl.Text = resx_cur.GetString("OurMenuTitl")
+        OurMenuTitl.Font = New Font(pfc.Families(0), 24, FontStyle.Regular)
         DuckDuckFryTitl.Text = resx_cur.GetString("DuckDuckFryTitl")
         DuckFatFriesTitl.Text = resx_cur.GetString("DuckFatFriesTitl")
         DuckFatFriesDesc.Text = resx_cur.GetString("DuckFatFriesDesc")
@@ -26,6 +30,7 @@ Public Class Form1
         FlockOfFuckFriesDesc.Text = resx_cur.GetString("FlockOfFuckFriesDesc")
 
         StartersTitl.Text = resx_cur.GetString("StartersTitl")
+        StartersTitl.Font = New Font(pfc.Families(0), 20, FontStyle.Regular)
         BeetAndWatermelonPokeTitl.Text = resx_cur.GetString("BeetAndWatermelonPokeTitl")
         BeetAndWatermelonPokeDesc.Text = resx_cur.GetString("BeetAndWatermelonPokeDesc")
         BuffaloCauliflowerTitl.Text = resx_cur.GetString("BuffaloCauliflowerTitl")
@@ -50,6 +55,7 @@ Public Class Form1
         PretzelBallsDesc.Text = resx_cur.GetString("PretzelBallsDesc")
 
         FlatbreadsTitl.Text = resx_cur.GetString("FlatbreadsTitl")
+        FlatbreadsTitl.Font = New Font(pfc.Families(0), 20, FontStyle.Regular)
         EasternShoreTitl.Text = resx_cur.GetString("EasternShoreTitl")
         EasternShoreDesc.Text = resx_cur.GetString("EasternShoreDesc")
         SausageAndPeppersTitl.Text = resx_cur.GetString("SausageAndPeppersTitl")
@@ -62,6 +68,7 @@ Public Class Form1
         TomatoAndPestoDesc.Text = resx_cur.GetString("TomatoAndPestoDesc")
 
         SeasonalSweetsTitl.Text = resx_cur.GetString("SeasonalSweetsTitl")
+        SeasonalSweetsTitl.Font = New Font(pfc.Families(0), 20, FontStyle.Regular)
         SeasonalSweetsDesc.Text = resx_cur.GetString("SeasonalSweetsDesc")
         ChocolatelyGoodnessTitl.Text = resx_cur.GetString("ChocolatelyGoodnessTitl")
         FruityAndSweetTitl.Text = resx_cur.GetString("FruityAndSweetTitl")
@@ -69,6 +76,7 @@ Public Class Form1
         FeelingExtraSweetDesc.Text = resx_cur.GetString("FeelingExtraSweetDesc")
 
         GreensTitl.Text = resx_cur.GetString("GreensTitl")
+        GreensTitl.Font = New Font(pfc.Families(0), 20, FontStyle.Regular)
         GreensDesc.Text = resx_cur.GetString("GreensDesc")
         SweetCornAndShrimpTitl.Text = resx_cur.GetString("SweetCornAndShrimpTitl")
         SweetCornAndShrimpDesc.Text = resx_cur.GetString("SweetCornAndShrimpDesc")
@@ -80,6 +88,7 @@ Public Class Form1
         MixedBerryAndAlmondDesc.Text = resx_cur.GetString("MixedBerryAndAlmondDesc")
 
         ShareableSidesTitl.Text = resx_cur.GetString("ShareableSidesTitl")
+        ShareableSidesTitl.Font = New Font(pfc.Families(0), 20, FontStyle.Regular)
         ShareableSidesDesc.Text = resx_cur.GetString("ShareableSidesDesc")
         CharredCornSuccotashTitl.Text = resx_cur.GetString("CharredCornSuccotashTitl")
         CharredCornSuccotashDesc.Text = resx_cur.GetString("CharredCornSuccotashDesc")
@@ -88,6 +97,7 @@ Public Class Form1
         BucketofFriesTitl.Text = resx_cur.GetString("BucketofFriesTitl")
 
         BurgersAndSandwichesTitl.Text = resx_cur.GetString("BurgersAndSandwichesTitl")
+        BurgersAndSandwichesTitl.Font = New Font(pfc.Families(0), 20, FontStyle.Regular)
         BurgersAndSandwichesDesc.Text = resx_cur.GetString("BurgersAndSandwichesDesc")
         CTBurgerTitl.Text = resx_cur.GetString("CTBurgerTitl")
         CTBurgerDesc.Text = resx_cur.GetString("CTBurgerDesc")
@@ -105,6 +115,7 @@ Public Class Form1
         ConvoyBurgerDesc.Text = resx_cur.GetString("ConvoyBurgerDesc")
 
         MainCourseTitl.Text = resx_cur.GetString("MainCourseTitl")
+        MainCourseTitl.Font = New Font(pfc.Families(0), 20, FontStyle.Regular)
         MarketSteakFritesTitl.Text = resx_cur.GetString("MarketSteakFritesTitl")
         MarketSteakFritesDesc.Text = resx_cur.GetString("MarketSteakFritesDesc")
         WhiteWineMusselsTitl.Text = resx_cur.GetString("WhiteWineMusselsTitl")
@@ -146,6 +157,7 @@ Public Class Form1
     End Property
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        pfc.AddFontFile("chinfont.ttf")
         resx_cur = resx_usa
         refreshLocalizableContent()
     End Sub
