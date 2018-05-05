@@ -22,6 +22,7 @@ Public Class Form1
         OurMenuTitl.Text = resx_cur.GetString("OurMenuTitl")
         OurMenuTitl.Font = New Font(pfc.Families(0), 24, FontStyle.Regular)
         DuckDuckFryTitl.Text = resx_cur.GetString("DuckDuckFryTitl")
+        DuckDuckFryTitl.Font = New Font(pfc.Families(0), 20, FontStyle.Regular)
         DuckFatFriesTitl.Text = resx_cur.GetString("DuckFatFriesTitl")
         DuckFatFriesDesc.Text = resx_cur.GetString("DuckFatFriesDesc")
         DoubleDuckFriesTitl.Text = resx_cur.GetString("DoubleDuckFriesTitl")
@@ -191,4 +192,6 @@ Public Class Form1
         resx_cur = resx_china
         refreshLocalizableContent()
     End Sub
+
+
 End Class
