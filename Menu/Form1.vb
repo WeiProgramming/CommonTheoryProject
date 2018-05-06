@@ -17,7 +17,6 @@ Public Class Form1
     Dim pfc As PrivateFontCollection = New PrivateFontCollection
 
 
-
     Private Sub refreshLocalizableContent()
         OurMenuTitl.Text = resx_cur.GetString("OurMenuTitl")
         OurMenuTitl.Font = New Font(pfc.Families(0), 24, FontStyle.Regular)
@@ -131,6 +130,7 @@ Public Class Form1
         SearedSalmonDesc.Text = resx_cur.GetString("SearedSalmonDesc")
 
     End Sub
+
     Private _mirrored As Boolean = False
     <Description("Change to the right-to-left layout."),
     DefaultValue(False), Localizable(True),
@@ -161,6 +161,11 @@ Public Class Form1
         pfc.AddFontFile("chinfont.ttf")
         resx_cur = resx_usa
         refreshLocalizableContent()
+        SetStyle(ControlStyles.SupportsTransparentBackColor, True)
+        Me.BackColor = Color.Transparent
+        OurMenuTitl.Parent.BackColor = Color.Transparent
+        OurMenuTitl.BackColor = Color.Transparent
+        DuckDuckFryTitl.BackColor = Color.Transparent
     End Sub
 
     Private Sub spanishLink_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles spanishLink.LinkClicked
@@ -191,6 +196,10 @@ Public Class Form1
         Me.Mirrored() = False
         resx_cur = resx_china
         refreshLocalizableContent()
+    End Sub
+
+    Private Sub Panel1_Paint(sender As Object, e As PaintEventArgs) Handles Panel1.Paint
+
     End Sub
 
 
