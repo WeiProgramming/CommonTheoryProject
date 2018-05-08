@@ -192,7 +192,7 @@ Partial Class Form1
         Me.BeetAndWatermelonPokeDesc.Name = "BeetAndWatermelonPokeDesc"
         Me.BeetAndWatermelonPokeDesc.Size = New System.Drawing.Size(487, 52)
         Me.BeetAndWatermelonPokeDesc.TabIndex = 35
-        Me.BeetAndWatermelonPokeDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.BeetAndWatermelonPokeDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BeetAndWatermelonPokeTitl
@@ -225,7 +225,7 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(217, 21)
         Me.Label1.TabIndex = 36
-        Me.Label1.Text = "$15.50"
+        Me.Label1.Text = "$10.00"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'Label2
@@ -237,7 +237,7 @@ Partial Class Form1
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(217, 21)
         Me.Label2.TabIndex = 39
-        Me.Label2.Text = "$15.50"
+        Me.Label2.Text = "$10.00"
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'BuffaloCauliflowerDesc
@@ -248,7 +248,7 @@ Partial Class Form1
         Me.BuffaloCauliflowerDesc.Name = "BuffaloCauliflowerDesc"
         Me.BuffaloCauliflowerDesc.Size = New System.Drawing.Size(487, 52)
         Me.BuffaloCauliflowerDesc.TabIndex = 38
-        Me.BuffaloCauliflowerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.BuffaloCauliflowerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BuffaloCauliflowerTitl
@@ -270,7 +270,7 @@ Partial Class Form1
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(217, 21)
         Me.Label6.TabIndex = 42
-        Me.Label6.Text = "$15.50"
+        Me.Label6.Text = "$10.00"
         Me.Label6.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'CapreseDesc
@@ -281,7 +281,7 @@ Partial Class Form1
         Me.CapreseDesc.Name = "CapreseDesc"
         Me.CapreseDesc.Size = New System.Drawing.Size(487, 52)
         Me.CapreseDesc.TabIndex = 41
-        Me.CapreseDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.CapreseDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CapreseTitl
@@ -303,7 +303,7 @@ Partial Class Form1
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(217, 21)
         Me.Label9.TabIndex = 51
-        Me.Label9.Text = "$15.50"
+        Me.Label9.Text = "$11.00"
         Me.Label9.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'BaconAndBlueBrusselsDesc
@@ -314,7 +314,7 @@ Partial Class Form1
         Me.BaconAndBlueBrusselsDesc.Name = "BaconAndBlueBrusselsDesc"
         Me.BaconAndBlueBrusselsDesc.Size = New System.Drawing.Size(487, 52)
         Me.BaconAndBlueBrusselsDesc.TabIndex = 50
-        Me.BaconAndBlueBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.BaconAndBlueBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BaconAndBlueBrusselsTitl
@@ -336,7 +336,7 @@ Partial Class Form1
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(217, 21)
         Me.Label12.TabIndex = 48
-        Me.Label12.Text = "$15.50"
+        Me.Label12.Text = "$10.00"
         Me.Label12.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'OGFriedBrusselsDesc
@@ -347,7 +347,7 @@ Partial Class Form1
         Me.OGFriedBrusselsDesc.Name = "OGFriedBrusselsDesc"
         Me.OGFriedBrusselsDesc.Size = New System.Drawing.Size(487, 52)
         Me.OGFriedBrusselsDesc.TabIndex = 47
-        Me.OGFriedBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.OGFriedBrusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'OGFriedBrusselsTitl
@@ -369,7 +369,7 @@ Partial Class Form1
         Me.Label15.Name = "Label15"
         Me.Label15.Size = New System.Drawing.Size(217, 21)
         Me.Label15.TabIndex = 45
-        Me.Label15.Text = "$15.50"
+        Me.Label15.Text = "$11.00"
         Me.Label15.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'CrispyChickenWingsDesc
@@ -380,7 +380,7 @@ Partial Class Form1
         Me.CrispyChickenWingsDesc.Name = "CrispyChickenWingsDesc"
         Me.CrispyChickenWingsDesc.Size = New System.Drawing.Size(487, 52)
         Me.CrispyChickenWingsDesc.TabIndex = 44
-        Me.CrispyChickenWingsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.CrispyChickenWingsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CrispyChickenWingsTitl
@@ -402,7 +402,7 @@ Partial Class Form1
         Me.Label18.Name = "Label18"
         Me.Label18.Size = New System.Drawing.Size(217, 21)
         Me.Label18.TabIndex = 66
-        Me.Label18.Text = "$15.50"
+        Me.Label18.Text = "$9.50"
         Me.Label18.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'PretzelBallsDesc
@@ -413,7 +413,7 @@ Partial Class Form1
         Me.PretzelBallsDesc.Name = "PretzelBallsDesc"
         Me.PretzelBallsDesc.Size = New System.Drawing.Size(487, 38)
         Me.PretzelBallsDesc.TabIndex = 65
-        Me.PretzelBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.PretzelBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'PretzelBallsTitl
@@ -435,7 +435,7 @@ Partial Class Form1
         Me.Label21.Name = "Label21"
         Me.Label21.Size = New System.Drawing.Size(217, 21)
         Me.Label21.TabIndex = 63
-        Me.Label21.Text = "$15.50"
+        Me.Label21.Text = "$10.50"
         Me.Label21.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'CheeseBallsDesc
@@ -446,7 +446,7 @@ Partial Class Form1
         Me.CheeseBallsDesc.Name = "CheeseBallsDesc"
         Me.CheeseBallsDesc.Size = New System.Drawing.Size(487, 52)
         Me.CheeseBallsDesc.TabIndex = 62
-        Me.CheeseBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.CheeseBallsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CheeseBallsTitl
@@ -468,7 +468,7 @@ Partial Class Form1
         Me.Label24.Name = "Label24"
         Me.Label24.Size = New System.Drawing.Size(217, 21)
         Me.Label24.TabIndex = 60
-        Me.Label24.Text = "$15.50"
+        Me.Label24.Text = "$12.00"
         Me.Label24.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'BlueCrabAndCheddarPretzelsDesc
@@ -479,7 +479,7 @@ Partial Class Form1
         Me.BlueCrabAndCheddarPretzelsDesc.Name = "BlueCrabAndCheddarPretzelsDesc"
         Me.BlueCrabAndCheddarPretzelsDesc.Size = New System.Drawing.Size(487, 52)
         Me.BlueCrabAndCheddarPretzelsDesc.TabIndex = 59
-        Me.BlueCrabAndCheddarPretzelsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.BlueCrabAndCheddarPretzelsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BlueCrabAndCheddarPretzelsTitl
@@ -501,7 +501,7 @@ Partial Class Form1
         Me.Label27.Name = "Label27"
         Me.Label27.Size = New System.Drawing.Size(217, 21)
         Me.Label27.TabIndex = 57
-        Me.Label27.Text = "$15.50"
+        Me.Label27.Text = "$12.00"
         Me.Label27.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'SaltAndPepperCrispyCalamariDesc
@@ -512,7 +512,7 @@ Partial Class Form1
         Me.SaltAndPepperCrispyCalamariDesc.Name = "SaltAndPepperCrispyCalamariDesc"
         Me.SaltAndPepperCrispyCalamariDesc.Size = New System.Drawing.Size(487, 52)
         Me.SaltAndPepperCrispyCalamariDesc.TabIndex = 56
-        Me.SaltAndPepperCrispyCalamariDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.SaltAndPepperCrispyCalamariDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SaltAndPepperCrispyCalamariTitl
@@ -534,7 +534,7 @@ Partial Class Form1
         Me.Label33.Name = "Label33"
         Me.Label33.Size = New System.Drawing.Size(217, 21)
         Me.Label33.TabIndex = 54
-        Me.Label33.Text = "$15.50"
+        Me.Label33.Text = "$10.00"
         Me.Label33.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'SweetAndSpicyPorkBellyDesc
@@ -545,7 +545,7 @@ Partial Class Form1
         Me.SweetAndSpicyPorkBellyDesc.Name = "SweetAndSpicyPorkBellyDesc"
         Me.SweetAndSpicyPorkBellyDesc.Size = New System.Drawing.Size(487, 52)
         Me.SweetAndSpicyPorkBellyDesc.TabIndex = 53
-        Me.SweetAndSpicyPorkBellyDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.SweetAndSpicyPorkBellyDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SweetAndSpicyPorkBellyTitl
@@ -567,7 +567,7 @@ Partial Class Form1
         Me.Label36.Name = "Label36"
         Me.Label36.Size = New System.Drawing.Size(217, 21)
         Me.Label36.TabIndex = 76
-        Me.Label36.Text = "$15.50"
+        Me.Label36.Text = "$16.00"
         Me.Label36.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'FlockOfFuckFriesDesc
@@ -578,7 +578,7 @@ Partial Class Form1
         Me.FlockOfFuckFriesDesc.Name = "FlockOfFuckFriesDesc"
         Me.FlockOfFuckFriesDesc.Size = New System.Drawing.Size(487, 52)
         Me.FlockOfFuckFriesDesc.TabIndex = 75
-        Me.FlockOfFuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.FlockOfFuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'FlockOfDuckFriesTitl
@@ -600,7 +600,7 @@ Partial Class Form1
         Me.Label39.Name = "Label39"
         Me.Label39.Size = New System.Drawing.Size(217, 21)
         Me.Label39.TabIndex = 73
-        Me.Label39.Text = "$15.50"
+        Me.Label39.Text = "$15.00"
         Me.Label39.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'DoubleDuckFriesDesc
@@ -611,7 +611,7 @@ Partial Class Form1
         Me.DoubleDuckFriesDesc.Name = "DoubleDuckFriesDesc"
         Me.DoubleDuckFriesDesc.Size = New System.Drawing.Size(487, 52)
         Me.DoubleDuckFriesDesc.TabIndex = 72
-        Me.DoubleDuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.DoubleDuckFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'DoubleDuckFriesTitl
@@ -633,7 +633,7 @@ Partial Class Form1
         Me.Label42.Name = "Label42"
         Me.Label42.Size = New System.Drawing.Size(217, 21)
         Me.Label42.TabIndex = 70
-        Me.Label42.Text = "$15.50"
+        Me.Label42.Text = "$14.00"
         Me.Label42.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'DuckFatFriesDesc
@@ -644,7 +644,7 @@ Partial Class Form1
         Me.DuckFatFriesDesc.Name = "DuckFatFriesDesc"
         Me.DuckFatFriesDesc.Size = New System.Drawing.Size(487, 52)
         Me.DuckFatFriesDesc.TabIndex = 69
-        Me.DuckFatFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.DuckFatFriesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'DuckFatFriesTitl
@@ -677,7 +677,7 @@ Partial Class Form1
         Me.Label46.Name = "Label46"
         Me.Label46.Size = New System.Drawing.Size(217, 21)
         Me.Label46.TabIndex = 92
-        Me.Label46.Text = "$15.50"
+        Me.Label46.Text = "$13.00"
         Me.Label46.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'TomatoAndPestoDesc
@@ -688,7 +688,7 @@ Partial Class Form1
         Me.TomatoAndPestoDesc.Name = "TomatoAndPestoDesc"
         Me.TomatoAndPestoDesc.Size = New System.Drawing.Size(487, 38)
         Me.TomatoAndPestoDesc.TabIndex = 91
-        Me.TomatoAndPestoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.TomatoAndPestoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'TomatoAndPestoTitl
@@ -710,7 +710,7 @@ Partial Class Form1
         Me.Label49.Name = "Label49"
         Me.Label49.Size = New System.Drawing.Size(217, 21)
         Me.Label49.TabIndex = 89
-        Me.Label49.Text = "$15.50"
+        Me.Label49.Text = "$14.00"
         Me.Label49.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'HellFireDesc
@@ -721,7 +721,7 @@ Partial Class Form1
         Me.HellFireDesc.Name = "HellFireDesc"
         Me.HellFireDesc.Size = New System.Drawing.Size(487, 52)
         Me.HellFireDesc.TabIndex = 88
-        Me.HellFireDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.HellFireDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'HellFireTitl
@@ -743,7 +743,7 @@ Partial Class Form1
         Me.Label52.Name = "Label52"
         Me.Label52.Size = New System.Drawing.Size(217, 21)
         Me.Label52.TabIndex = 86
-        Me.Label52.Text = "$15.50"
+        Me.Label52.Text = "$13.50"
         Me.Label52.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'GardenDesc
@@ -754,7 +754,7 @@ Partial Class Form1
         Me.GardenDesc.Name = "GardenDesc"
         Me.GardenDesc.Size = New System.Drawing.Size(487, 37)
         Me.GardenDesc.TabIndex = 85
-        Me.GardenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.GardenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'GardenTitl
@@ -776,7 +776,7 @@ Partial Class Form1
         Me.Label55.Name = "Label55"
         Me.Label55.Size = New System.Drawing.Size(217, 21)
         Me.Label55.TabIndex = 83
-        Me.Label55.Text = "$15.50"
+        Me.Label55.Text = "$15.00"
         Me.Label55.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'SausageAndPeppersDesc
@@ -787,7 +787,7 @@ Partial Class Form1
         Me.SausageAndPeppersDesc.Name = "SausageAndPeppersDesc"
         Me.SausageAndPeppersDesc.Size = New System.Drawing.Size(487, 52)
         Me.SausageAndPeppersDesc.TabIndex = 82
-        Me.SausageAndPeppersDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.SausageAndPeppersDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SausageAndPeppersTitl
@@ -809,7 +809,7 @@ Partial Class Form1
         Me.Label58.Name = "Label58"
         Me.Label58.Size = New System.Drawing.Size(217, 21)
         Me.Label58.TabIndex = 80
-        Me.Label58.Text = "$15.50"
+        Me.Label58.Text = "$15.00"
         Me.Label58.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'EasternShoreDesc
@@ -820,7 +820,7 @@ Partial Class Form1
         Me.EasternShoreDesc.Name = "EasternShoreDesc"
         Me.EasternShoreDesc.Size = New System.Drawing.Size(487, 52)
         Me.EasternShoreDesc.TabIndex = 79
-        Me.EasternShoreDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.EasternShoreDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'EasternShoreTitl
@@ -853,7 +853,7 @@ Partial Class Form1
         Me.Label62.Name = "Label62"
         Me.Label62.Size = New System.Drawing.Size(217, 21)
         Me.Label62.TabIndex = 102
-        Me.Label62.Text = "$15.50"
+        Me.Label62.Text = "$7.00"
         Me.Label62.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'FeelingExtraSweetDesc
@@ -864,7 +864,7 @@ Partial Class Form1
         Me.FeelingExtraSweetDesc.Name = "FeelingExtraSweetDesc"
         Me.FeelingExtraSweetDesc.Size = New System.Drawing.Size(487, 52)
         Me.FeelingExtraSweetDesc.TabIndex = 101
-        Me.FeelingExtraSweetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.FeelingExtraSweetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'FeelingExtraSweetTitl
@@ -886,7 +886,7 @@ Partial Class Form1
         Me.Label65.Name = "Label65"
         Me.Label65.Size = New System.Drawing.Size(217, 21)
         Me.Label65.TabIndex = 99
-        Me.Label65.Text = "$15.50"
+        Me.Label65.Text = "$6.00"
         Me.Label65.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'FruityAndSweetTitl
@@ -908,7 +908,7 @@ Partial Class Form1
         Me.Label68.Name = "Label68"
         Me.Label68.Size = New System.Drawing.Size(217, 21)
         Me.Label68.TabIndex = 96
-        Me.Label68.Text = "$15.50"
+        Me.Label68.Text = "$6.00"
         Me.Label68.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'ChocolatelyGoodnessTitl
@@ -963,7 +963,7 @@ Partial Class Form1
         Me.Label73.Name = "Label73"
         Me.Label73.Size = New System.Drawing.Size(217, 21)
         Me.Label73.TabIndex = 113
-        Me.Label73.Text = "$15.50"
+        Me.Label73.Text = "$13.00"
         Me.Label73.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'SpicyGrilledChickenDesc
@@ -974,7 +974,7 @@ Partial Class Form1
         Me.SpicyGrilledChickenDesc.Name = "SpicyGrilledChickenDesc"
         Me.SpicyGrilledChickenDesc.Size = New System.Drawing.Size(487, 52)
         Me.SpicyGrilledChickenDesc.TabIndex = 112
-        Me.SpicyGrilledChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.SpicyGrilledChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SpicyGrilledChickenTitl
@@ -996,7 +996,7 @@ Partial Class Form1
         Me.Label76.Name = "Label76"
         Me.Label76.Size = New System.Drawing.Size(217, 21)
         Me.Label76.TabIndex = 110
-        Me.Label76.Text = "$15.50"
+        Me.Label76.Text = "$14.00"
         Me.Label76.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'BaconAndBlueDesc
@@ -1007,7 +1007,7 @@ Partial Class Form1
         Me.BaconAndBlueDesc.Name = "BaconAndBlueDesc"
         Me.BaconAndBlueDesc.Size = New System.Drawing.Size(487, 52)
         Me.BaconAndBlueDesc.TabIndex = 109
-        Me.BaconAndBlueDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.BaconAndBlueDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BaconAndBlueTitl
@@ -1029,7 +1029,7 @@ Partial Class Form1
         Me.Label79.Name = "Label79"
         Me.Label79.Size = New System.Drawing.Size(217, 21)
         Me.Label79.TabIndex = 107
-        Me.Label79.Text = "$15.50"
+        Me.Label79.Text = "$13.50"
         Me.Label79.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'CTBurgerDesc
@@ -1040,7 +1040,7 @@ Partial Class Form1
         Me.CTBurgerDesc.Name = "CTBurgerDesc"
         Me.CTBurgerDesc.Size = New System.Drawing.Size(487, 52)
         Me.CTBurgerDesc.TabIndex = 106
-        Me.CTBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.CTBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CTBurgerTitl
@@ -1073,7 +1073,7 @@ Partial Class Form1
         Me.Label83.Name = "Label83"
         Me.Label83.Size = New System.Drawing.Size(217, 21)
         Me.Label83.TabIndex = 123
-        Me.Label83.Text = "$15.50"
+        Me.Label83.Text = "$14.00"
         Me.Label83.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'DuckBLTDesc
@@ -1084,7 +1084,7 @@ Partial Class Form1
         Me.DuckBLTDesc.Name = "DuckBLTDesc"
         Me.DuckBLTDesc.Size = New System.Drawing.Size(487, 52)
         Me.DuckBLTDesc.TabIndex = 122
-        Me.DuckBLTDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.DuckBLTDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'DuckBLTTitl
@@ -1106,7 +1106,7 @@ Partial Class Form1
         Me.Label86.Name = "Label86"
         Me.Label86.Size = New System.Drawing.Size(217, 21)
         Me.Label86.TabIndex = 120
-        Me.Label86.Text = "$15.50"
+        Me.Label86.Text = "$12.00"
         Me.Label86.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'BlackBeanAndTomatoDesc
@@ -1117,7 +1117,7 @@ Partial Class Form1
         Me.BlackBeanAndTomatoDesc.Name = "BlackBeanAndTomatoDesc"
         Me.BlackBeanAndTomatoDesc.Size = New System.Drawing.Size(487, 40)
         Me.BlackBeanAndTomatoDesc.TabIndex = 119
-        Me.BlackBeanAndTomatoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.BlackBeanAndTomatoDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BlackBeanAndTomatoTitl
@@ -1139,7 +1139,7 @@ Partial Class Form1
         Me.Label89.Name = "Label89"
         Me.Label89.Size = New System.Drawing.Size(217, 21)
         Me.Label89.TabIndex = 117
-        Me.Label89.Text = "$15.50"
+        Me.Label89.Text = "$16.00"
         Me.Label89.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'SteakSandwichDesc
@@ -1150,7 +1150,7 @@ Partial Class Form1
         Me.SteakSandwichDesc.Name = "SteakSandwichDesc"
         Me.SteakSandwichDesc.Size = New System.Drawing.Size(487, 52)
         Me.SteakSandwichDesc.TabIndex = 116
-        Me.SteakSandwichDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.SteakSandwichDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SteakSandwichTitl
@@ -1172,7 +1172,7 @@ Partial Class Form1
         Me.Label92.Name = "Label92"
         Me.Label92.Size = New System.Drawing.Size(217, 21)
         Me.Label92.TabIndex = 126
-        Me.Label92.Text = "$15.50"
+        Me.Label92.Text = "$16.00"
         Me.Label92.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'ConvoyBurgerDesc
@@ -1183,7 +1183,7 @@ Partial Class Form1
         Me.ConvoyBurgerDesc.Name = "ConvoyBurgerDesc"
         Me.ConvoyBurgerDesc.Size = New System.Drawing.Size(487, 40)
         Me.ConvoyBurgerDesc.TabIndex = 125
-        Me.ConvoyBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.ConvoyBurgerDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'ConvoyBurgerTitl
@@ -1205,7 +1205,7 @@ Partial Class Form1
         Me.Label95.Name = "Label95"
         Me.Label95.Size = New System.Drawing.Size(217, 21)
         Me.Label95.TabIndex = 140
-        Me.Label95.Text = "$15.50"
+        Me.Label95.Text = "$12.00"
         Me.Label95.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'MixedBerryAndAlmondDesc
@@ -1216,7 +1216,7 @@ Partial Class Form1
         Me.MixedBerryAndAlmondDesc.Name = "MixedBerryAndAlmondDesc"
         Me.MixedBerryAndAlmondDesc.Size = New System.Drawing.Size(487, 52)
         Me.MixedBerryAndAlmondDesc.TabIndex = 139
-        Me.MixedBerryAndAlmondDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.MixedBerryAndAlmondDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'MixedBerryAndAlmondTitl
@@ -1249,7 +1249,7 @@ Partial Class Form1
         Me.Label99.Name = "Label99"
         Me.Label99.Size = New System.Drawing.Size(217, 21)
         Me.Label99.TabIndex = 136
-        Me.Label99.Text = "$15.50"
+        Me.Label99.Text = "$10.00"
         Me.Label99.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'RoastedBeetDesc
@@ -1260,7 +1260,7 @@ Partial Class Form1
         Me.RoastedBeetDesc.Name = "RoastedBeetDesc"
         Me.RoastedBeetDesc.Size = New System.Drawing.Size(487, 52)
         Me.RoastedBeetDesc.TabIndex = 135
-        Me.RoastedBeetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.RoastedBeetDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'RoastedBeetTitl
@@ -1282,7 +1282,7 @@ Partial Class Form1
         Me.Label102.Name = "Label102"
         Me.Label102.Size = New System.Drawing.Size(217, 21)
         Me.Label102.TabIndex = 133
-        Me.Label102.Text = "$15.50"
+        Me.Label102.Text = "$10.00"
         Me.Label102.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'ClassicCaesarDesc
@@ -1293,7 +1293,7 @@ Partial Class Form1
         Me.ClassicCaesarDesc.Name = "ClassicCaesarDesc"
         Me.ClassicCaesarDesc.Size = New System.Drawing.Size(487, 39)
         Me.ClassicCaesarDesc.TabIndex = 132
-        Me.ClassicCaesarDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.ClassicCaesarDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'ClassicCaesarTitl
@@ -1315,7 +1315,7 @@ Partial Class Form1
         Me.Label105.Name = "Label105"
         Me.Label105.Size = New System.Drawing.Size(217, 21)
         Me.Label105.TabIndex = 130
-        Me.Label105.Text = "$15.50"
+        Me.Label105.Text = "$14.00"
         Me.Label105.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'SweetCornAndShrimpDesc
@@ -1326,7 +1326,7 @@ Partial Class Form1
         Me.SweetCornAndShrimpDesc.Name = "SweetCornAndShrimpDesc"
         Me.SweetCornAndShrimpDesc.Size = New System.Drawing.Size(487, 52)
         Me.SweetCornAndShrimpDesc.TabIndex = 129
-        Me.SweetCornAndShrimpDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.SweetCornAndShrimpDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SweetCornAndShrimpTitl
@@ -1370,7 +1370,7 @@ Partial Class Form1
         Me.Label110.Name = "Label110"
         Me.Label110.Size = New System.Drawing.Size(217, 21)
         Me.Label110.TabIndex = 150
-        Me.Label110.Text = "$15.50"
+        Me.Label110.Text = "$5.00"
         Me.Label110.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'BucketofFriesTitl
@@ -1392,7 +1392,7 @@ Partial Class Form1
         Me.Label113.Name = "Label113"
         Me.Label113.Size = New System.Drawing.Size(217, 21)
         Me.Label113.TabIndex = 147
-        Me.Label113.Text = "$15.50"
+        Me.Label113.Text = "$7.00"
         Me.Label113.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'TabascoSlawDesc
@@ -1403,7 +1403,7 @@ Partial Class Form1
         Me.TabascoSlawDesc.Name = "TabascoSlawDesc"
         Me.TabascoSlawDesc.Size = New System.Drawing.Size(487, 35)
         Me.TabascoSlawDesc.TabIndex = 146
-        Me.TabascoSlawDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.TabascoSlawDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'TabascoSlawTitl
@@ -1425,7 +1425,7 @@ Partial Class Form1
         Me.Label116.Name = "Label116"
         Me.Label116.Size = New System.Drawing.Size(217, 21)
         Me.Label116.TabIndex = 144
-        Me.Label116.Text = "$15.50"
+        Me.Label116.Text = "$11.00"
         Me.Label116.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'CharredCornSuccotashDesc
@@ -1436,7 +1436,7 @@ Partial Class Form1
         Me.CharredCornSuccotashDesc.Name = "CharredCornSuccotashDesc"
         Me.CharredCornSuccotashDesc.Size = New System.Drawing.Size(487, 28)
         Me.CharredCornSuccotashDesc.TabIndex = 143
-        Me.CharredCornSuccotashDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.CharredCornSuccotashDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CharredCornSuccotashTitl
@@ -1469,7 +1469,7 @@ Partial Class Form1
         Me.Label120.Name = "Label120"
         Me.Label120.Size = New System.Drawing.Size(217, 21)
         Me.Label120.TabIndex = 170
-        Me.Label120.Text = "$15.50"
+        Me.Label120.Text = "$17.00"
         Me.Label120.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'SearedSalmonDesc
@@ -1480,7 +1480,7 @@ Partial Class Form1
         Me.SearedSalmonDesc.Name = "SearedSalmonDesc"
         Me.SearedSalmonDesc.Size = New System.Drawing.Size(487, 52)
         Me.SearedSalmonDesc.TabIndex = 169
-        Me.SearedSalmonDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.SearedSalmonDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'SearedSalmonTitl
@@ -1502,7 +1502,7 @@ Partial Class Form1
         Me.Label123.Name = "Label123"
         Me.Label123.Size = New System.Drawing.Size(217, 21)
         Me.Label123.TabIndex = 167
-        Me.Label123.Text = "$15.50"
+        Me.Label123.Text = "$18.00"
         Me.Label123.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'PorkDuckAndPolentaDesc
@@ -1513,7 +1513,7 @@ Partial Class Form1
         Me.PorkDuckAndPolentaDesc.Name = "PorkDuckAndPolentaDesc"
         Me.PorkDuckAndPolentaDesc.Size = New System.Drawing.Size(487, 32)
         Me.PorkDuckAndPolentaDesc.TabIndex = 166
-        Me.PorkDuckAndPolentaDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.PorkDuckAndPolentaDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'PorkDuckAndPolentaTitl
@@ -1535,7 +1535,7 @@ Partial Class Form1
         Me.Label126.Name = "Label126"
         Me.Label126.Size = New System.Drawing.Size(217, 21)
         Me.Label126.TabIndex = 164
-        Me.Label126.Text = "$15.50"
+        Me.Label126.Text = "$18.00"
         Me.Label126.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'CrabCakeAndFriedChickenDesc
@@ -1546,7 +1546,7 @@ Partial Class Form1
         Me.CrabCakeAndFriedChickenDesc.Name = "CrabCakeAndFriedChickenDesc"
         Me.CrabCakeAndFriedChickenDesc.Size = New System.Drawing.Size(487, 38)
         Me.CrabCakeAndFriedChickenDesc.TabIndex = 163
-        Me.CrabCakeAndFriedChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.CrabCakeAndFriedChickenDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'CrabCakeAndFriedChickenTitl
@@ -1568,7 +1568,7 @@ Partial Class Form1
         Me.Label129.Name = "Label129"
         Me.Label129.Size = New System.Drawing.Size(217, 21)
         Me.Label129.TabIndex = 161
-        Me.Label129.Text = "$15.50"
+        Me.Label129.Text = "$15.00"
         Me.Label129.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'BeerBatteredFishAndChipsDesc
@@ -1579,7 +1579,7 @@ Partial Class Form1
         Me.BeerBatteredFishAndChipsDesc.Name = "BeerBatteredFishAndChipsDesc"
         Me.BeerBatteredFishAndChipsDesc.Size = New System.Drawing.Size(487, 52)
         Me.BeerBatteredFishAndChipsDesc.TabIndex = 160
-        Me.BeerBatteredFishAndChipsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.BeerBatteredFishAndChipsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'BeerBatteredFishAndChipsTitl
@@ -1601,7 +1601,7 @@ Partial Class Form1
         Me.Label132.Name = "Label132"
         Me.Label132.Size = New System.Drawing.Size(217, 21)
         Me.Label132.TabIndex = 158
-        Me.Label132.Text = "$15.50"
+        Me.Label132.Text = "$16.00"
         Me.Label132.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'WhiteWineMusselsDesc
@@ -1612,7 +1612,7 @@ Partial Class Form1
         Me.WhiteWineMusselsDesc.Name = "WhiteWineMusselsDesc"
         Me.WhiteWineMusselsDesc.Size = New System.Drawing.Size(487, 52)
         Me.WhiteWineMusselsDesc.TabIndex = 157
-        Me.WhiteWineMusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.WhiteWineMusselsDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'WhiteWineMusselsTitl
@@ -1634,7 +1634,7 @@ Partial Class Form1
         Me.Label135.Name = "Label135"
         Me.Label135.Size = New System.Drawing.Size(217, 21)
         Me.Label135.TabIndex = 155
-        Me.Label135.Text = "$15.50"
+        Me.Label135.Text = "$18.00"
         Me.Label135.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'MarketSteakFritesDesc
@@ -1645,7 +1645,7 @@ Partial Class Form1
         Me.MarketSteakFritesDesc.Name = "MarketSteakFritesDesc"
         Me.MarketSteakFritesDesc.Size = New System.Drawing.Size(487, 52)
         Me.MarketSteakFritesDesc.TabIndex = 154
-        Me.MarketSteakFritesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" &
+        Me.MarketSteakFritesDesc.Text = "Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguet" & _
     "te or shoestring fries / (gluten free option) / add hell fire sauce , or bacon"
         '
         'MarketSteakFritesTitl
