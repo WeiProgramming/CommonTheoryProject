@@ -11,7 +11,7 @@ Public Class Form1
     Dim resx_cur As ResXResourceSet
     Dim resx_usa As ResXResourceSet = New ResXResourceSet("en-US.resx")
     Dim resx_mexico As ResXResourceSet = New ResXResourceSet("es-MX.resx")
-    Dim resx_france As ResXResourceSet = New ResXResourceSet("es-MX.resx")
+    Dim resx_france As ResXResourceSet = New ResXResourceSet("fr-FR.resx")
     Dim resx_china As ResXResourceSet = New ResXResourceSet("zh-CN.resx")
     Dim resx_saudi As ResXResourceSet = New ResXResourceSet("ar-SA.resx")
     Dim pfc As PrivateFontCollection = New PrivateFontCollection

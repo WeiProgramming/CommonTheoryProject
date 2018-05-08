@@ -21,3 +21,13 @@ D:\CTMenu\CommonTheoryProject\Menu\obj\Debug\Menu.vbproj.CoreCompileInputs.cache
 D:\CTMenu\CommonTheoryProject\Menu\obj\Debug\Menu.exe
 D:\CTMenu\CommonTheoryProject\Menu\obj\Debug\Menu.xml
 D:\CTMenu\CommonTheoryProject\Menu\obj\Debug\Menu.pdb
+D:\CommonTheoryProject\Menu\bin\Debug\Menu.exe.config
+D:\CommonTheoryProject\Menu\obj\Debug\Menu.exe
+D:\CommonTheoryProject\Menu\obj\Debug\Menu.xml
+D:\CommonTheoryProject\Menu\obj\Debug\Menu.pdb
+D:\CommonTheoryProject\Menu\bin\Debug\Menu.exe
+D:\CommonTheoryProject\Menu\bin\Debug\Menu.pdb
+D:\CommonTheoryProject\Menu\bin\Debug\Menu.xml
+D:\CommonTheoryProject\Menu\obj\Debug\Menu.Form1.resources
+D:\CommonTheoryProject\Menu\obj\Debug\Menu.Resources.resources
+D:\CommonTheoryProject\Menu\obj\Debug\Menu.vbproj.GenerateResource.Cache
