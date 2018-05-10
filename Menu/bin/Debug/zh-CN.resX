@@ -145,7 +145,7 @@
     <value>首发</value>
   </data>
   <data name="BeetAndWatermelonPokeTitl" xml:space="preserve">
-    <value>甜菜和西瓜 Poke </value>
+    <value>甜菜和西瓜 寿司</value>
   </data>
   <data name="BeetAndWatermelonPokeDesc" xml:space="preserve">
     <value>咸的烤甜菜 / 烤西瓜 / 亚麻籽油 / 海豆 / 洋葱 / 黄瓜 / 干海藻 / 芝麻油 / 芋头芯片 / (我们有素食选择)</value>
@@ -265,7 +265,7 @@
     <value>青菜</value>
   </data>
   <data name="GreensDesc" xml:space="preserve">
-    <value>添加蛋白质（额外费用）：烤鸡|虾|三文鱼</value>
+    <value>添加蛋白质（额外费用）：烤鸡$ 4 |虾$ 6 |三文鱼$ 7</value>
   </data>
   <data name="SweetCornAndShrimpTitl" xml:space="preserve">
     <value>甜玉米和虾</value>
@@ -316,7 +316,7 @@
     <value>汉堡和三明治</value>
   </data>
   <data name="BurgersAndSandwichesDesc" xml:space="preserve">
-    <value>额外费用：添加咸肉条|炸鸡蛋配炸薯条或kimichi凉拌卷心菜</value>
+    <value>额外费用：添加熏肉条$ 2 |炸鸡蛋1.5美元，配炸薯条或泡菜色拉</value>
   </data>
   <data name="CTBurgerTitl" xml:space="preserve">
     <value>CT汉堡包</value>
