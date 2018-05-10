@@ -118,427 +118,285 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="OurMenuTitl" xml:space="preserve">
-    <value>Nuestro menú</value>
+    <value>NUESTRO MENÚ</value>
   </data>
   <data name="DuckDuckFryTitl" xml:space="preserve">
-    <value>Pato Pato Freír</value>
+    <value>PATO PATO FREÍR</value>
   </data>
   <data name="DuckFatFriesTitl" xml:space="preserve">
-    <value>Pato Grasa Papas fritas</value>
+    <value>PATO GRASA PAPAS FRITAS</value>
   </data>
   <data name="DuckFatFriesDesc" xml:space="preserve">
     <value>Cordón de zapato Papas fritas / confit de pato rallado / cebolletas (opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="DoubleDuckFriesTitl" xml:space="preserve">
-    <value>Doble Pato Papas fritas</value>
+    <value>DOBLE PATO PAPAS FRITAS</value>
   </data>
   <data name="DoubleDuckFriesDesc" xml:space="preserve">
     <value>Cordón de zapato Papas fritas / confit de pato rallado / piel de pato crujiente / cebolletas (opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="FlockOfDuckFriesTitl" xml:space="preserve">
-    <value>Bandada de Pato Papas fritas</value>
+    <value>BANDADA DE PATO PAPAS FRITAS</value>
   </data>
   <data name="FlockOfFuckFriesDesc" xml:space="preserve">
     <value>Cordón de zapato Papas fritas / confit de pato rallado / piel de pato crujiente / salsa / huevo de pato frito / cebolletas (opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="StartersTitl" xml:space="preserve">
-    <value>Principiantes</value>
+    <value>PRINCIPIANTES</value>
   </data>
   <data name="BeetAndWatermelonPokeTitl" xml:space="preserve">
-    <value>Poke de remolacha y sandía</value>
+    <value>POKE DE REMOLACHA Y SANDÍA</value>
   </data>
   <data name="BeetAndWatermelonPokeDesc" xml:space="preserve">
     <value>Remolachas tostadas saladas / sandía tostada / aceite de semilla de lino / alubias / cebolla / pepino / nori / aceite de sésamo / virutas de taro / (opción vegana disponible)</value>
   </data>
   <data name="BuffaloCauliflowerTitl" xml:space="preserve">
-    <value>Coliflor de búfalo</value>
+    <value>COLIFLOR DE BÚFALO</value>
   </data>
   <data name="BuffaloCauliflowerDesc" xml:space="preserve">
     <value>Coliflor asada / harina de arroz / salsa de búfalo / rancho de la casa (1 medio de pimienta)</value>
   </data>
   <data name="CapreseTitl" xml:space="preserve">
-    <value>Caprese</value>
+    <value>CAPRESE</value>
   </data>
   <data name="CapreseDesc" xml:space="preserve">
     <value>Tomate maduro / mozzarella fresca / albahaca de almendra pesto / reducción de miel balsámica / aceite de ajo (opción vegetariana disponible)</value>
   </data>
   <data name="CrispyChickenWingsTitl" xml:space="preserve">
-    <value>Crujientes alitas de pollo</value>
+    <value>CRUJIENTES ALITAS DE POLLO</value>
   </data>
   <data name="CrispyChickenWingsDesc" xml:space="preserve">
     <value>Jumbo alas de pollo / sal marina / pimienta agrietada / copos de chile rojo. Elija: sal y pimienta, dulce y picante, o fuego del infierno, 2 pimientos picantes</value>
   </data>
   <data name="OGFriedBrusselsTitl" xml:space="preserve">
-    <value>OG Fried Bruselas</value>
+    <value>OG FRIED BRUSELAS</value>
   </data>
   <data name="OGFriedBrusselsDesc" xml:space="preserve">
     <value>Reducción balsámica / queso parmesano / bacan (Opción sin gluten disponible a pedido)</value>
   </data>
   <data name="BaconAndBlueBrusselsTitl" xml:space="preserve">
-    <value>Bacon y azul Bruselas</value>
+    <value>BACON Y AZUL BRUSELAS</value>
   </data>
   <data name="BaconAndBlueBrusselsDesc" xml:space="preserve">
     <value>Coles de Bruselas fritas / tocino picado / manzana granny smith / tomillo / limón / queso azul</value>
   </data>
   <data name="SweetAndSpicyPorkBellyTitl" xml:space="preserve">
-    <value>Vientre de cerdo dulce y picante</value>
+    <value>VIENTRE DE CERDO DULCE Y PICANTE</value>
   </data>
   <data name="SweetAndSpicyPorkBellyDesc" xml:space="preserve">
     <value>Vientre de cerdo asado / kimchi / salsa dulce y picante / cebolla de verdeo (1 medio de pimienta, opción sin gluten disponible a pedido)</value>
   </data>
   <data name="SaltAndPepperCrispyCalamariTitl" xml:space="preserve">
-    <value>Sal y pimienta Crispy Calamari</value>
+    <value>SAL Y PIMIENTA CRISPY CALAMARI</value>
   </data>
   <data name="SaltAndPepperCrispyCalamariDesc" xml:space="preserve">
     <value>Sal marina / pimienta agrietada / escamas de chile rojo / cebolla de verdeo (1 medio de pimienta)</value>
   </data>
   <data name="BlueCrabAndCheddarPretzelsTitl" xml:space="preserve">
-    <value>Pretzels de cangrejo azul y cheddar</value>
+    <value>PRETZELS DE CANGREJO AZUL Y CHEDDAR</value>
   </data>
   <data name="BlueCrabAndCheddarPretzelsDesc" xml:space="preserve">
     <value>Pretzel suave / cangrejo azul extendido / queso cheddar jack / antiguo condimento de la bahía / perejil fresco</value>
   </data>
   <data name="CheeseBallsTitl" xml:space="preserve">
-    <value>Bolas de queso</value>
+    <value>BOLAS DE QUESO</value>
   </data>
   <data name="CheeseBallsDesc" xml:space="preserve">
     <value>Crema de parmesano / crema / mozzarella / arrabiata (opción vegetariana disponible)</value>
   </data>
   <data name="PretzelBallsTitl" xml:space="preserve">
-    <value>Bolas de pretzel</value>
+    <value>BOLAS DE PRETZEL</value>
   </data>
   <data name="PretzelBallsDesc" xml:space="preserve">
     <value>Mostaza de cerveza / queso de cerveza (opción vegetariana disponible)</value>
   </data>
   <data name="FlatbreadsTitl" xml:space="preserve">
-    <value>Pans planos</value>
+    <value>PANS PLANOS</value>
   </data>
   <data name="EasternShoreTitl" xml:space="preserve">
-    <value>Costa oriental</value>
+    <value>COSTA ORIENTAL</value>
   </data>
   <data name="EasternShoreDesc" xml:space="preserve">
     <value>Cangrejo azul / papas sazonadas / maíz dulce / crema de cangrejo / pimiento rojo asado / piel de pollo crujiente / condimento de la bahía antigua</value>
   </data>
   <data name="SausageAndPeppersTitl" xml:space="preserve">
-    <value>Salchichas y pimientos</value>
+    <value>SALCHICHAS Y PIMIENTOS</value>
   </data>
   <data name="SausageAndPeppersDesc" xml:space="preserve">
     <value>Salchicha / pimientos rojos asados / mozzarella / salsa arrabbiata</value>
   </data>
   <data name="GardenTitl" xml:space="preserve">
-    <value>Jardín</value>
+    <value>JARDÍN</value>
   </data>
   <data name="GardenDesc" xml:space="preserve">
     <value>Caldo de maíz dulce / sriracha vinagreta de búfalo coliflor de búfalo / tomate fresco / limón / rúcula (opción vegetariana disponible)</value>
   </data>
   <data name="HellFireTitl" xml:space="preserve">
-    <value>Infierno Fuego</value>
+    <value>INFIERNO FUEGO</value>
   </data>
   <data name="HellFireDesc" xml:space="preserve">
     <value>Pollo a la parrilla / fuego infernal salsa arrabiata / jalapeño en rodajas / cebolla roja / cilantro / cheddar (2 pimientos picantes)</value>
   </data>
   <data name="TomatoAndPestoTitl" xml:space="preserve">
-    <value>Tomate y Pesto</value>
+    <value>TOMATE Y PESTO</value>
   </data>
   <data name="TomatoAndPestoDesc" xml:space="preserve">
     <value>Pesto de almendras y albahaca / tomate / mozzarella / $ 2 agregar trozos de tocino o salchichas (opción vegetariana disponible)</value>
   </data>
   <data name="SeasonalSweetsTitl" xml:space="preserve">
-    <value>Dulces de temporada</value>
+    <value>DULCES DE TEMPORADA</value>
   </data>
   <data name="SeasonalSweetsDesc" xml:space="preserve">
     <value>Nuestros postres giran según la temporada, por favor pregúntele a nuestro personal qué hay disponible.</value>
   </data>
   <data name="ChocolatelyGoodnessTitl" xml:space="preserve">
-    <value>Bondad chocolatera</value>
+    <value>BONDAD CHOCOLATERA</value>
   </data>
   <data name="FruityAndSweetTitl" xml:space="preserve">
-    <value>Afrutado y dulce</value>
+    <value>AFRUTADO Y DULCE</value>
   </data>
   <data name="FeelingExtraSweetTitl" xml:space="preserve">
-    <value>¿Tala extra dulce?</value>
+    <value>¿TALA EXTRA DULCE?</value>
   </data>
   <data name="FeelingExtraSweetDesc" xml:space="preserve">
     <value>Envíale una "cerveza" al personal de la cocina (¡utilizamos este tipo de gesto tuyo para tratar a nuestro personal de cocina para que haga algo divertido!)</value>
   </data>
   <data name="GreensTitl" xml:space="preserve">
-    <value>Verduras</value>
+    <value>VERDURAS</value>
   </data>
   <data name="GreensDesc" xml:space="preserve">
-    <value>Agregar proteína (costo adicional): pollo a la parrilla | camarones | salmón</value>
+    <value>Agregar proteína (costo adicional): pollo a la parrilla $4 | camarones $6 | salmón $7</value>
   </data>
   <data name="SweetCornAndShrimpTitl" xml:space="preserve">
-    <value>Maíz dulce y camarones</value>
+    <value>MAÍZ DULCE Y CAMARONES</value>
   </data>
   <data name="SweetCornAndShrimpDesc" xml:space="preserve">
     <value>Maíz / tocino / cebolla en escabeche / manzana / romana / camarones salteados / vinagreta de miel de sriracha</value>
   </data>
   <data name="ClassicCaesarTitl" xml:space="preserve">
-    <value>César clásico</value>
+    <value>CÉSAR CLÁSICO</value>
   </data>
   <data name="ClassicCaesarDesc" xml:space="preserve">
     <value>Corazones de Romaine / parmesano afeitado / cuscurrones de limón / ajo / aderezo de la casa (opción vegetariana disponible)</value>
   </data>
   <data name="RoastedBeetTitl" xml:space="preserve">
-    <value>Remolacha asada</value>
+    <value>REMOLACHA ASADA</value>
   </data>
   <data name="RoastedBeetDesc" xml:space="preserve">
     <value>Ensalada mixta y remolacha / remolachas saladas / vinagreta balsámica / queso azul / eneldo fresco (opción vegetariana disponible)</value>
   </data>
   <data name="MixedBerryAndAlmondTitl" xml:space="preserve">
-    <value>Mezcla de bayas y almendras</value>
+    <value>MEZCLA DE BAYAS Y ALMENDRAS</value>
   </data>
   <data name="MixedBerryAndAlmondDesc" xml:space="preserve">
     <value>Verduras mixtas / bayas de temporada / vinagreta de vainilla / almendra con especias / queso azul</value>
   </data>
   <data name="ShareableSidesTitl" xml:space="preserve">
-    <value>Laterales compartibles</value>
+    <value>LATERALES COMPARTIBLES</value>
   </data>
   <data name="ShareableSidesDesc" xml:space="preserve">
     <value>Todos los lados están libres de gluten</value>
   </data>
   <data name="CharredCornSuccotashTitl" xml:space="preserve">
-    <value>Succotash de maíz carbonizado</value>
+    <value>SUCCOTASH DE MAÍZ CARBONIZADO</value>
   </data>
   <data name="CharredCornSuccotashDesc" xml:space="preserve">
     <value>Pimiento rojo / condimento de la bahía antigua / cebolla / ajo / perejil (opción vegana disponible, opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="TabascoSlawTitl" xml:space="preserve">
-    <value>Tabasco ensalada de col</value>
+    <value>TABASCO ENSALADA DE COL</value>
   </data>
   <data name="TabascoSlawDesc" xml:space="preserve">
     <value>Aioli de lima / ajo / pickle de eneldo casero / tabasco (opción vegetariana disponible, opción sin gluten disponible bajo petición)</value>
   </data>
   <data name="BucketofFriesTitl" xml:space="preserve">
-    <value>Cubo de papas fritas</value>
+    <value>CUBO DE PAPAS FRITAS</value>
   </data>
   <data name="BurgersAndSandwichesTitl" xml:space="preserve">
-    <value>Hamburguesas y sándwiches</value>
+    <value>HAMBURGUESAS Y SÁNDWICHES</value>
   </data>
   <data name="BurgersAndSandwichesDesc" xml:space="preserve">
-    <value>Costo adicional: agregue tiras de tocino | huevo frito con papas fritas o ensalada de kimichi</value>
+    <value>Costo adicional: agregue tiras de tocino $2 | huevo frito $1.5 con papas fritas o ensalada de kimichi</value>
   </data>
   <data name="CTBurgerTitl" xml:space="preserve">
-    <value>CT Hamburguesa</value>
+    <value>CT HAMBURGUESA</value>
   </data>
   <data name="CTBurgerDesc" xml:space="preserve">
     <value>Mandril de tierra / rúcula / cebollas caramelizadas / tomates frescos / brioche de queso cheddar afilado</value>
   </data>
   <data name="BaconAndBlueTitl" xml:space="preserve">
-    <value>Tocino y azul</value>
+    <value>TOCINO Y AZUL</value>
   </data>
   <data name="BaconAndBlueDesc" xml:space="preserve">
     <value>Plato de tierra / queso azul / rodajas de manzana / tocino / ajo alioli / brioche</value>
   </data>
   <data name="SpicyGrilledChickenTitl" xml:space="preserve">
-    <value>Pollo picante a la parrilla</value>
+    <value>POLLO PICANTE A LA PARRILLA</value>
   </data>
   <data name="SpicyGrilledChickenDesc" xml:space="preserve">
     <value>Cheddar afilado / alioli de sriracha / ensalada de tabasco / brioche (1 medio de pimienta)</value>
   </data>
   <data name="SteakSandwichTitl" xml:space="preserve">
-    <value>Sándwich de carne</value>
+    <value>SÁNDWICH DE CARNE</value>
   </data>
   <data name="SteakSandwichDesc" xml:space="preserve">
     <value>Alioli de albahaca / mozzarella fresca / tomates curados al horno / rollo de sándwich italiano</value>
   </data>
   <data name="BlackBeanAndTomatoTitl" xml:space="preserve">
-    <value>Frijol negro y tomate</value>
+    <value>FRIJOL NEGRO Y TOMATE</value>
   </data>
   <data name="BlackBeanAndTomatoDesc" xml:space="preserve">
     <value>Empanada de frijol negro / confit de tomate / rúcula / pimientos asados / puré de remolacha / cebolla en escabeche / panecillo de pretzel (opción vegetariana disponible)</value>
   </data>
   <data name="DuckBLTTitl" xml:space="preserve">
-    <value>Pato BLT</value>
+    <value>PATO BLT</value>
   </data>
   <data name="DuckBLTDesc" xml:space="preserve">
     <value>Confit de pato desmenuzado / tocino / tomate / mezcla de primavera / alioli de ajo / brioche</value>
   </data>
   <data name="ConvoyBurgerTitl" xml:space="preserve">
-    <value>Convoy Hamburguesa</value>
+    <value>CONVOY HAMBURGUESA</value>
   </data>
   <data name="ConvoyBurgerDesc" xml:space="preserve">
     <value>Chuck de tierra / crema de queso scallion / kimchi / huevo frito / panceta de cerdo / salsa / bollo de fideos ramen</value>
   </data>
   <data name="MainCourseTitl" xml:space="preserve">
-    <value>Plato principal</value>
+    <value>PLATO PRINCIPAL</value>
   </data>
   <data name="MarketSteakFritesTitl" xml:space="preserve">
-    <value>Frituras de filete de mercado</value>
+    <value>FRITURAS DE FILETE DE MERCADO</value>
   </data>
   <data name="MarketSteakFritesDesc" xml:space="preserve">
     <value>Filete de mercado de la casa filete / papas fritas con poquísimo dinero / mantequilla compuesta (opción sin gluten) PRECIO MKT</value>
   </data>
   <data name="WhiteWineMusselsTitl" xml:space="preserve">
-    <value>Mejillones de vino blanco</value>
+    <value>MEJILLONES DE VINO BLANCO</value>
   </data>
   <data name="WhiteWineMusselsDesc" xml:space="preserve">
     <value>Pei mejillones frescos / ajo / chalota / vino blanco / perejil / limón / con baguette o papas fritas con poco dinero / (opción sin gluten) / agregar salsa de fuego del infierno, o tocino</value>
   </data>
   <data name="BeerBatteredFishAndChipsTitl" xml:space="preserve">
-    <value>Cerveza, estropeado, pez, y, pedacitos</value>
+    <value>CERVEZA, ESTROPEADO, PEZ, Y, PEDACITOS</value>
   </data>
   <data name="BeerBatteredFishAndChipsDesc" xml:space="preserve">
     <value>Bacalao / papas fritas / tartar de la casa</value>
   </data>
   <data name="CrabCakeAndFriedChickenTitl" xml:space="preserve">
-    <value>Pastel de cangrejo y pollo frito</value>
+    <value>PASTEL DE CANGREJO Y POLLO FRITO</value>
   </data>
   <data name="CrabCakeAndFriedChickenDesc" xml:space="preserve">
     <value>Pastel de cangrejo / muslo de pollo frito / succotash de maíz tostado / patatas de alevines / miel especiada</value>
   </data>
   <data name="PorkDuckAndPolentaTitl" xml:space="preserve">
-    <value>Cerdo, pato y polenta</value>
+    <value>CERDO, PATO Y POLENTA</value>
   </data>
   <data name="PorkDuckAndPolentaDesc" xml:space="preserve">
     <value>Vientre de cerdo crujiente / confit de pato rallado / polenta cremosa / salsa / Bruselas frita / huevo frito</value>
   </data>
   <data name="SearedSalmonTitl" xml:space="preserve">
-    <value>Salmón chamuscado</value>
+    <value>SALMÓN CHAMUSCADO</value>
   </data>
   <data name="SearedSalmonDesc" xml:space="preserve">
     <value>Especias ennegrecidas / arroz salvia / beurre blanc / cebollas verdes carbonizadas</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="greeting_picture" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        /9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsN
-        DhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQU
-        FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACWAJYDASIAAhEBAxEB/8QA
-        HwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
-        MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVW
-        V1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
-        x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQF
-        BgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
-        YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
-        hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq
-        8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDO8VfCxNQsgYxsP95evSvlP4pfDi68K6nK7NmBvmDYA59K/R7U
-        rW1W12LjgHivkn9pR7OSF7dm8sjkfLwSD0zX6bTlzOx83JcmqPkyROw5FM2+1aN1Cqv8nSoBH6VpKmaq
-        RXWOtXSVaOYMCy+4qtHb5Ndr8O/DLa1r9sjxeZbK26Q5xgDmoUeXUUpaWOp8D+CrvxFLEXieBMllkxy/
-        fBzXt/hTwr/ZrQx3EZkiaPG4djWnommpp8cRjUBiBhcY4rVvrxrK3cxAO6nnnpWMpXYoxUUXo9TtPDNu
-        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
-</value>
   </data>
 </root>
