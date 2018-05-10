@@ -1,196 +1,188 @@
-<<<<<<< HEAD
 OurMenuTitl
-<<<<<<< HEAD
-=======
-﻿OurMenuTitl
->>>>>>> 2d8874b8d76ef48e9e3697e7d17c2292993f4216
 NOTRE MENU
-=======
-Notre Menu
->>>>>>> parent of a363db3... latin language text files now display capital title strings
 DuckDuckFryTitl
-Canard Canard Frites
+CANARD CANARD FRITES
 DuckFatFriesTitl
-Graisse de Canard Frites
+GRAISSE DE CANARD FRITES
 DuckFatFriesDesc
 Pince à frites / Confit de canard râpé / Oignons verts (Option sans gluten disponible sur demande)
 DoubleDuckFriesTitl
-Double Canard Frites
+DOUBLE CANARD FRITES
 DoubleDuckFriesDesc
 Pince à frites / Confit de canard râpé / Peau de canard croustillante / Oignons verts / (Option sans gluten disponible sur demande)
 FlockOfDuckFriesTitl
-Troupeau de Canard Frites
+TROUPEAU DE CANARD FRITES
 FlockOfFuckFriesDesc
 Pince à frites / Confit de canard râpé / Peau de canard croustillant / Sauce / Oeuf de canard frit / Oignons verts
 StartersTitl
-Apéritif
+APÉRITIF
 BeetAndWatermelonPokeTitl
-Salade de Betteraves et de Pastèque
+SALADE DE BETTERAVES ET DE PASTÈQUE
 BeetAndWatermelonPokeDesc
 Betteraves rôties salées / Pastèque rôtie / Huile de lin / Haricots de mer / Oignon / Concombre / Algues nori / Huile de sésame / Chips de taro / (Option végétalienne disponible)
 BuffaloCauliflowerTitl
-Buffalo Choufleur
+BUFFALO CHOUFLEUR
 BuffaloCauliflowerDesc
 Chou-fleur rôtir / Farine de riz / buffalo sauce / house ranch (1 poivre-moyen épicé)
 CapreseTitl
-Caprese
+CAPRESE
 CapreseDesc
 Tomate mûre / Mozzarella fraîche / Pesto au basilic aux amandes / Réduction balsamique au miel / Huile d'ail (Option végétarienne disponible)
 CrispyChickenWingsTitl
-Ailes de Poulet Croustillantes
+AILES DE POULET CROUSTILLANTES
 CrispyChickenWingsDesc
 Ailes de poulet géantes / Sel de mer / Poivre concassé / Flocons de piment rouge. Choisir: Sel et poivre, doux et épicé, ou enfer feu, 2 poivrons-épicé
 OGFriedBrusselsTitl
-OG Bruxelles Frits
+OG BRUXELLES FRITS
 OGFriedBrusselsDesc
 Réduction balsamique / Parmesan / Bacon (Option sans gluten disponible sur demande)
 BaconAndBlueBrusselsTitl
-Bacon et Blue Bruxelles
+BACON ET BLUE BRUXELLES
 BaconAndBlueBrusselsDesc
 Choux de Bruxelles frits / Bacon haché / Pomme Granny Smith / Thym / Citron / Fromage bleu
 SweetAndSpicyPorkBellyTitl
-Ventre de Porc Sucré et Épicé
+VENTRE DE PORC SUCRÉ ET ÉPICÉ
 SweetAndSpicyPorkBellyDesc
 Ventre de porc rôti / Kimchi / Sauce sucrée et épicée / Oignons verts (1 poivre-moyen épicé, Option sans gluten disponible sur demande)
 SaltAndPepperCrispyCalamariTitl
-Calamars Croustillants au Sel et au Poivre
+CALAMARS CROUSTILLANTS AU SEL ET AU POIVRE
 SaltAndPepperCrispyCalamariDesc
 Sel de mer / Poivre concassé / Flocons de piment rouge / Oignons verts (1 poivre-moyen épicé)
 BlueCrabAndCheddarPretzelsTitl
-Bretzels au Crabe Bleu et au Cheddar
+BRETZELS AU CRABE BLEU ET AU CHEDDAR
 BlueCrabAndCheddarPretzelsDesc
 Bretzel doux / Tartinade de crabe bleu / Fromage cheddar jack / Old Bay assaisonnement / Persil frais
 CheeseBallsTitl
-Boules de Fromage
+BOULES DE FROMAGE
 CheeseBallsDesc
 Parmesan / Crème / Mozzarella / Arrabiata di (Option végétarienne disponible)
 PretzelBallsTitl
-Boules de Bretzel
+BOULES DE BRETZEL
 PretzelBallsDesc
 Moutarde à la bière / Fromage à la bière (Option végétarienne disponible)
 FlatbreadsTitl
-Pains Plats
+PAINS PLATS
 EasternShoreTitl
-Eastern Shore
+EASTERN SHORE
 EasternShoreDesc
 Crabe bleu / Pommes de terre assaisonnées / Le maïs sucré / Crabe à tartiner / Poivron rouge grillé / Peau de poulet croustillante / Old Bay assaisonnement
 SausageAndPeppersTitl
-Saucisse et Poivrons
+SAUCISSE ET POIVRONS
 SausageAndPeppersDesc
 Saucisse / Poivrons rouges rôtis / Mozzarella / Arrabiatta sauce
 GardenTitl
-Jardin 
+JARDIN 
 GardenDesc
 Maïs sucré carbonisé / Sriracha miel vinaigrette buffalo chou-fleur / Tomate fraîche / Cirton / Roquette (Option végétarienne disponible)
 HellFireTitl
-Hell Fire
+HELL FIRE
 HellFireDesc
 Poulet grillé / Hell fire arrabiata sauce / Jalapeno en tranches / Oignon rouge / Coriandre / Cheddar (2 poivre-épicé)
 TomatoAndPestoTitl
-Tomate et Pesto
+TOMATE ET PESTO
 TomatoAndPestoDesc
 Pesto au basilic et aux amandes / Tomate / Mozzarella / $2 ajouter des morceaux de bacon ou de la saucisse (Option végétarienne disponible)
 SeasonalSweetsTitl
-Bonbons Saisonniers
+BONBONS SAISONNIERS
 SeasonalSweetsDesc
 Nos desserts tournent en fonction des saisons, s'il vous plaît demander à notre personnel ce qui est disponible!!!
 ChocolatelyGoodnessTitl
-Bonté Chocolatée
+BONTÉ CHOCOLATÉE
 FruityAndSweetTitl
-Fruité et Sucré
+FRUITÉ ET SUCRÉ
 FeelingExtraSweetTitl
-Abattre Extra Doux?
+ABATTRE EXTRA DOUX?
 FeelingExtraSweetDesc
 Envoyer une "bière" au personnel de cuisine (nous utilisons ce genre de geste pour traiter notre personnel de cuisine!!!)
 GreensTitl
-Légumes Verts
+LÉGUMES VERTs
 GreensDesc
 Ajouter des protéines (coût supplémentaire): poulet grillé $4 | crevette $6 | saumon $7
 SweetCornAndShrimpTitl
-Maïs Sucré et Crevettes
+MAÏS SUCRÉ ET CREVETTES
 SweetCornAndShrimpDesc
 Maïs carbonisé / Bacon / Oignons Marinés / Pomme / Romaine / Crevettes Sautées / Sriracha vinaigrette au miel
 ClassicCaesarTitl
-Salade César Classique 
+SALADE CÉSAR CLASSIQUE 
 ClassicCaesarDesc
 Coeurs romaine / Parmesan rasé / Citron / Croutons à l'ail / vinaigrette (Option végétarienne disponible)
 RoastedBeetTitl
-Betterave Rôtie
+BETTERAVE RÔTIE
 RoastedBeetDesc
 Salade mélangée et betteraves / Betteraves rôties au sel / Vinaigre balsamique / Fromage bleu / Aneth frais (Option végétarienne disponible)
 MixedBerryAndAlmondTitl
-Berry Mélangé et Amande
+BERRY MÉLANGÉ ET AMANDE
 MixedBerryAndAlmondDesc
 Verts mélangés / Baies saisonnières / vinaigrette à la vanille / amande épicée / fromage bleu
 ShareableSidesTitl
-Côtés Partageables
+CÔTÉS PARTAGEABLES
 ShareableSidesDesc
 Tous les côtés sont sans gluten
 CharredCornSuccotashTitl
-Succotash de Maïs Carbonisé
+SUCCOTASH DE MAÏS CARBONISÉ
 CharredCornSuccotashDesc
 Poivron rouge / Old Bay assaisonnement / Oignon / Ail / Persil (Option végétalienne disponible, Option sans gluten disponible sur demande)
 TabascoSlawTitl
-Tabasco Slaw 
+TABASCO SLAW 
 TabascoSlawDesc
 Citron vert / Aïoli à l'ail / Cornichon à l'aneth / Tabasco (Option végétarienne disponible,Option sans gluten disponible sur demande)
 BucketofFriesTitl
-Seau de Frites
+SEAU DE FRITES
 BurgersAndSandwichesTitl
-Burgers et Sandwiches
+BURGERS ET SANDWICHES
 BurgersAndSandwichesDesc
 Coût supplémentaire: Ajouter des tranches de bacon $2 | oeuf frit $1.5 ~ avec frites ou salade de kimchi
 CTBurgerTitl
-CT Burger
+CT BURGER
 CTBurgerDesc
 Mandrin broyé / Roquette / Oignons caramélisés / Tomates fraîches / Brioche cheddar forte
 BaconAndBlueTitl
-Bacon et Bleu
+BACON ET BLEU
 BaconAndBlueDesc
 Mandrin broyé / Fromage bleu / Pomme tranchée / Bacon / Aïoli à l'ail / Brioche
 SpicyGrilledChickenTitl
-Poulet Grillé Épicé
+POULET GRILLÉ ÉPICÉ
 SpicyGrilledChickenDesc
 Cheddar fort / Sriracha aïoli / Tabasco salade / Brioche (1 poivre-moyen épicé)
 SteakSandwichTitl
-Sandwich au Bifteck
+SANDWICH AU BIFTECK
 SteakSandwichDesc
 Aioli au basilic / Mozzarella fraîche / Tomates séchées au four / Rouleau à sandwich italien
 BlackBeanAndTomatoTitl
-Haricot Noir et Tomate
+HARICOT NOIR ET TOMATE
 BlackBeanAndTomatoDesc
 Patty aux haricots noirs / Tomate confite / Roquette / Poivrons grillés / Purée de betterave / Oignons marinés / Brioche de bretzel (Option végétarienne disponible)
 DuckBLTTitl
-Canard BLT
+CANARD BLT
 DuckBLTDesc
 Confit de canard râpé / Bacon / Tomate / Mélange de printemps / Aïoli à l'ail / Brioche
 ConvoyBurgerTitl
-Convoy Burger
+CONVOY BURGER
 ConvoyBurgerDesc
 Mandrin broyé / Fromage à la crème d'échalote / Kimchi / Oeuf frit / Poitrine de porc / Sauce / Nouilles ramen brioche
 MainCourseTitl
-Plat Principal
+PLAT PRINCIPAL
 MarketSteakFritesTitl
-Marché Steak Frites
+MARCHÉ STEAK FRITES
 MarketSteakFritesDesc
 Maison coupée steak de marché / Pince à frites / Beurre composé (Option sans gluten) MKT PRICE
 WhiteWineMusselsTitl
-Moules à Vin Blanc
+MOULES À VIN BLANC
 WhiteWineMusselsDesc
 Moules Fraîches de Pei / Ail / Échalote / Vin blanc / Persil / Citron / avec de la baguette ou des frites / (Option sans gluten) / ajouter hell fire sauce, ou bacon
 BeerBatteredFishAndChipsTitl
-Bière Battue Poisson et Frites
+BIÈRE BATTUE POISSON ET FRITES
 BeerBatteredFishAndChipsDesc
 La morue / Pince à frites / Maison tartare
 CrabCakeAndFriedChickenTitl
-Gâteau au Crabe et Poulet Frit
+GÂTEAU AU CRABE ET POULET FRIT
 CrabCakeAndFriedChickenDesc
 Gâteau au crabe / Cuisse de poulet frite / Succotash de maïs grillé / Pommes de terre fingerling / Miel épicé réchauffé
 PorkDuckAndPolentaTitl
-Porc, Canard et Polenta
+PORC, CANARD ET POLENTA
 PorkDuckAndPolentaDesc
 Poitrine de porc croustillante / Confit de canard râpé / Polenta crémeuse / Sauce / Bruxelles rasé / Oeuf frit
 SearedSalmonTitl
-Saumon Poêlé
+SAUMON POÊLÉ
 SearedSalmonDesc
 Épice noircie / Riz sage / Beurre blanc / Oignons verts carbonisés
