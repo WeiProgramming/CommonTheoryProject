@@ -1,188 +1,188 @@
 OurMenuTitl
-Our Menu
+OUR MENU
 DuckDuckFryTitl
-Duck Duck Fry
+DUCK DUCK FRY
 DuckFatFriesTitl
-Duck Fat Fries
+DUCK FAT FRIES
 DuckFatFriesDesc
 Shoestring fries / shredded duck confit / scallions (gluten free option available on request)
 DoubleDuckFriesTitl
-Double Duck Fries
+DOUBLE DUCK FRIES
 DoubleDuckFriesDesc
 Shoestring fries / shredded duck confit / crispy duck skin / scallions / (gluten free option available on request)
 FlockOfDuckFriesTitl
-Flock of Duck Fries
+FLOCK OF DUCK FRIES
 FlockOfFuckFriesDesc
 Shoestring fries / shredded duck confit / crispy duck skin / gravy / fried duck egg / scallions
 StartersTitl
-Starters
+STARTERS
 BeetAndWatermelonPokeTitl
-Beet and Watermelon Poke 
+BEET AND WATERMELON POKE 
 BeetAndWatermelonPokeDesc
 Salted roasted beets / roasted watermelon / flax seed oil / sea beans / onion / cucumber / nori / sesame oil / taro chips / (Vegan option available)
 BuffaloCauliflowerTitl
-Buffalo Cauliflower
+BUFFALO CAULIFLOWER
 BuffaloCauliflowerDesc
 Roasted cauliflower / rice flour / buffalo sauce / house ranch (1 pepper-medium)
 CapreseTitl
-Caprese
+CAPRESE
 CapreseDesc
 Vine-ripe tomato / fresh mozzarella / almond basilpesto / honey balsamic reduction / garlic oil (vegetarian option available)
 CrispyChickenWingsTitl
-Crispy Chicken Wings
+CRISPY CHICKEN WINGS
 CrispyChickenWingsDesc
 Jumbo chicken wings / sea salt / cracked pepper / red chili flakes. Choose: salt & pepper, sweet & spicy, or hell fire, 2 peppers-spicy
 OGFriedBrusselsTitl
-OG Fried Brussels
+OG FRIED BRUSSELS
 OGFriedBrusselsDesc
 Balsamic reduction / parmesan cheese / bacan (Gluten free option available upon request)
 BaconAndBlueBrusselsTitl
-Bacon and Blue Brussels
+BACON AND BLUE BRUSSELS
 BaconAndBlueBrusselsDesc
 Fried brussel sprouts / chopped bacon / granny smith apple / thyme / lemon / blue cheese
 SweetAndSpicyPorkBellyTitl
-Sweet and Spicy Pork Belly
+SWEET AND SPICY PORK BELLY
 SweetAndSpicyPorkBellyDesc
 Roasted pork belly / kimchi / sweet & spicy sauce / scallions (1 pepper-medium, Gluten free option available upon request)
 SaltAndPepperCrispyCalamariTitl
-Salt and Pepper Crispy Calamari
+SALT AND PEPPER CRISPY CALAMARI
 SaltAndPepperCrispyCalamariDesc
 Sea salt / cracked pepper / red chili flakes / scallions (1 pepper-medium)
 BlueCrabAndCheddarPretzelsTitl
-Blue Crab and Cheddar Pretzels
+BLUE CRAB AND CHEDDAR PRETZELS
 BlueCrabAndCheddarPretzelsDesc
 Soft pretzel / blue crab spread / cheddar jack cheese / old bay seasoning / fresh parsley
 CheeseBallsTitl
-Cheese Balls
+CHEESE BALLS
 CheeseBallsDesc
 Parmesan / cream / mozzarella / arrabiata dip (vegetarian option available)
 PretzelBallsTitl
-Pretzel Balls
+PRETZEL BALLS
 PretzelBallsDesc
 Beer mustard / beer cheese (vegetarian option available)
 FlatbreadsTitl
-FlatBreads
+FLATBREADS
 EasternShoreTitl
-Eastern Shore
+EASTERN SHORE
 EasternShoreDesc
 Blue crab / seasoned potatoes / sweet corn / crab spread / roasted red pepper / crispy chicken skin / old bay seasoning
 SausageAndPeppersTitl
-Sausage and Peppers
+SAUSAGE AND PEPPERS
 SausageAndPeppersDesc
 Sausage / roasted red peppers / mozzarella / arrabiatta sauce
 GardenTitl
-Garden 
+GARDEN 
 GardenDesc
 Charred sweet corn / sriracha honey vinaigrette buffalo cauliflower / fresh tomato / lemon / arugula (vegetarian option available)
 HellFireTitl
-Hell Fire
+HELL FIRE
 HellFireDesc
 Grilled chicken / hell fire arrabiata sauce / sliced jalapeno / red onion / cilantro / cheddar (2 peppers-spicy)
 TomatoAndPestoTitl
-Tomato And Pesto
+TOMATO AND PESTO
 TomatoAndPestoDesc
 Almond basil pesto / tomato / mozzarella / $2 add bacon bits or sausage (vegetarian option available)
 SeasonalSweetsTitl
-Seasonal Sweets
+SEASONAL SWEETS
 SeasonalSweetsDesc
 Our desserts rotate seasonally, please ask our staff what is available!!!
 ChocolatelyGoodnessTitl
-Chocolately Goodness
+CHOCOLATELY GOODNESS
 FruityAndSweetTitl
-Fruity and Sweet
+FRUITY AND SWEET
 FeelingExtraSweetTitl
-Felling Extra Sweet?
+FELLING EXTRA SWEET?
 FeelingExtraSweetDesc
 Send a "beer" to the kitchen staff (we use this kind of gesture of yours to treat our kitchen staff to do soemthing fun!!!)
 GreensTitl
-Greens
+GREENS
 GreensDesc
 Add Protein (extra cost): grilled chicken | shrimp | salmon 
 SweetCornAndShrimpTitl
-Sweet Corn and Shrimp
+SWEET CORN AND SHRIMP
 SweetCornAndShrimpDesc
 Charred corn / bacon / pickled onion / apple / romaine / sauteed shrimp / sriracha honey vinaigrette
 ClassicCaesarTitl
-Classic Caesar 
+CLASSIC CAESAR 
 ClassicCaesarDesc
 Romaine hearts / shaved parmesan / lemon / garlic croutons / house dressing (vegetarian option available)
 RoastedBeetTitl
-Roasted Beet
+ROASTED BEET
 RoastedBeetDesc
 Mixed salad and beet greens / salt roasted beets / balsamic vinaigrette / blue cheese / fresh dill (vegetarian option available)
 MixedBerryAndAlmondTitl
-Mixed Berry and Almond
+MIXED BERRY AND ALMOND
 MixedBerryAndAlmondDesc
 Mixed greens / seasonal berries / vanilla vinaigrette / spiced almond / blue cheese
 ShareableSidesTitl
-Shareable Sides
+SHAREABLE SIDES
 ShareableSidesDesc
 All sides are gluten free
 CharredCornSuccotashTitl
-Charred Corn Succotash
+CHARRED CORN SUCCOTASH
 CharredCornSuccotashDesc
 Red pepper / old bay seasoning / onion / garlic / parsley (vegan option available, gluten free option available upon request)
 TabascoSlawTitl
-Tabasco Slaw 
+TABASCO SLAW 
 TabascoSlawDesc
 Lime / garlic aioli / house dill pickle / tabasco (vegetarian option available, gluten free option available upon request)
 BucketofFriesTitl
-Bucket of Fries
+BUCKET OF FRIES
 BurgersAndSandwichesTitl
-Burgers And Sandwiches
+BURGERS AND SANDWICHES
 BurgersAndSandwichesDesc
 Extra Cost: Add bacon strips | fried egg with fries or kimichi slaw
 CTBurgerTitl
-CT Burger
+CT BURGER
 CTBurgerDesc
 Ground chuck / arugula / caramelized onions / fresh tomatoes / sharp cheddar brioche
 BaconAndBlueTitl
-Bacon and Blue
+BACON AND BLUE
 BaconAndBlueDesc
 Ground chuck / blue cheese / sliced apple / bacon / garlic aioli / brioche
 SpicyGrilledChickenTitl
-Spicy Grilled Chicken
+SPICY GRILLED CHICKEN
 SpicyGrilledChickenDesc
 Sharp cheddar / sriracha aioli / tabasco slaw / brioche (1 pepper-medium)
 SteakSandwichTitl
-Steak Sandwich
+STEAK SANDWICH
 SteakSandwichDesc
 Basil aioli / fresh mozzarella / oven-cured tomatoes / Italian sandwich roll
 BlackBeanAndTomatoTitl
-Black Bean and Tomato
+BLACK BEAN AND TOMATO
 BlackBeanAndTomatoDesc
 Black bean patty / tomato confit / arugula / roasted peppers/ beet puree / pickled onion / pretzel bun (vegetarian option available)
 DuckBLTTitl
-Duck BLT
+DUCK BLT
 DuckBLTDesc
 Shredded duck confit / bacon / tomato / spring mix / garlic aioli / brioche
 ConvoyBurgerTitl
-Convoy Burger
+CONVOY BURGER
 ConvoyBurgerDesc
 Ground chuck / scallion cream cheese / kimchi / fried egg / pork belly / gravy / ramen noodle bun
 MainCourseTitl
-Main Course
+MAIN COURSE
 MarketSteakFritesTitl
-Market STeak Frites
+MARKET STEAK FRITES
 MarketSteakFritesDesc
 House cut market steak / shoestring fries / compound butter (glutten free option) MKT PRICE
 WhiteWineMusselsTitl
-White Wine Mussels
+WHITE WINE MUSSELS
 WhiteWineMusselsDesc
 Pei fresh mussels / garlic / shallot / white wine / parsley / lemon / with baguette or shoestring fries / (gluten free option) / add hell fire sauce, or bacon
 BeerBatteredFishAndChipsTitl
-Beer Battered Fish and Chips
+BEER BATTERED FISH AND CHIPS
 BeerBatteredFishAndChipsDesc
 Cod / shoestring fries / house tartar
 CrabCakeAndFriedChickenTitl
-Crab Cake and Fried Chicken
+CRAB CAKE AND FRIED CHICKEN
 CrabCakeAndFriedChickenDesc
 Crab cake / fried chicken thigh / roasted corn succotash / fingerling potatoes / warmed spiced honey
 PorkDuckAndPolentaTitl
-Pork, Duck & Polenta
+PORK, DUCK & POLENTA
 PorkDuckAndPolentaDesc
 Crispy pork belly / shredded duck confit / creamy polenta / gravy / shaved brussels / fried egg
 SearedSalmonTitl
-Seared Salmon
+SEARED SALMON
 SearedSalmonDesc
 Blackened spice / sage rice / beurre blanc / charred green onions
