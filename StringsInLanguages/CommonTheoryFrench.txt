@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 OurMenuTitl
+=======
+﻿OurMenuTitl
+>>>>>>> 2d8874b8d76ef48e9e3697e7d17c2292993f4216
 NOTRE MENU
 DuckDuckFryTitl
 CANARD CANARD FRITES
@@ -97,7 +101,7 @@ Envoyer une "bière" au personnel de cuisine (nous utilisons ce genre de geste p
 GreensTitl
 LÉGUMES VERTs
 GreensDesc
-Ajouter des protéines (coût supplémentaire): coût supplémentaire | crevette | saumon 
+Ajouter des protéines (coût supplémentaire): poulet grillé $4 | crevette $6 | saumon $7
 SweetCornAndShrimpTitl
 MAÏS SUCRÉ ET CREVETTES
 SweetCornAndShrimpDesc
@@ -131,7 +135,7 @@ SEAU DE FRITES
 BurgersAndSandwichesTitl
 BURGERS ET SANDWICHES
 BurgersAndSandwichesDesc
-Coût supplémentaire: Ajouter des tranches de bacon | oeuf frit avec frites ou salade de kimchi
+Coût supplémentaire: Ajouter des tranches de bacon $2 | oeuf frit $1.5 ~ avec frites ou salade de kimchi
 CTBurgerTitl
 CT BURGER
 CTBurgerDesc
