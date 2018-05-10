@@ -1,0 +1,282 @@
+OurMenuTitl
+Nuestro menú
+
+DuckDuckFryTitl
+Pato Pato Freír
+
+DuckFatFriesTitl
+Pato Grasa Papas fritas
+
+DuckFatFriesDesc
+Cordón de zapato Papas fritas / confit de pato rallado / cebolletas (opción sin gluten disponible bajo petición)
+
+DoubleDuckFriesTitl
+Doble Pato Papas fritas
+
+DoubleDuckFriesDesc
+Cordón de zapato Papas fritas / confit de pato rallado / piel de pato crujiente / cebolletas (opción sin gluten disponible bajo petición)
+
+FlockOfDuckFriesTitl
+Flock of Duck Fries
+Bandada de Pato Papas fritas
+
+FlockOfFuckFriesDesc
+Cordón de zapato Papas fritas / confit de pato rallado / piel de pato crujiente / salsa / huevo de pato frito / cebolletas (opción sin gluten disponible bajo petición)
+
+StartersTitl
+Principiantes
+
+BeetAndWatermelonPokeTitl
+Poke de remolacha y sandía
+
+BeetAndWatermelonPokeDesc
+Remolachas tostadas saladas / sandía tostada / aceite de semilla de lino / alubias / cebolla / pepino / nori / aceite de sésamo / virutas de taro / (opción vegana disponible)
+
+BuffaloCauliflowerTitl
+Coliflor de búfalo
+
+BuffaloCauliflowerDesc
+Coliflor asada / harina de arroz / salsa de búfalo / rancho de la casa (1 medio de pimienta)
+
+CapreseTitl
+Caprese
+
+CapreseDesc
+Tomate maduro / mozzarella fresca / albahaca de almendra pesto / reducción de miel balsámica / aceite de ajo (opción vegetariana disponible)
+
+CrispyChickenWingsTitl
+Crujientes alitas de pollo
+
+CrispyChickenWingsDesc
+Jumbo alas de pollo / sal marina / pimienta agrietada / copos de chile rojo. Elija: sal y pimienta, dulce y picante, o fuego del infierno, 2 pimientos picantes
+
+OGFriedBrusselsTitl
+OG Fried Bruselas
+
+OGFriedBrusselsDesc
+Reducción balsámica / queso parmesano / bacan (Opción sin gluten disponible a pedido)
+
+BaconAndBlueBrusselsTitl
+Bacon y azul Bruselas
+
+BaconAndBlueBrusselsDesc
+Coles de Bruselas fritas / tocino picado / manzana granny smith / tomillo / limón / queso azul
+
+SweetAndSpicyPorkBellyTitl
+Vientre de cerdo dulce y picante
+
+SweetAndSpicyPorkBellyDesc
+Vientre de cerdo asado / kimchi / salsa dulce y picante / cebolla de verdeo (1 medio de pimienta, opción sin gluten disponible a pedido)
+
+SaltAndPepperCrispyCalamariTitl
+Sal y pimienta Crispy Calamari
+
+SaltAndPepperCrispyCalamariDesc
+Sal marina / pimienta agrietada / escamas de chile rojo / cebolla de verdeo (1 medio de pimienta)
+
+BlueCrabAndCheddarPretzelsTitl
+Pretzels de cangrejo azul y cheddar
+
+BlueCrabAndCheddarPretzelsDesc
+Pretzel suave / cangrejo azul extendido / queso cheddar jack / antiguo condimento de la bahía / perejil fresco
+
+CheeseBallsTitl
+Bolas de queso
+
+CheeseBallsDesc
+Crema de parmesano / crema / mozzarella / arrabiata (opción vegetariana disponible)
+
+PretzelBallsTitl
+Bolas de pretzel
+
+PretzelBallsDesc
+Mostaza de cerveza / queso de cerveza (opción vegetariana disponible)
+
+FlatbreadsTitl
+Pans planos
+
+EasternShoreTitl
+Costa oriental
+
+EasternShoreDesc
+Cangrejo azul / papas sazonadas / maíz dulce / crema de cangrejo / pimiento rojo asado / piel de pollo crujiente / condimento de la bahía antigua
+
+SausageAndPeppersTitl
+Salchichas y pimientos
+
+SausageAndPeppersDesc
+Salchicha / pimientos rojos asados / mozzarella / salsa arrabbiata
+
+GardenTitl
+Jardín
+
+GardenDesc
+Caldo de maíz dulce / sriracha vinagreta de búfalo coliflor de búfalo / tomate fresco / limón / rúcula (opción vegetariana disponible)
+
+HellFireTitl
+Infierno Fuego
+
+HellFireDesc
+Pollo a la parrilla / fuego infernal salsa arrabiata / jalapeño en rodajas / cebolla roja / cilantro / cheddar (2 pimientos picantes)
+
+TomatoAndPestoTitl
+Tomate y Pesto
+
+TomatoAndPestoDesc
+Pesto de almendras y albahaca / tomate / mozzarella / $ 2 agregar trozos de tocino o salchichas (opción vegetariana disponible)
+
+SeasonalSweetsTitl
+Dulces de temporada
+
+SeasonalSweetsDesc
+Nuestros postres giran según la temporada, por favor pregúntele a nuestro personal qué hay disponible.
+
+ChocolatelyGoodnessTitl
+Bondad chocolatera
+
+FruityAndSweetTitl
+Afrutado y dulce
+
+FeelingExtraSweetTitl
+¿Tala extra dulce?
+
+FeelingExtraSweetDesc
+Envíale una "cerveza" al personal de la cocina (¡utilizamos este tipo de gesto tuyo para tratar a nuestro personal de cocina para que haga algo divertido!)
+
+GreensTitl
+Verduras
+
+GreensDesc
+Agregar proteína (costo adicional): pollo a la parrilla | camarones | salmón
+
+SweetCornAndShrimpTitl
+Maíz dulce y camarones
+
+SweetCornAndShrimpDesc
+Maíz / tocino / cebolla en escabeche / manzana / romana / camarones salteados / vinagreta de miel de sriracha
+
+ClassicCaesarTitl
+César clásico
+
+ClassicCaesarDesc
+Corazones de Romaine / parmesano afeitado / cuscurrones de limón / ajo / aderezo de la casa (opción vegetariana disponible)
+
+RoastedBeetTitl
+Remolacha asada
+
+RoastedBeetDesc
+Ensalada mixta y remolacha / remolachas saladas / vinagreta balsámica / queso azul / eneldo fresco (opción vegetariana disponible)
+
+MixedBerryAndAlmondTitl
+Mezcla de bayas y almendras
+
+MixedBerryAndAlmondDesc
+Verduras mixtas / bayas de temporada / vinagreta de vainilla / almendra con especias / queso azul
+
+ShareableSidesTitl
+Laterales compartibles
+
+ShareableSidesDesc
+Todos los lados están libres de gluten
+
+CharredCornSuccotashTitl
+Succotash de maíz carbonizado
+
+CharredCornSuccotashDesc
+Pimiento rojo / condimento de la bahía antigua / cebolla / ajo / perejil (opción vegana disponible, opción sin gluten disponible bajo petición)
+
+TabascoSlawTitl
+Tabasco ensalada de col
+
+TabascoSlawDesc
+Aioli de lima / ajo / pickle de eneldo casero / tabasco (opción vegetariana disponible, opción sin gluten disponible bajo petición)
+
+BucketofFriesTitl
+Cubo de papas fritas
+
+BurgersAndSandwichesTitl
+Hamburguesas y sándwiches
+
+BurgersAndSandwichesDesc
+Costo adicional: agregue tiras de tocino | huevo frito con papas fritas o ensalada de kimichi
+
+CTBurgerTitl
+CT Hamburguesa
+
+CTBurgerDesc
+Mandril de tierra / rúcula / cebollas caramelizadas / tomates frescos / brioche de queso cheddar afilado
+
+BaconAndBlueTitl
+Tocino y azul
+
+BaconAndBlueDesc
+Plato de tierra / queso azul / rodajas de manzana / tocino / ajo alioli / brioche
+
+SpicyGrilledChickenTitl
+Pollo picante a la parrilla
+
+SpicyGrilledChickenDesc
+Cheddar afilado / alioli de sriracha / ensalada de tabasco / brioche (1 medio de pimienta)
+
+SteakSandwichTitl
+Sándwich de carne
+
+SteakSandwichDesc
+Alioli de albahaca / mozzarella fresca / tomates curados al horno / rollo de sándwich italiano
+
+BlackBeanAndTomatoTitl
+Frijol negro y tomate
+
+BlackBeanAndTomatoDesc
+Empanada de frijol negro / confit de tomate / rúcula / pimientos asados / puré de remolacha / cebolla en escabeche / panecillo de pretzel (opción vegetariana disponible)
+
+DuckBLTTitl
+Pato BLT
+
+DuckBLTDesc
+Confit de pato desmenuzado / tocino / tomate / mezcla de primavera / alioli de ajo / brioche
+
+ConvoyBurgerTitl
+Convoy Hamburguesa
+
+ConvoyBurgerDesc
+Chuck de tierra / crema de queso scallion / kimchi / huevo frito / panceta de cerdo / salsa / bollo de fideos ramen
+
+MainCourseTitl
+Plato principal
+
+MarketSteakFritesTitl
+Frituras de filete de mercado
+
+MarketSteakFritesDesc
+Filete de mercado de la casa filete / papas fritas con poquísimo dinero / mantequilla compuesta (opción sin gluten) PRECIO MKT
+
+WhiteWineMusselsTitl
+Mejillones de vino blanco
+
+WhiteWineMusselsDesc
+Pei mejillones frescos / ajo / chalota / vino blanco / perejil / limón / con baguette o papas fritas con poco dinero / (opción sin gluten) / agregar salsa de fuego del infierno, o tocino
+
+BeerBatteredFishAndChipsTitl
+Cerveza, estropeado, pez, y, pedacitos
+
+BeerBatteredFishAndChipsDesc
+Bacalao / papas fritas / tartar de la casa
+
+CrabCakeAndFriedChickenTitl
+Pastel de cangrejo y pollo frito
+
+CrabCakeAndFriedChickenDesc
+Pastel de cangrejo / muslo de pollo frito / succotash de maíz tostado / patatas de alevines / miel especiada
+
+PorkDuckAndPolentaTitl
+Cerdo, pato y polenta
+
+PorkDuckAndPolentaDesc
+Vientre de cerdo crujiente / confit de pato rallado / polenta cremosa / salsa / Bruselas frita / huevo frito
+
+SearedSalmonTitl
+Salmón chamuscado
+
+SearedSalmonDesc
+Especias ennegrecidas / arroz salvia / beurre blanc / cebollas verdes carbonizadas
