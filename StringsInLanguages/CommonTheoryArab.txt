@@ -97,7 +97,7 @@ FeelingExtraSweetDesc
 GreensTitl
 خضرة
 GreensDesc
-إضافة بروتين (تكلفة إضافية): دجاج مشوي | الجمبري سمك السالمون
+إضافة بروتين (تكلفة إضافية): دجاج مشوي $ 4 | الروبيان $ 6 | سمك السلمون $7 دولارات
 SweetCornAndShrimpTitl
 الذرة الحلوة والروبيان
 SweetCornAndShrimpDesc
@@ -131,7 +131,7 @@ BucketofFriesTitl
 BurgersAndSandwichesTitl
 البرجر والسندويشات
 BurgersAndSandwichesDesc
-التكلفة الإضافية: إضافة شرائح لحم الخنزير المقدد بيض مقلي مع بطاطس أو كميتشي سلو
+التكلفة الإضافية: أضف شرائح لحم الخنزير المقدد $ 2 | بيض مقلي $ 1.5 مع بطاطس أو كميتشي سلو
 CTBurgerTitl
 CT برغر
 CTBurgerDesc
