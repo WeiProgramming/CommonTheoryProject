@@ -118,283 +118,283 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="OurMenuTitl" xml:space="preserve">
-    <value>Notre Menu</value>
+    <value>NOTRE MENU</value>
   </data>
   <data name="DuckDuckFryTitl" xml:space="preserve">
-    <value>Canard Canard Frites</value>
+    <value>CANARD CANARD FRITES</value>
   </data>
   <data name="DuckFatFriesTitl" xml:space="preserve">
-    <value>Graisse de Canard Frites</value>
+    <value>GRAISSE DE CANARD FRITES</value>
   </data>
   <data name="DuckFatFriesDesc" xml:space="preserve">
     <value>Pince à frites / Confit de canard râpé / Oignons verts (Option sans gluten disponible sur demande)</value>
   </data>
   <data name="DoubleDuckFriesTitl" xml:space="preserve">
-    <value>Double Canard Frites</value>
+    <value>DOUBLE CANARD FRITES</value>
   </data>
   <data name="DoubleDuckFriesDesc" xml:space="preserve">
     <value>Pince à frites / Confit de canard râpé / Peau de canard croustillante / Oignons verts / (Option sans gluten disponible sur demande)</value>
   </data>
   <data name="FlockOfDuckFriesTitl" xml:space="preserve">
-    <value>Troupeau de Canard Frites</value>
+    <value>TROUPEAU DE CANARD FRITES</value>
   </data>
   <data name="FlockOfFuckFriesDesc" xml:space="preserve">
     <value>Pince à frites / Confit de canard râpé / Peau de canard croustillant / Sauce / Oeuf de canard frit / Oignons verts</value>
   </data>
   <data name="StartersTitl" xml:space="preserve">
-    <value>Apéritif</value>
+    <value>APÉRITIF</value>
   </data>
   <data name="BeetAndWatermelonPokeTitl" xml:space="preserve">
-    <value>Salade de Betteraves et de Pastèque</value>
+    <value>SALADE DE BETTERAVES ET DE PASTÈQUE</value>
   </data>
   <data name="BeetAndWatermelonPokeDesc" xml:space="preserve">
     <value>Betteraves rôties salées / Pastèque rôtie / Huile de lin / Haricots de mer / Oignon / Concombre / Algues nori / Huile de sésame / Chips de taro / (Option végétalienne disponible)</value>
   </data>
   <data name="BuffaloCauliflowerTitl" xml:space="preserve">
-    <value>Buffalo Choufleur</value>
+    <value>BUFFALO CHOUFLEUR</value>
   </data>
   <data name="BuffaloCauliflowerDesc" xml:space="preserve">
     <value>Chou-fleur rôtir / Farine de riz / buffalo sauce / house ranch (1 poivre-moyen épicé)</value>
   </data>
   <data name="CapreseTitl" xml:space="preserve">
-    <value>Caprese</value>
+    <value>CAPRESE</value>
   </data>
   <data name="CapreseDesc" xml:space="preserve">
     <value>Tomate mûre / Mozzarella fraîche / Pesto au basilic aux amandes / Réduction balsamique au miel / Huile d'ail (Option végétarienne disponible)</value>
   </data>
   <data name="CrispyChickenWingsTitl" xml:space="preserve">
-    <value>Ailes de Poulet Croustillantes</value>
+    <value>AILES DE POULET CROUSTILLANTES</value>
   </data>
   <data name="CrispyChickenWingsDesc" xml:space="preserve">
     <value>Ailes de poulet géantes / Sel de mer / Poivre concassé / Flocons de piment rouge. Choisir: Sel et poivre, doux et épicé, ou enfer feu, 2 poivrons-épicé</value>
   </data>
   <data name="OGFriedBrusselsTitl" xml:space="preserve">
-    <value>OG Bruxelles Frits</value>
+    <value>OG BRUXELLES FRITS</value>
   </data>
   <data name="OGFriedBrusselsDesc" xml:space="preserve">
     <value>Réduction balsamique / Parmesan / Bacon (Option sans gluten disponible sur demande)</value>
   </data>
   <data name="BaconAndBlueBrusselsTitl" xml:space="preserve">
-    <value>Bacon et Blue Bruxelles</value>
+    <value>BACON ET BLUE BRUXELLES</value>
   </data>
   <data name="BaconAndBlueBrusselsDesc" xml:space="preserve">
     <value>Choux de Bruxelles frits / Bacon haché / Pomme Granny Smith / Thym / Citron / Fromage bleu</value>
   </data>
   <data name="SweetAndSpicyPorkBellyTitl" xml:space="preserve">
-    <value>Ventre de Porc Sucré et Épicé</value>
+    <value>VENTRE DE PORC SUCRÉ ET ÉPICÉ</value>
   </data>
   <data name="SweetAndSpicyPorkBellyDesc" xml:space="preserve">
     <value>Ventre de porc rôti / Kimchi / Sauce sucrée et épicée / Oignons verts (1 poivre-moyen épicé, Option sans gluten disponible sur demande)</value>
   </data>
   <data name="SaltAndPepperCrispyCalamariTitl" xml:space="preserve">
-    <value>Calamars Croustillants au Sel et au Poivre</value>
+    <value>CALAMARS CROUSTILLANTS AU SEL ET AU POIVRE</value>
   </data>
   <data name="SaltAndPepperCrispyCalamariDesc" xml:space="preserve">
     <value>Sel de mer / Poivre concassé / Flocons de piment rouge / Oignons verts (1 poivre-moyen épicé)</value>
   </data>
   <data name="BlueCrabAndCheddarPretzelsTitl" xml:space="preserve">
-    <value>Bretzels au Crabe Bleu et au Cheddar</value>
+    <value>BRETZELS AU CRABE BLEU ET AU CHEDDAR</value>
   </data>
   <data name="BlueCrabAndCheddarPretzelsDesc" xml:space="preserve">
     <value>Bretzel doux / Tartinade de crabe bleu / Fromage cheddar jack / Old Bay assaisonnement / Persil frais</value>
   </data>
   <data name="CheeseBallsTitl" xml:space="preserve">
-    <value>Boules de Fromage</value>
+    <value>BOULES DE FROMAGE</value>
   </data>
   <data name="CheeseBallsDesc" xml:space="preserve">
     <value>Parmesan / Crème / Mozzarella / Arrabiata di (Option végétarienne disponible)</value>
   </data>
   <data name="PretzelBallsTitl" xml:space="preserve">
-    <value>Boules de Bretzel</value>
+    <value>BOULES DE BRETZEL</value>
   </data>
   <data name="PretzelBallsDesc" xml:space="preserve">
     <value>Moutarde à la bière / Fromage à la bière (Option végétarienne disponible)</value>
   </data>
   <data name="FlatbreadsTitl" xml:space="preserve">
-    <value>Pains Plats</value>
+    <value>PAINS PLATS</value>
   </data>
   <data name="EasternShoreTitl" xml:space="preserve">
-    <value>Eastern Shore</value>
+    <value>EASTERN SHORE</value>
   </data>
   <data name="EasternShoreDesc" xml:space="preserve">
     <value>Crabe bleu / Pommes de terre assaisonnées / Le maïs sucré / Crabe à tartiner / Poivron rouge grillé / Peau de poulet croustillante / Old Bay assaisonnement</value>
   </data>
   <data name="SausageAndPeppersTitl" xml:space="preserve">
-    <value>Saucisse et Poivrons</value>
+    <value>SAUCISSE ET POIVRONS</value>
   </data>
   <data name="SausageAndPeppersDesc" xml:space="preserve">
     <value>Saucisse / Poivrons rouges rôtis / Mozzarella / Arrabiatta sauce</value>
   </data>
   <data name="GardenTitl" xml:space="preserve">
-    <value>Jardin </value>
+    <value>JARDIN </value>
   </data>
   <data name="GardenDesc" xml:space="preserve">
     <value>Maïs sucré carbonisé / Sriracha miel vinaigrette buffalo chou-fleur / Tomate fraîche / Cirton / Roquette (Option végétarienne disponible)</value>
   </data>
   <data name="HellFireTitl" xml:space="preserve">
-    <value>Hell Fire</value>
+    <value>HELL FIRE</value>
   </data>
   <data name="HellFireDesc" xml:space="preserve">
     <value>Poulet grillé / Hell fire arrabiata sauce / Jalapeno en tranches / Oignon rouge / Coriandre / Cheddar (2 poivre-épicé)</value>
   </data>
   <data name="TomatoAndPestoTitl" xml:space="preserve">
-    <value>Tomate et Pesto</value>
+    <value>TOMATE ET PESTO</value>
   </data>
   <data name="TomatoAndPestoDesc" xml:space="preserve">
     <value>Pesto au basilic et aux amandes / Tomate / Mozzarella / $2 ajouter des morceaux de bacon ou de la saucisse (Option végétarienne disponible)</value>
   </data>
   <data name="SeasonalSweetsTitl" xml:space="preserve">
-    <value>Bonbons Saisonniers</value>
+    <value>BONBONS SAISONNIERS</value>
   </data>
   <data name="SeasonalSweetsDesc" xml:space="preserve">
     <value>Nos desserts tournent en fonction des saisons, s'il vous plaît demander à notre personnel ce qui est disponible!!!</value>
   </data>
   <data name="ChocolatelyGoodnessTitl" xml:space="preserve">
-    <value>Bonté Chocolatée</value>
+    <value>BONTÉ CHOCOLATÉE</value>
   </data>
   <data name="FruityAndSweetTitl" xml:space="preserve">
-    <value>Fruité et Sucré</value>
+    <value>FRUITÉ ET SUCRÉ</value>
   </data>
   <data name="FeelingExtraSweetTitl" xml:space="preserve">
-    <value>Abattre Extra Doux?</value>
+    <value>ABATTRE EXTRA DOUX?</value>
   </data>
   <data name="FeelingExtraSweetDesc" xml:space="preserve">
     <value>Envoyer une "bière" au personnel de cuisine (nous utilisons ce genre de geste pour traiter notre personnel de cuisine!!!)</value>
   </data>
   <data name="GreensTitl" xml:space="preserve">
-    <value>Légumes Verts</value>
+    <value>LÉGUMES VERTs</value>
   </data>
   <data name="GreensDesc" xml:space="preserve">
-    <value>Ajouter des protéines (coût supplémentaire): coût supplémentaire | crevette | saumon </value>
+    <value>Ajouter des protéines (coût supplémentaire): poulet grillé $4 | crevette $6 | saumon $7</value>
   </data>
   <data name="SweetCornAndShrimpTitl" xml:space="preserve">
-    <value>Maïs Sucré et Crevettes</value>
+    <value>MAÏS SUCRÉ ET CREVETTES</value>
   </data>
   <data name="SweetCornAndShrimpDesc" xml:space="preserve">
     <value>Maïs carbonisé / Bacon / Oignons Marinés / Pomme / Romaine / Crevettes Sautées / Sriracha vinaigrette au miel</value>
   </data>
   <data name="ClassicCaesarTitl" xml:space="preserve">
-    <value>Salade César Classique </value>
+    <value>SALADE CÉSAR CLASSIQUE </value>
   </data>
   <data name="ClassicCaesarDesc" xml:space="preserve">
     <value>Coeurs romaine / Parmesan rasé / Citron / Croutons à l'ail / vinaigrette (Option végétarienne disponible)</value>
   </data>
   <data name="RoastedBeetTitl" xml:space="preserve">
-    <value>Betterave Rôtie</value>
+    <value>BETTERAVE RÔTIE</value>
   </data>
   <data name="RoastedBeetDesc" xml:space="preserve">
     <value>Salade mélangée et betteraves / Betteraves rôties au sel / Vinaigre balsamique / Fromage bleu / Aneth frais (Option végétarienne disponible)</value>
   </data>
   <data name="MixedBerryAndAlmondTitl" xml:space="preserve">
-    <value>Berry Mélangé et Amande</value>
+    <value>BERRY MÉLANGÉ ET AMANDE</value>
   </data>
   <data name="MixedBerryAndAlmondDesc" xml:space="preserve">
     <value>Verts mélangés / Baies saisonnières / vinaigrette à la vanille / amande épicée / fromage bleu</value>
   </data>
   <data name="ShareableSidesTitl" xml:space="preserve">
-    <value>Côtés Partageables</value>
+    <value>CÔTÉS PARTAGEABLES</value>
   </data>
   <data name="ShareableSidesDesc" xml:space="preserve">
     <value>Tous les côtés sont sans gluten</value>
   </data>
   <data name="CharredCornSuccotashTitl" xml:space="preserve">
-    <value>Succotash de Maïs Carbonisé</value>
+    <value>SUCCOTASH DE MAÏS CARBONISÉ</value>
   </data>
   <data name="CharredCornSuccotashDesc" xml:space="preserve">
     <value>Poivron rouge / Old Bay assaisonnement / Oignon / Ail / Persil (Option végétalienne disponible, Option sans gluten disponible sur demande)</value>
   </data>
   <data name="TabascoSlawTitl" xml:space="preserve">
-    <value>Tabasco Slaw </value>
+    <value>TABASCO SLAW </value>
   </data>
   <data name="TabascoSlawDesc" xml:space="preserve">
     <value>Citron vert / Aïoli à l'ail / Cornichon à l'aneth / Tabasco (Option végétarienne disponible,Option sans gluten disponible sur demande)</value>
   </data>
   <data name="BucketofFriesTitl" xml:space="preserve">
-    <value>Seau de Frites</value>
+    <value>SEAU DE FRITES</value>
   </data>
   <data name="BurgersAndSandwichesTitl" xml:space="preserve">
-    <value>Burgers et Sandwiches</value>
+    <value>BURGERS ET SANDWICHES</value>
   </data>
   <data name="BurgersAndSandwichesDesc" xml:space="preserve">
-    <value>Coût supplémentaire: Ajouter des tranches de bacon | oeuf frit avec frites ou salade de kimchi</value>
+    <value>Coût supplémentaire: Ajouter des tranches de bacon $2 | oeuf frit $1.5 ~ avec frites ou salade de kimchi</value>
   </data>
   <data name="CTBurgerTitl" xml:space="preserve">
-    <value>CT Burger</value>
+    <value>CT BURGER</value>
   </data>
   <data name="CTBurgerDesc" xml:space="preserve">
     <value>Mandrin broyé / Roquette / Oignons caramélisés / Tomates fraîches / Brioche cheddar forte</value>
   </data>
   <data name="BaconAndBlueTitl" xml:space="preserve">
-    <value>Bacon et Bleu</value>
+    <value>BACON ET BLEU</value>
   </data>
   <data name="BaconAndBlueDesc" xml:space="preserve">
     <value>Mandrin broyé / Fromage bleu / Pomme tranchée / Bacon / Aïoli à l'ail / Brioche</value>
   </data>
   <data name="SpicyGrilledChickenTitl" xml:space="preserve">
-    <value>Poulet Grillé Épicé</value>
+    <value>POULET GRILLÉ ÉPICÉ</value>
   </data>
   <data name="SpicyGrilledChickenDesc" xml:space="preserve">
     <value>Cheddar fort / Sriracha aïoli / Tabasco salade / Brioche (1 poivre-moyen épicé)</value>
   </data>
   <data name="SteakSandwichTitl" xml:space="preserve">
-    <value>Sandwich au Bifteck</value>
+    <value>SANDWICH AU BIFTECK</value>
   </data>
   <data name="SteakSandwichDesc" xml:space="preserve">
     <value>Aioli au basilic / Mozzarella fraîche / Tomates séchées au four / Rouleau à sandwich italien</value>
   </data>
   <data name="BlackBeanAndTomatoTitl" xml:space="preserve">
-    <value>Haricot Noir et Tomate</value>
+    <value>HARICOT NOIR ET TOMATE</value>
   </data>
   <data name="BlackBeanAndTomatoDesc" xml:space="preserve">
     <value>Patty aux haricots noirs / Tomate confite / Roquette / Poivrons grillés / Purée de betterave / Oignons marinés / Brioche de bretzel (Option végétarienne disponible)</value>
   </data>
   <data name="DuckBLTTitl" xml:space="preserve">
-    <value>Canard BLT</value>
+    <value>CANARD BLT</value>
   </data>
   <data name="DuckBLTDesc" xml:space="preserve">
     <value>Confit de canard râpé / Bacon / Tomate / Mélange de printemps / Aïoli à l'ail / Brioche</value>
   </data>
   <data name="ConvoyBurgerTitl" xml:space="preserve">
-    <value>Convoy Burger</value>
+    <value>CONVOY BURGER</value>
   </data>
   <data name="ConvoyBurgerDesc" xml:space="preserve">
     <value>Mandrin broyé / Fromage à la crème d'échalote / Kimchi / Oeuf frit / Poitrine de porc / Sauce / Nouilles ramen brioche</value>
   </data>
   <data name="MainCourseTitl" xml:space="preserve">
-    <value>Plat Principal</value>
+    <value>PLAT PRINCIPAL</value>
   </data>
   <data name="MarketSteakFritesTitl" xml:space="preserve">
-    <value>Marché Steak Frites</value>
+    <value>MARCHÉ STEAK FRITES</value>
   </data>
   <data name="MarketSteakFritesDesc" xml:space="preserve">
     <value>Maison coupée steak de marché / Pince à frites / Beurre composé (Option sans gluten) MKT PRICE</value>
   </data>
   <data name="WhiteWineMusselsTitl" xml:space="preserve">
-    <value>Moules à Vin Blanc</value>
+    <value>MOULES À VIN BLANC</value>
   </data>
   <data name="WhiteWineMusselsDesc" xml:space="preserve">
     <value>Moules Fraîches de Pei / Ail / Échalote / Vin blanc / Persil / Citron / avec de la baguette ou des frites / (Option sans gluten) / ajouter hell fire sauce, ou bacon</value>
   </data>
   <data name="BeerBatteredFishAndChipsTitl" xml:space="preserve">
-    <value>Bière Battue Poisson et Frites</value>
+    <value>BIÈRE BATTUE POISSON ET FRITES</value>
   </data>
   <data name="BeerBatteredFishAndChipsDesc" xml:space="preserve">
     <value>La morue / Pince à frites / Maison tartare</value>
   </data>
   <data name="CrabCakeAndFriedChickenTitl" xml:space="preserve">
-    <value>Gâteau au Crabe et Poulet Frit</value>
+    <value>GÂTEAU AU CRABE ET POULET FRIT</value>
   </data>
   <data name="CrabCakeAndFriedChickenDesc" xml:space="preserve">
     <value>Gâteau au crabe / Cuisse de poulet frite / Succotash de maïs grillé / Pommes de terre fingerling / Miel épicé réchauffé</value>
   </data>
   <data name="PorkDuckAndPolentaTitl" xml:space="preserve">
-    <value>Porc, Canard et Polenta</value>
+    <value>PORC, CANARD ET POLENTA</value>
   </data>
   <data name="PorkDuckAndPolentaDesc" xml:space="preserve">
     <value>Poitrine de porc croustillante / Confit de canard râpé / Polenta crémeuse / Sauce / Bruxelles rasé / Oeuf frit</value>
   </data>
   <data name="SearedSalmonTitl" xml:space="preserve">
-    <value>Saumon Poêlé</value>
+    <value>SAUMON POÊLÉ</value>
   </data>
   <data name="SearedSalmonDesc" xml:space="preserve">
     <value>Épice noircie / Riz sage / Beurre blanc / Oignons verts carbonisés</value>

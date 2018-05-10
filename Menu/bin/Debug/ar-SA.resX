@@ -229,7 +229,7 @@
     <value>حديقة</value>
   </data>
   <data name="GardenDesc" xml:space="preserve">
-    <value>مشوي الذرة الحلوة / سريراتشا العسل vinaigrette الجاموس القرنبيط / الطماطم الطازجة / الليمون / arugula (خيار نباتي متاح)</value>
+    <value>مشوي الذرة الحلوة / سريراتشا العسل vinaigrette الجاموس القرنبيط / الطماطم الطازجة / الليمون / جِرْجير (خيار نباتي متاح)</value>
   </data>
   <data name="HellFireTitl" xml:space="preserve">
     <value>نار الجحيم</value>
@@ -265,7 +265,7 @@
     <value>خضرة</value>
   </data>
   <data name="GreensDesc" xml:space="preserve">
-    <value>إضافة بروتين (تكلفة إضافية): دجاج مشوي | الجمبري سمك السالمون</value>
+    <value>إضافة بروتين (تكلفة إضافية): دجاج مشوي $ 4 | الروبيان $ 6 | سمك السلمون $7 دولارات</value>
   </data>
   <data name="SweetCornAndShrimpTitl" xml:space="preserve">
     <value>الذرة الحلوة والروبيان</value>
@@ -316,13 +316,13 @@
     <value>البرجر والسندويشات</value>
   </data>
   <data name="BurgersAndSandwichesDesc" xml:space="preserve">
-    <value>التكلفة الإضافية: إضافة شرائح لحم الخنزير المقدد بيض مقلي مع بطاطس أو كميتشي سلو</value>
+    <value>التكلفة الإضافية: أضف شرائح لحم الخنزير المقدد $ 2 | بيض مقلي $ 1.5 مع بطاطس أو كميتشي سلو</value>
   </data>
   <data name="CTBurgerTitl" xml:space="preserve">
     <value>CT برغر</value>
   </data>
   <data name="CTBurgerDesc" xml:space="preserve">
-    <value>ظرف الأرض / arugula / البصل بالكراميل / الطماطم الطازجة / بريوش شيدر حاد</value>
+    <value>ظرف الأرض / جِرْجير / البصل بالكراميل / الطماطم الطازجة / بريوش شيدر حاد</value>
   </data>
   <data name="BaconAndBlueTitl" xml:space="preserve">
     <value>لحم الخنزير المقدد والأزرق</value>
