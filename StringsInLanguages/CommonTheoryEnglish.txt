@@ -131,7 +131,7 @@ BUCKET OF FRIES
 BurgersAndSandwichesTitl
 BURGERS AND SANDWICHES
 BurgersAndSandwichesDesc
-Extra Cost: Add bacon strips $2 | fried egg $1.5 with fries or kimichi slaw
+Extra Cost: Add bacon strips $2 | fried egg $1.5 with fries or kimchi slaw
 CTBurgerTitl
 CT BURGER
 CTBurgerDesc

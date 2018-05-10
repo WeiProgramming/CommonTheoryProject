@@ -97,7 +97,7 @@ FeelingExtraSweetDesc
 GreensTitl
 青菜
 GreensDesc
-添加蛋白质（额外费用）：烤鸡|虾|三文鱼
+添加蛋白质（额外费用）：烤鸡$ 4 |虾$ 6 |三文鱼$ 7
 SweetCornAndShrimpTitl
 甜玉米和虾
 SweetCornAndShrimpDesc
@@ -131,7 +131,7 @@ BucketofFriesTitl
 BurgersAndSandwichesTitl
 汉堡和三明治
 BurgersAndSandwichesDesc
-额外费用：添加咸肉条|炸鸡蛋配炸薯条或kimichi凉拌卷心菜
+额外费用：添加熏肉条$ 2 |炸鸡蛋1.5美元，配炸薯条或泡菜色拉
 CTBurgerTitl
 CT汉堡包
 CTBurgerDesc
