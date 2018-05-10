@@ -73,7 +73,7 @@ SausageAndPeppersDesc
 GardenTitl
 حديقة
 GardenDesc
-مشوي الذرة الحلوة / سريراتشا العسل vinaigrette الجاموس القرنبيط / الطماطم الطازجة / الليمون / arugula (خيار نباتي متاح)
+مشوي الذرة الحلوة / سريراتشا العسل vinaigrette الجاموس القرنبيط / الطماطم الطازجة / الليمون / جِرْجير (خيار نباتي متاح)
 HellFireTitl
 نار الجحيم
 HellFireDesc
@@ -135,7 +135,7 @@ BurgersAndSandwichesDesc
 CTBurgerTitl
 CT برغر
 CTBurgerDesc
-ظرف الأرض / arugula / البصل بالكراميل / الطماطم الطازجة / بريوش شيدر حاد
+ظرف الأرض / جِرْجير / البصل بالكراميل / الطماطم الطازجة / بريوش شيدر حاد
 BaconAndBlueTitl
 لحم الخنزير المقدد والأزرق
 BaconAndBlueDesc
